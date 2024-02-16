@@ -1,20 +1,20 @@
-Index,Prompt 1
-0,70
-1,50
-2,50
-3,50
-4,0
-5,50
-6,0
-7,70
-8,0
-9,100
-10,50
-11,0
-12,50
-13,0
-14,50
-15,60
+Index,Prompt 1,True Label
+0,70,false
+1,50,partly true/misleading
+2,50,partly true/misleading
+3,50,true
+4,0,false
+5,50,mostly true
+6,0,true
+7,70,mostly true
+8,0,partly true/misleading
+9,100,false
+10,50,mostly false
+11,0,false
+12,50,partly true/misleading
+13,0,true
+14,50,partly true/misleading
+15,60,true
 16,
 17,
 18,
