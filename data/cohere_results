@@ -1,0 +1,69 @@
+cohere_resp,index,label,simple_truth,cohere_simple,language,match,understood
+52.5,0,false,false,true,tr,0,1
+"I am sorry, I am unable to rate the truthfulness of the statement as it is not clear to me what the statement is referring to. If you would like to provide additional context or clarify the statement, please let me know and I will be happy to assist you to the best of my abilities.",1,partly true/misleading,false,unknown,ka,0,0
+85,2,partly true/misleading,false,true,pt,0,1
+85,3,true,true,true,ka,1,1
+15,4,false,false,false,id,1,1
+85,5,mostly true,true,true,pt,1,1
+85,6,true,true,true,sr,1,1
+25,7,mostly true,true,false,it,0,1
+30,8,partly true/misleading,false,false,id,1,1
+75,9,false,false,true,id,0,1
+50,10,mostly false,false,false,de,1,1
+10,11,false,false,false,pt,1,1
+"This statement has a truthfulness score of 20. Although the legend of Meşterului Manole has been published and taught for many years, there are several modern critics who believe that the story is not applicable in modern times. The legend's application is ambiguous and should be taken with a grain of salt, as it differs from the story's presumed historical truth. Moreover, it is unclear whether the story was meant to be taken literally. Some elements of the story, such as Manole's attempt to fly off the roof with wooden wings, are clearly symbolic.
+The story of Meşterul Manole has been passed down for generations and has been a fundamental part of Romanian folk literature for a long time, as many people are familiar with and appreciate the legend for its captivating and beautiful stories. 
+Let me know if you would like to hear more about the legend of Meşterului Manole.",12,partly true/misleading,false,unknown,ro,0,0
+"This statement is mostly true, however it omitts several important details and arguably relevant context, so I give it a score of 80. 
+
+Here is why:
+The statement does not specify the time period being referred to. In 2023, Turkey's agricultural exports may be higher or lower than 45% of countries. Therefore the statement is true but lacks clarity.
+
+Also the agricultural products being exported and the countries they are exported to also matter. Turkey's top export markets are the EU and the United States, to which Turkey exports dried fruit and nuts, cotton, and tobacco. Another major export market is the Middle East, which buys fresh fruit, vegetables, and meats from Turkey.
+
+I also note that the statement does not refer to a specific, definitive list of top 45 countries - what constitutes ""top"" can be interpreted various ways and the statement does not address the methodology and criteria used to generate the list.",13,true,true,unknown,tr,0,0
+65,14,partly true/misleading,false,true,ta,0,1
+"80 proc. poznaniaków to wierzący katolicy is mostly false, with a score of 10.
+According to Institute of Statistics of the Catholic Church, 80% of Poles are Catholics, but less than 39% regularly attend Mass and declared themselves as Catholics.",15,true,true,unknown,pl,0,0
+85,16,mostly false,false,true,tr,0,1
+10,17,false,false,false,de,1,1
+25,18,mostly true,true,false,ka,0,1
+52,19,false,false,true,sr,0,1
+85,20,mostly true,true,true,pt,1,1
+"I'm afraid I'm unable to provide a numerical score as you asked, because the statement is not true. 
+
+All the sources I could find referencing the claim that mentions a location state the location as Purwokerto, however, they all refer to different instances. One points to an event that occurred on June 26, 2018, another to an event that occurred on June 24, 2020, and the last one without a date references a claim regarding the largest religion in the world without any further context.",21,partly true/misleading,false,unknown,id,0,0
+12,22,false,false,false,pt,1,1
+52,23,false,false,true,sr,0,1
+"The statement is mostly true, however, Turkey did send military advisors to aid Azerbaijan in the Nagorno-Karabakh region, though they opposed intervention due to the potential for triggering a greater Muslim-Christian conflict. 
+
+I give this statement a score of 80.",24,true,true,unknown,ka,0,0
+"0
+
+The statement is false. There were no explosions at Kerala airport recently, but there was an incident of self-immolation by a man at Kannur airport, Kerala in 2019 that was shared as a power bank explosion. Further, I also found records of a 2023 bombing incident in Kerala, would you like more information on this?
+
+Is there anything else I can help you with?",25,partly true/misleading,false,unknown,hi,0,0
+30,26,false,false,false,ta,1,1
+0,27,partly true/misleading,false,false,id,1,1
+78,28,partly true/misleading,false,true,ka,0,1
+83,29,mostly true,true,true,tr,1,1
+92,30,false,false,true,id,0,1
+85,31,partly true/misleading,false,true,pt,0,1
+85,32,partly true/misleading,false,true,ar,0,1
+"The statement reflects a drop in indices of criminality in Brazil in 2021 compared to 2020, as homicide rates are down 7% across the country. This drop is most evident in the northern region of the country, where the homicide rate has decreased by 10%. Therefore, the statement is mostly true, and I give it a score of 80.",33,partly true/misleading,false,unknown,pt,0,0
+92,34,true,true,true,pt,1,1
+83,35,true,true,true,ka,1,1
+92,36,true,true,true,pl,1,1
+52,37,true,true,true,pt,1,1
+25,38,partly true/misleading,false,false,pt,1,1
+80,39,partly true/misleading,false,true,id,0,1
+0,40,false,false,false,id,1,1
+50,41,partly true/misleading,false,false,ar,1,1
+80,42,true,true,true,pl,1,1
+92,43,true,true,true,tr,1,1
+60,44,false,false,true,de,0,1
+68,45,false,false,true,pt,0,1
+60,46,true,true,true,pt,1,1
+80,47,mostly true,true,true,it,1,1
+12,48,false,false,false,ta,1,1
+85,49,false,false,true,pt,0,1
