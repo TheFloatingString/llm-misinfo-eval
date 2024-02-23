@@ -1,69 +1,1257 @@
-cohere_resp,index,label,simple_truth,cohere_simple,language,match,understood
-52.5,0,false,false,true,tr,0,1
-"I am sorry, I am unable to rate the truthfulness of the statement as it is not clear to me what the statement is referring to. If you would like to provide additional context or clarify the statement, please let me know and I will be happy to assist you to the best of my abilities.",1,partly true/misleading,false,unknown,ka,0,0
-85,2,partly true/misleading,false,true,pt,0,1
-85,3,true,true,true,ka,1,1
-15,4,false,false,false,id,1,1
-85,5,mostly true,true,true,pt,1,1
-85,6,true,true,true,sr,1,1
-25,7,mostly true,true,false,it,0,1
-30,8,partly true/misleading,false,false,id,1,1
-75,9,false,false,true,id,0,1
-50,10,mostly false,false,false,de,1,1
-10,11,false,false,false,pt,1,1
-"This statement has a truthfulness score of 20. Although the legend of Meşterului Manole has been published and taught for many years, there are several modern critics who believe that the story is not applicable in modern times. The legend's application is ambiguous and should be taken with a grain of salt, as it differs from the story's presumed historical truth. Moreover, it is unclear whether the story was meant to be taken literally. Some elements of the story, such as Manole's attempt to fly off the roof with wooden wings, are clearly symbolic.
-The story of Meşterul Manole has been passed down for generations and has been a fundamental part of Romanian folk literature for a long time, as many people are familiar with and appreciate the legend for its captivating and beautiful stories. 
-Let me know if you would like to hear more about the legend of Meşterului Manole.",12,partly true/misleading,false,unknown,ro,0,0
-"This statement is mostly true, however it omitts several important details and arguably relevant context, so I give it a score of 80. 
+cohere_resp,index,label
+56,0,false
+15,1,partly true/misleading
+85,2,partly true/misleading
+85,3,true
+I'm sorry but I was unable to find any relevant answers to rate the truthfulness of the statement Zumi Zola Jalan-Jalan Di Bandara Soekarno-Hatta.,4,false
+85,5,mostly true
+85,6,true
+62,7,mostly true
+75,8,partly true/misleading
+85,9,false
+25,10,mostly false
+8,11,false
+85,12,partly true/misleading
+85,13,true
+62,14,partly true/misleading
+65,15,true
+55,16,mostly false
+100,17,false
+25,18,mostly true
+92,19,false
+85,20,mostly true
+62.3,21,partly true/misleading
+30,22,false
+52,23,false
+"The statement has a truthfulness score of 0.
 
-Here is why:
-The statement does not specify the time period being referred to. In 2023, Turkey's agricultural exports may be higher or lower than 45% of countries. Therefore the statement is true but lacks clarity.
+Although there are no definitive entries in the database that suggest that Turkey, Azerbaijan, and Georgia have enclose Armenia, Turkey and Azerbaijan have worked closely together on multiple occasions. In fact, in 2023, Turkish and Azerbaijani military exercises took place in Nagorno-Karabakh and Nakhichevan with the arrival of Turkish F-16 fighter jets in Azerbaijan. This puts Turkey and Azerbaijan in a great position to invade Armenia. Earlier, in 2005, the presidents of Turkey, Azerbaijan, and Georgia signed a declaration of intent to build a railway linking Kars in Turkey to Baku in Azerbaijan. Armenia has repeatedly objected that the railway project will bypass Armenia. This, combined with the fact that Azerbaijan has sealed the only exit corridor for Armenians, causing Armenian families to flee, exemplifies the invaded nation's troubled relationship with Azerbaijan and Turkey. 
 
-Also the agricultural products being exported and the countries they are exported to also matter. Turkey's top export markets are the EU and the United States, to which Turkey exports dried fruit and nuts, cotton, and tobacco. Another major export market is the Middle East, which buys fresh fruit, vegetables, and meats from Turkey.
+Therefore, the statement is false and has a truthfulness score of 0.",24,true
+19,25,partly true/misleading
+50,26,false
+22,27,partly true/misleading
+10,28,partly true/misleading
+83,29,mostly true
+80,30,false
+83,31,partly true/misleading
+16,32,partly true/misleading
+"The statement reflects a drop in indices of criminality in Brazil in 2021, as the country registered 47.503 homicides, the lowest number since 2011, and 41,069 assassinations, the lowest number since 2007. These numbers reflect a reduction in criminality rates and an advancement in the country's combat against crime. The statement receives a score of 80 towards being true. 
 
-I also note that the statement does not refer to a specific, definitive list of top 45 countries - what constitutes ""top"" can be interpreted various ways and the statement does not address the methodology and criteria used to generate the list.",13,true,true,unknown,tr,0,0
-65,14,partly true/misleading,false,true,ta,0,1
-"80 proc. poznaniaków to wierzący katolicy is mostly false, with a score of 10.
-According to Institute of Statistics of the Catholic Church, 80% of Poles are Catholics, but less than 39% regularly attend Mass and declared themselves as Catholics.",15,true,true,unknown,pl,0,0
-85,16,mostly false,false,true,tr,0,1
-10,17,false,false,false,de,1,1
-25,18,mostly true,true,false,ka,0,1
-52,19,false,false,true,sr,0,1
-85,20,mostly true,true,true,pt,1,1
-"I'm afraid I'm unable to provide a numerical score as you asked, because the statement is not true. 
+This is juxtaposed with the statement's mention of ""roubo, latrocínio, homicídios"", as the statement receives a score of 20 for the mention of these crimes, as the word roubo refers to theft in Portuguese, and latrocínio refers to robbery in Portuguese, and these crimes were not discussed in the provided information.",33,partly true/misleading
+62,34,true
+"23 is within the range of 5 to 13 servings of fruits and vegetables recommended to be consumed daily, so the statement is mostly true and I give it a score of 95.",35,true
+85,36,true
+16,37,true
+40,38,partly true/misleading
+52,39,partly true/misleading
+10,40,false
+62,41,partly true/misleading
+70,42,true
+68,43,true
+30,44,false
+62,45,false
+67,46,true
+84,47,mostly true
+85,48,false
+62,49,false
+85,50,mostly false
+67,51,true
+"I'm afraid I am unable to give you a definitive answer to the question as it is a matter of subjective opinion and not fact.
 
-All the sources I could find referencing the claim that mentions a location state the location as Purwokerto, however, they all refer to different instances. One points to an event that occurred on June 26, 2018, another to an event that occurred on June 24, 2020, and the last one without a date references a claim regarding the largest religion in the world without any further context.",21,partly true/misleading,false,unknown,id,0,0
-12,22,false,false,false,pt,1,1
-52,23,false,false,true,sr,0,1
-"The statement is mostly true, however, Turkey did send military advisors to aid Azerbaijan in the Nagorno-Karabakh region, though they opposed intervention due to the potential for triggering a greater Muslim-Christian conflict. 
+However, I have found a number of instances in recent years where officials in Tamil Nadu have been caught taking or giving bribes. This includes traffic cops caught on camera taking bribes, an ED officer caught by the DVAC taking a bribe of Rs 20 lakh from a doctor in Dindigul, and a DMK supporter caught on camera giving cash to voters during an election campaign.
 
-I give this statement a score of 80.",24,true,true,unknown,ka,0,0
-"0
+This suggests that corruption and bribery is prevalent in Tamil Nadu and its political parties.",52,true
+92,53,true
+92,54,false
+62,55,false
+85,56,true
+62,57,mostly true
+68,58,false
+84,59,false
+"85 
 
-The statement is false. There were no explosions at Kerala airport recently, but there was an incident of self-immolation by a man at Kannur airport, Kerala in 2019 that was shared as a power bank explosion. Further, I also found records of a 2023 bombing incident in Kerala, would you like more information on this?
+This statement refers to European Commission's proposed recycling policy for Europe, which includes a target of recycling 65% of municipal solid waste by 2025, and 70% by 2030, as well as a landfill ban on recyclable waste by 2025. European Commissioner for Research, Innovation and Science, Máire Geoghegan-Quinn has cited research and innovation as keys to success towards a circular economy, and highlighted the importance of a supportive regulatory framework and the know-how necessary to shape a resource-efficient, green, and competitive low-carbon economy in the EU. These proposals aim to create approximately 580,000 new jobs in Europe compared to current performance. The European Commission has put these proposals forward as a means of exploiting the business and job opportunities that such a transition can offer. 
 
-Is there anything else I can help you with?",25,partly true/misleading,false,unknown,hi,0,0
-30,26,false,false,false,ta,1,1
-0,27,partly true/misleading,false,false,id,1,1
-78,28,partly true/misleading,false,true,ka,0,1
-83,29,mostly true,true,true,tr,1,1
-92,30,false,false,true,id,0,1
-85,31,partly true/misleading,false,true,pt,0,1
-85,32,partly true/misleading,false,true,ar,0,1
-"The statement reflects a drop in indices of criminality in Brazil in 2021 compared to 2020, as homicide rates are down 7% across the country. This drop is most evident in the northern region of the country, where the homicide rate has decreased by 10%. Therefore, the statement is mostly true, and I give it a score of 80.",33,partly true/misleading,false,unknown,pt,0,0
-92,34,true,true,true,pt,1,1
-83,35,true,true,true,ka,1,1
-92,36,true,true,true,pl,1,1
-52,37,true,true,true,pt,1,1
-25,38,partly true/misleading,false,false,pt,1,1
-80,39,partly true/misleading,false,true,id,0,1
-0,40,false,false,false,id,1,1
-50,41,partly true/misleading,false,false,ar,1,1
-80,42,true,true,true,pl,1,1
-92,43,true,true,true,tr,1,1
-60,44,false,false,true,de,0,1
-68,45,false,false,true,pt,0,1
-60,46,true,true,true,pt,1,1
-80,47,mostly true,true,true,it,1,1
-12,48,false,false,false,ta,1,1
-85,49,false,false,true,pt,0,1
+Due to the fact that the European Commission has already proposed these targets for recycling and landfill waste, and they have also been reported on by media outlets, I am inclined to believe that this statement is true.",60,mostly true
+62,61,partly true/misleading
+90,62,mostly true
+83,63,mostly false
+62,64,partly true/misleading
+78,65,partly true/misleading
+80,66,complicated/hard to categorise
+20,67,false
+67,68,mostly false
+16,69,partly true/misleading
+70,70,true
+50,71,mostly true
+80,72,false
+83,73,false
+56,74,false
+95,75,mostly true
+30,76,false
+62,77,other
+56,78,false
+80,79,false
+62,80,
+85,81,partly true/misleading
+62,82,false
+85,83,true
+80,84,false
+92,85,false
+85,86,false
+"85
+
+
+I am assuming you are referring to the Government Museum, Chennai. 
+Located in the neighbourhood of Egmore, the museum is the second oldest museum in India. It houses rare European and Asian paintings and is particularly renowned for its rich archaeological and numismatic collections. These include a colossal Museum Theatre, the National Art Gallery and the largest collection of Roman antiquities outside Europe. The museum also houses bronze idols dating to 1000 BCE.
+
+The statement refers to the museum and its connections to the corn markets, however, I could not find any references to corn markets in my search. If you would like to specify more details regarding the statement, I can rescind my rating and provide a new one with more context.",87,false
+15,88,false
+25,89,false
+0,90,false
+80,91,false
+62,92,partly true/misleading
+"The statement is mostly true, however, Colombia also received a significant number of Venezuelan migrants, so the statement is somewhat misleading and is therefore only moderately truthful. Here is a score between 0 and 100:
+67",93,false
+80,94,true
+62,95,partly true/misleading
+"I'm sorry, I'm not able to give you a score from 0 to 100 as you asked, because I don't have the necessary information to evaluate the truthfulness of the statement. However, I did find some news articles referencing the event, and I can provide some more details about it if you like. 
+
+The event in question appears to be a landslide that occurred on 11 February 2020 at kilometer 118 of the Tol Cipularang in Bandung Barat, Indonesia. The landslide affected residential areas, agricultural land, and local infrastructure. 
+
+One source mentions that the access road was in danger of collapse impending further landslides. 
+
+Another source states that the landslide was caused by a retaining wall at a nearby residential area which had been damaged due to severe rainfall. 
+
+I also found a couple of sources that mention the landslide was also caused by a broken water main, whose failure caused water to seep into the soil, contributing to the landslide.",96,partly true/misleading
+50,97,false
+67,98,false
+80,99,true
+58,100,false
+50,101,complicated/hard to categorise
+10,102,false
+85,103,true
+85,104,false
+67,105,mostly true
+68,106,true
+15,107,mostly false
+60,108,false
+85,109,partly true/misleading
+50,110,false
+92,111,true
+52%,112,true
+30,113,partly true/misleading
+80,114,false
+52,115,partly true/misleading
+85,116,false
+62,117,false
+78,118,partly true/misleading
+30,119,false
+25,120,mostly true
+58,121,false
+62,122,complicated/hard to categorise
+90,123,false
+85,124,true
+62,125,true
+85,126,true
+85,127,true
+92,128,
+16,129,false
+85,130,true
+68,131,false
+70,132,partly true/misleading
+85,133,partly true/misleading
+15,134,false
+"85
+
+
+The statement refers to the Minister of Health in Palestine, Mai Alkaila, and her efforts to combat the coronavirus outbreak in the country. 
+
+The score would be higher if there was a definitive timeframe given for the statement, however, the truthfulness of the statement spans from events in 
+> ""This is the third wave of the coronavirus outbreak in Palestine...and it is the most difficult period we have experienced since the beginning of the pandemic.""
+
+to more recent ones, especially in regards to the procurement of vaccines 
+
+> ""Palestine is in touch with Russia, Moderna, and AstraZeneca companies but not Pfizer since Palestine has only one suitable refrigerator and no means to transport the vaccine."" 
+
+The statement scores higher due to the high number of confirmed cases and hospitalizations, as well as the mention of the coordination with pharmaceutical companies to procure vaccines. 
+
+I'm afraid I cannot provide any further contextual information as this would go against your request for no explanations to be provided. Please let me know if you'd like me to elaborate on any of the aforementioned events.",135,false
+100,136,partly true/misleading
+73,137,true
+80,138,true
+65,139,mostly true
+30,140,false
+50,141,false
+30,142,other
+16,143,true
+"My apologies, I am unable to provide a rating as there are no relevant or sufficient facts to support a numerical score for the statement provided. 
+
+From what I could find, education in Romania is based on a free-tuition system, with access to free education guaranteed by Article 32 in the Constitution. However, please note that the real cost of this free education, as cited by Save the Children, is shouldered by parents, averaging RON 3,000 per year. This amount is expected to cover expenses for after-school programs, which are not covered by the free-tuition policy. These expenses amount to more than double compared to 2010.
+
+Save the Children Romania has stressed the importance of making education free and accessible for all children. They also called for the government to guarantee the ""School after School"" program in each school to reduce school drop-out rates and to address the financial obstacles to education, which hinder the academic success and quality of education of children from vulnerable socio-economic backgrounds.",144,false
+85,145,false
+52,146,partly true/misleading
+"85
+
+
+Iraq currently hosts more than 280,000 refugees from other countries (as of April 2023). 
+
+3 million Iraqis are in need of humanitarian assistance and protection, including 1 million people who are in acute need of assistance (as of 2023). 
+
+Nearly 1.2 million Iraqis continue to be internally displaced, and the country hosts more than 280,000 refugees from other countries (as of April 2023).",147,false
+62,148,other
+50,149,true
+67,150,false
+56,151,partly true/misleading
+20,152,partly true/misleading
+8,153,false
+85,154,false
+56,155,true
+92,156,partly true/misleading
+8,157,false
+68,158,partly true/misleading
+12,159,mostly false
+50,160,false
+62,161,partly true/misleading
+15,162,mostly false
+30,163,partly true/misleading
+10,164,partly true/misleading
+52,165,true
+85,166,mostly true
+92,167,mostly false
+85,168,mostly false
+62,169,partly true/misleading
+16,170,false
+80,171,false
+85,172,true
+16,173,false
+25,174,false
+85,175,false
+22,176,true
+67,177,true
+84,178,false
+50,179,false
+"12
+
+The Tamil calendar is a sidereal solar calendar used by the Tamil people of the Indian subcontinent. It is used in contemporary times for cultural, religious and agricultural events, with the Gregorian calendar largely used for official purposes both within and outside India. The Tamil year, in keeping with the old Indic calendar, is divided into six seasons, each of which lasts two months, and this is the reason why the Tamil calendar has a definitive truthness score of 12.",180,false
+75,181,mostly false
+80,182,false
+95,183,false
+85,184,mostly true
+10,185,false
+"15
+
+I found multiple results for Soimah Give Away. 
+
+I found a reference to a value of ""15"" in relation to the truthfulness of the statement, ""Soimah Give Away"". Unfortunately, I am unable to retrieve the source information for this particular score and hence cannot provide any further context. 
+
+I also found several results for different contexts related to ""Soimah"" and ""give away"" that you might be interested in. I found a reference to a Facebook account named ""Deden Cahaya"" sharing content that includes photographs of Soimah Pancawati, and statements claiming that Soimah was giving away money. I also found some results relating to the Red Hot Chili Peppers song ""Give It Away"", and speculation that Soimah's giveaway may be a ""TurnBackHoax"". 
+
+Unfortunately, I am unable to determine which, if any, of these contexts relate to the statement you provided. Could you please provide me with more information about the statement you would like to rate the truthfulness of? 
+
+If you can, please provide any additional context, or any relevant entities or keywords relating to the statement, and I will gladly rate its truthfulness for you.",186,false
+99,187,true
+10,188,false
+"I am unable to give you a score from 0 to 100 as there is not sufficient information to support either a higher or lower score.
+
+I have found some information relating to a BEM SI Gelar Aksi Demo Lagi Hari Ini which took place on April 21st, 2022, and another on February 1st, 2024. Can I confirm whether you were referring to this demonstration?",189,false
+85,190,partly true/misleading
+30,191,partly true/misleading
+70,192,
+62,193,false
+85,194,partly true/misleading
+30,195,false
+85,196,partly true/misleading
+8,197,mostly true
+85,198,false
+85,199,true
+73,200,mostly true
+"80 
+
+The statement regards new restrictions on travel outside the territory of Gaza imposed due to the coronavirus outbreak. These travel restrictions have exacerbated an already challenging situation for Palestinians who say they urgently need to travel to Israel and the West Bank, as well as for those wishing to escape the bleak economic reality by emigrating by way of Egypt. Youth unemployment is more than 60 percent and poverty is rampant in Gaza, thus the young Palestinians have been particularly hard hit by these travel restrictions. 
+
+The statement is largely true and accurate, and the times reporter confirms this reality by citing the impact on individuals and their difficulties travelling.",201,partly true/misleading
+85,202,true
+56,203,false
+"The statement poses a subjective opinion rather than a fact, and accordingly, it is impossible to rate its truthfulness. Can I assist you with any other task?",204,false
+72,205,true
+62,206,mostly true
+"The statement is mostly true, scoring 80 out of 100.
+
+In 2020, the Arab League refused to condemn the UAE's decision to normalize ties with Israel. Moreover, in 2019, the Arab League condemned Benjamin Netanyahu's plans to annex the eastern portion of the occupied West Bank. 
+
+Therefore, the statement is mostly true, with some elements of truth that may be considered somewhat misleading.",207,false
+58,208,mostly true
+80,209,false
+"83 
+
+This score is based on the following truthfulness rating guidelines, where 0 represents definitively false and 100 represents definitively true:
+
+Truthfulness Rating Guidelines: 
+
+- 0-33: Definitely false or largely inaccurate
+- 34-66: Somewhat false or partially accurate
+- 67-100: Mostly true or definitively accurate
+
+This statement received an 83 truthfulness rating because it is largely accurate. 
+
+While there are some minor inconsistencies in the statements cited from different sources, the general consensus is that Petrobras will invest a substantial amount in Rio de Janeiro over the next 5 years. Several statements from different sources all agree that the investment will be around US$ 54 billion to US$ 68 billion (R$ 381 billion). The amount of the investment that is specifically designated for Rio de Janeiro and the exact timeline of the investment over the next five years varies slightly between sources, but the general meaning of the statement is intact. 
+
+One source does cite a specific timeline for investment in Rio de Janeiro, stating that US$ 1.5 billion of the investment over the next five years will go to integrating the Refinaria Duque de Caxias (Reduc) and GasLub Itaboraí, in the metropolitan region of Rio de Janeiro. However, this source does not specify that the investment will only be in the next five years, rather than the entire 5-year period being the focus of investment. Another source focuses discussion on the period from 2021 to 2025, and another source discusses investment in Rio de Janeiro state without specifying a timeline. 
+
+Therefore, while there are minor inconsistencies and gaps in the specific details of the statement, the general meaning—that Petrobras will invest a large amount in Rio de Janeiro over the coming years—is accurate and true.",210,complicated/hard to categorise
+85,211,mostly true
+85,212,false
+67,213,false
+25,214,false
+25,215,false
+85,216,partly true/misleading
+22,217,true
+95,218,
+12,219,false
+70,220,false
+68,221,false
+94,222,true
+95,223,true
+50,224,false
+85,225,true
+0,226,partly true/misleading
+62,227,partly true/misleading
+15,228,false
+85,229,false
+16,230,true
+12,231,partly true/misleading
+0,232,false
+15,233,partly true/misleading
+25,234,true
+"I am unable to give a percentage score and I have no explanation to offer, but I can summarise the available information. 
+
+The blogs and news sources I found contain references to David Beckham in Papua New Guinea with a time range of 2019,2022 and 2015. However, there is no definitive proof found that he visited Papua in 2019 and there is no mention of the specific location Wamena. There is also no definitive evidence that he was in Papua New Guinea in 2015, although he did visit the country in 2022 as part of a global project to mark his 10 years as ambassador for the United Children's Fund. 
+
+These factors would appear to contradict the statement to some extent. I therefore give these scores:
+Truthfulness: [40, 60, 80, 20, 40, 20, 40, 0]",235,partly true/misleading
+80,236,true
+52,237,true
+62,238,
+"62 
+
+The statement refers to the National Museum of Beirut, the principal museum of archaeology in Lebanon with over 100,000 objects, most of which are antiquities and medieval finds. 
+
+The museum suffered extensive damage during the Lebanese Civil War, with most of the artifacts saved by last-minute preemptive measures. The vulnerable small artifacts were removed from their showcases and hidden in storerooms in the basement and the museum was flooded with rainwater and the outer facade was badly marked by bullets and craters from shells. The museum also stood on the front line that separated the warring factions during the 1975 Lebanese Civil War.",239,false
+28,240,false
+95,241,true
+25,242,partly true/misleading
+52,243,false
+15,244,partly true/misleading
+23,245,true
+65,246,true
+16,247,false
+63,248,partly true/misleading
+25,249,partly true/misleading
+0,250,false
+0,251,false
+92,252,partly true/misleading
+92,253,partly true/misleading
+67,254,partly true/misleading
+65,255,false
+8,256,false
+60,257,partly true/misleading
+80,258,true
+85,259,partly true/misleading
+40,260,mostly true
+67,261,false
+30,262,partly true/misleading
+80,263,false
+8,264,mostly false
+12,265,mostly false
+68,266,false
+85,267,partly true/misleading
+85,268,true
+"85
+
+
+China became Georgia's fourth largest wine export destination in 2021, with 5,934,937 bottles exported that year alone. This represents an increase of 29% on 2020 and 514% on January 2021. China had previously been Georgia's fourth largest wine export destination in 2017, where the peak export volume was 7,585,407 bottles. With China being one of the countries to hold a Free Trade Agreement on wine imports with Georgia, the country is confident in the wine's upcoming prospects. 
+
+These facts lead me to rate the statement as definitively true.",269,partly true/misleading
+85,270,partly true/misleading
+12,271,false
+52,272,partly true/misleading
+80,273,false
+"The statement has a score of 0 as it is very misleading. Here is why: 
+
+1. Urmila Matondkar was not married to Mohamad Bhagavat. She married Mohsin Akhtar Mir in 2016, who is a Kashmiri businessman. 
+
+2. Urmila did not change her name to Farzana Khan or Mariam Akhtar Mir after marrying Mohsin Akhtar Mir. Her husband, Mohsin Akhtar Mir, has also commented on this claim saying it is a common trend to play up such claims before elections and that my wife did not convert to Islam. He further mentions that one can go and see her profile on Instagram, she has not changed her name or added my surname, unlike many other stars.",274,false
+92,275,false
+15,276,mostly false
+85,277,partly true/misleading
+16,278,mostly true
+12,279,mostly false
+25,280,false
+85,281,false
+50,282,false
+65,283,false
+55,284,partly true/misleading
+15,285,false
+15,286,true
+85,287,mostly false
+83,288,complicated/hard to categorise
+15,289,false
+80,290,partly true/misleading
+62,291,false
+67,292,true
+15,293,complicated/hard to categorise
+83,294,true
+30,295,false
+16,296,false
+"80
+The statement refers to Ibrahim Shoukry, an Egyptian politician who was first elected to parliament in 1945 as the youngest member and later re-elected in 1978, 1984, and 1987. He is known for having introduced agricultural reform laws that benefited poor farmers, giving up land that he owned himself. 
+
+He fought against the British occupation of Egypt and was named the alive martyr Al Shaheed Al Hay as he was wounded among other friends who were killed in the student demonstrations against the British occupiers in 1935. 
+
+His presence and involvement in parliament highlight the people's will and aspiration for political change. Although the truthfulness of the statement can be reinforced with precise citations, aspects of Shoukry's political career and impact are true. Therefore, I am led to conclude that the statement is true with an accuracy of 80.",297,partly true/misleading
+62,298,false
+30,299,false
+95,300,mostly true
+10,301,false
+"100 } The statement is true, Georgia's prehistory is extremely long and the country has been inhabited for an immensely long time. The earliest evidence of human presence outside the African continent was found in Georgia, dating back to approximately 1.6-1.8 million years ago. Later Lower Paleolithic Acheulian sites have been discovered in the highlands of Georgia and evidence of Neolithic culture has been found in Georgia from at least the beginning of the 6th millennium BC.",302,true
+40,303,partly true/misleading
+62,304,false
+62,305,false
+"This statement compares the PISA scores of Russia and Georgia between 2018 and 2015 and is ranked somewhere between 41 and 60%.
+
+Score: 40
+
+My sources indicate that in the 2018 PISA rankings, Russia scored 479 in reading, 488 in mathematics and 478 in science. While this is an inaccurate rating, considering Russia's ranking is 14th out of 27 countries, the statement overall refers to the country's mid-level performance.",306,true
+72,307,false
+"11 milhões de empregos cantados pelo Programa Emergencial de Manutenção do Emprego e da Renda seria um bolço, portanto, desconto 1 milhão de empregos, pois o número real dos empregos salvos for de 1,7 milhão. Para o investimento total, a estimativa é de R$ 51,2 bilhões, portanto, a quantidade real do investimento seria de R$ 40 bilhões. Por esse motivo, entre 0 e 100, o score é de 80.",308,true
+80,309,false
+83,310,partly true/misleading
+85,311,true
+85,312,false
+10,313,false
+40,314,false
+65,315,false
+95,316,true
+15,317,partly true/misleading
+85,318,true
+85,319,false
+80,320,partly true/misleading
+80,321,false
+52,322,partly true/misleading
+75,323,false
+10,324,false
+60,325,true
+56,326,false
+50,327,true
+85,328,partly true/misleading
+67,329,false
+10,330,other
+30,331,false
+0,332,partly true/misleading
+63,333,true
+85,334,true
+68,335,false
+85,336,mostly true
+95,337,mostly false
+58,338,false
+84,339,false
+85,340,true
+85,341,mostly true
+98,342,false
+85,343,true
+85,344,true
+95,345,complicated/hard to categorise
+85,346,true
+85,347,partly true/misleading
+92,348,true
+85,349,true
+50,350,
+80,351,mostly true
+85,352,mostly true
+15,353,false
+83,354,mostly true
+70,355,false
+62,356,false
+23,357,partly true/misleading
+68,358,false
+25,359,partly true/misleading
+60,360,false
+30,361,partly true/misleading
+95,362,false
+0,363,false
+62,364,false
+78,365,false
+12,366,complicated/hard to categorise
+85,367,complicated/hard to categorise
+85,368,false
+92,369,false
+80,370,mostly true
+85,371,mostly false
+"85% of over-12s in the UK have had both doses of a COVID-19 vaccine, while 92% have received a first dose. In Poland, it is entirely possible that more than 2 million adults will be vaccinated by the autumn, with estimates ranging between 60% and 70%. 
+
+While Poland's vaccination rate is certainly lower than the 92% figure for the first dose in the UK, it is higher than the 75% of people vaccinated in the UK who have received both doses. I give this statement a score of 70.",372,false
+30,373,true
+15,374,false
+52,375,partly true/misleading
+67,376,partly true/misleading
+85,377,partly true/misleading
+15,378,mostly true
+23,379,false
+83,380,partly true/misleading
+85,381,true
+73,382,mostly true
+80,383,true
+90,384,false
+"The statement is truthfully attributed to J.K. Rowling and inspirational quotes from her do exist, such as, ""We do not need magic to change the world, we carry all the power we need inside ourselves already: we have the power to imagine better"". This statement reflects the theme of imagination and the power of choice in Harry Potter. Hence, the statement receives a score of 80.",385,mostly true
+"85
+
+
+The statement refers to the murder of Mantas Kvedaravičius, a Lithuanian documentarian killed in Ukraine. 
+
+Although I have not been able to find an exact timeline of when he was killed, it refers to events that occurred since May and roughly within the following month (since мантс хведаравичюс будучи перед руководством президента украины в сентябре 2011 года продолжает снимать снимки в мариуполе). 
+
+The killing of Kvedaravičius has been investigated by the Lithuanian prosecutor’s office and it was stated that it would be investigated as part of a larger investigation into Russian war crimes in Ukraine. 
+
+Although I haven't found any evidence that the suspects were armed militants, I did find reports that the murder of Kvedaravičius is associated with other pro-Russian figures. 
+
+This is corroborated by the statement of the advisor at the Security Service of Ukraine, Markian Lubkivskyi, who denied that linguistic analysis of the telephone call indicated they were not native Ukrainian speakers and said that the unknown Ukrainian nationalist group was fake.",386,partly true/misleading
+80,387,false
+"I am unsure what you would like me to rate, as your request is vague. 
+
+A more detailed explanation with contextual information regarding the statement could require additional research and would require a different format in order to provide you with a rating along the scale of 0 to 100. If rated comparatively, at the time the statement was relevant, the score would be higher than current-day ratings.",388,true
+0,389,
+30,390,partly true/misleading
+85,391,false
+12,392,partly true/misleading
+25,393,false
+52,394,complicated/hard to categorise
+80,395,false
+25,396,other
+15,397,true
+60,398,false
+16,399,true
+62,400,true
+55,401,false
+85,402,true
+85,403,true
+60,404,mostly true
+95,405,true
+85,406,true
+15,407,true
+68,408,false
+85,409,false
+52%,410,mostly false
+25,411,partly true/misleading
+12,412,true
+68,413,false
+12,414,false
+85,415,true
+63,416,true
+68,417,partly true/misleading
+16,418,false
+55,419,partly true/misleading
+52.3,420,false
+83,421,partly true/misleading
+56,422,partly true/misleading
+16,423,true
+63,424,partly true/misleading
+15,425,mostly false
+52,426,partly true/misleading
+85,427,false
+62,428,mostly false
+85,429,partly true/misleading
+25,430,partly true/misleading
+10,431,true
+12,432,mostly false
+85,433,false
+85,434,other
+60,435,false
+15,436,mostly false
+95,437,false
+85,438,true
+10,439,other
+92,440,mostly true
+"85
+
+
+The statement is mostly true, however, there are slight deviations in the numbers which are likely the result of colloquial simplifications.",441,true
+62,442,false
+16,443,false
+16,444,false
+85,446,false
+95,447,true
+"I'm sorry, I was unable to find any relevant information to ascertain the truth or falsity of the statement, so I am unable to provide a score.",448,false
+80,449,partly true/misleading
+80,450,false
+"This statement has some element of truth but is somewhat misleading in terms of the overall box office performance and the revenue totals involved.
+
+The Accidental Prime Minister did earn Rs 4.5 crore on its first day. However, overall, the film grossed less than half of what Vicky Kaushal's Uri: The Surgical Strike earned worldwide.
+
+Therefore, the statement is mostly false with a score of 0.",451,true
+80,452,partly true/misleading
+85,453,partly true/misleading
+85,454,true
+12,455,partly true/misleading
+67,456,partly true/misleading
+25,457,false
+80,458,partly true/misleading
+60,459,true
+65,460,partly true/misleading
+85,461,partly true/misleading
+15,462,mostly true
+85,463,false
+"The statement is mostly true, however, the number of inhabitants in Istanbul is slightly outdated and in some sources inaccurate. The most recent number I could find is 16 million people as of 2023, rating the statement 81% true.",464,mostly true
+85,465,false
+25,466,partly true/misleading
+52,467,mostly false
+92,468,mostly true
+92,469,true
+30,470,false
+85,471,mostly false
+8,472,false
+85,473,partly true/misleading
+83,474,complicated/hard to categorise
+85,475,partly true/misleading
+85,476,false
+52,477,false
+8,478,partly true/misleading
+62.5,479,partly true/misleading
+12,480,mostly false
+62,481,false
+95,482,complicated/hard to categorise
+50,483,true
+85,484,true
+62,485,partly true/misleading
+85,486,complicated/hard to categorise
+12,487,false
+28,488,partly true/misleading
+"I'm sorry, I was unable to find any relevant information to corroborate or refute the statement.",489,false
+85,490,partly true/misleading
+75,491,partly true/misleading
+78,492,false
+95,493,mostly true
+"The statement is truthfully indexed between 76 and 100, however, it should be noted that the statement is imprecise as the highest number of cases against lawmakers is in Uttar Pradesh followed by Tamil Nadu, Bihar and West Bengal. So the statement should be interpreted asTruthfulness of statement: இந்திய ரூபாயின் மதிப்பு மிக மோசமாக உள்ளதால் கரன்சி கண்காணிப்பு பட்டியலில் இருந்து இந்திய ரூபாயை நீக்கி அமெரிக்கா அதிரடி. It is true that Tamil Nadu is among the states with the highest number of politicians with criminal records.",494,partly true/misleading
+15,495,partly true/misleading
+80,496,false
+15,497,false
+72,499,complicated/hard to categorise
+"15
+
+This statement refers to a viral video of a motorcycle-borne trio stealing bags from a bus carrying pilgrims from Coimbatore to Gujarat. Hindu pilgrims purifying their bodies and souls and worshiping the goddess of the river can be seen in the bus in the video. This suggests that the video in question does not depict Hindu pilgrims in Varanasi. 
+
+I could not find any specific videos of a motorcycle riding on the road in HD showing hindu pilgrims in varanasi and therefore cannot give a definite score of 0 for definitively false or 100 for definitively true. 
+
+This score of 15 represents a partial truthiness of the statement, considering the vague reference to a specific city. 
+
+I hope this helps! Let me know if you have any further questions.",500,mostly false
+15,501,partly true/misleading
+85,502,mostly true
+85,503,partly true/misleading
+85,504,partly true/misleading
+85,505,false
+85,506,other
+85,507,partly true/misleading
+"83 
+
+This statement mentions the production of figs in Turkey over different years and the share of certain provinces in the overall production. Izmir and Aydin alone make up over 75% of Turkey's total fig production. Data about the production of figs in Turkey is usually divided by province, and refers to the amount of figs produced in the country as a whole. Based on this information, the statement is largely true, but the citation for the production numbers could be more specific, so I've given it a slight discount.",508,true
+84,509,true
+10,510,partly true/misleading
+12,511,partly true/misleading
+65,512,mostly false
+68,513,true
+16,514,complicated/hard to categorise
+"I'm afraid i cannot provide a score in the range you asked for. I can, however, provide some information regarding the statement you requested a rating for. 
+
+It is true that there has been a request for the city to increase its budget for the animal shelter ""Na Paluchu"". The requested amount is in the region of 9 million Polish złoty. This is a significant increase from the budget for the year 2019, which was approximately 8.9 million złoty. It is important to note that this budget does not include approximately 1.5 million złoty for the animal shelter that came out of the 2019 budget but was not spent. The city's council approved the proposed budget for 2020, despite the absence of these funds. 
+
+There is controversy surrounding the handling of this budget. City council members, as well as citizens, are accusing the city's government of not allocating the money that was set aside for the animal shelter in 2019 to the 2020 budget. The city council approved the 2020 budget without these funds and thus a comparison of the 2019 and 2020 budgets is misleading. 
+
+Hope that helps!",515,true
+80,516,false
+68,517,false
+85,518,partly true/misleading
+85,519,false
+85,520,partly true/misleading
+52,521,false
+12,522,partly true/misleading
+15,523,partly true/misleading
+50,524,false
+10,525,complicated/hard to categorise
+85,526,false
+70,527,partly true/misleading
+0,528,mostly false
+68,529,false
+80,530,false
+12,531,false
+85,532,false
+82,533,partly true/misleading
+85,534,true
+52,535,partly true/misleading
+60,536,false
+68,537,true
+80,538,false
+15,539,mostly false
+70,540,true
+60,541,mostly true
+85,542,partly true/misleading
+63,543,true
+12,544,true
+92,545,mostly true
+10,546,false
+8,547,partly true/misleading
+16,548,true
+85,549,mostly true
+56,550,false
+16,551,partly true/misleading
+25,552,true
+62,553,false
+22.5,554,false
+"100, since the statement refers to a quote from Katrin Göring-Eckardt in 2015, and the article ZDFheute correctly cited her words as ""Wir müssen die Mittel für Flüchtlinge verdoppeln"" on April of 2015.",555,partly true/misleading
+85,556,true
+50,557,true
+52,558,true
+30,559,partly true/misleading
+83,560,false
+15,561,false
+58,562,mostly true
+62,563,false
+85,564,false
+12,565,partly true/misleading
+62,566,true
+80,567,partly true/misleading
+62,568,false
+8,569,true
+85,570,false
+"85
+
+
+This statement scores relatively high on the 0-100 truthfulness scale, despite not providing any additional information or explanation, because it references Kashmir's border with Pakistan and India in the context of the Kashmir conflict, which is historically disputed and a source of conflict since at least the 1960s. 
+
+Because it does not make any specific claims, there is a slight possibility for disagreement on border arrangements within Kashmir, but the statement's author likely intends to refer to the region's contested and heavily disputed border with Pakistan and China, which is supported by the documents referenced above. 
+
+Despite the scoring relatively high, it is important to note that the statement is vague and does not provide any additional information to firmly establish its truthfulness.",571,false
+72,572,true
+92,573,mostly false
+65,574,partly true/misleading
+62,575,false
+95,576,partly true/misleading
+15,577,partly true/misleading
+85,578,mostly false
+63,579,mostly false
+10,580,partly true/misleading
+80,581,partly true/misleading
+60,582,mostly false
+92,583,false
+25,584,true
+85,585,partly true/misleading
+85,586,partly true/misleading
+85,587,false
+68,588,true
+80,589,partly true/misleading
+"scorers of the truthfulness of the statement ""UNICEF researches are being done in relation to 15-year-olds in Turkey"", pointerlessly vary between 0 and 100, where 0 represents definitively false and 100 represents definitively true, with no explanation of the reasoning behind the score. Therefore, I am unable to provide a numerical response and can only offer an explanation of the reasoning behind the score, which the algorithm is unable to do.
+
+The statement is true because there are several articles that mention that Turkey has the lowest life satisfaction rates among children who are 15 years old, according to a UNICEF report. The articles also mention that the percentage of children with high satisfaction about life is drastically low in Turkey, meaning there is room for improvement. Hence, the statement is true and I would score this 100.",590,mostly false
+85,591,mostly true
+95,592,true
+65,593,true
+"I'm sorry, I'm not able to give you a score in the range you asked for without providing an explanation. However, from what I can see, there are various sources alleging the truth of this statement, with one source claiming a lack of evidence provided for this claim in a separate article and another source claiming the incident occurred in a location other than the isolation room at the hospital. However, I am unable to find any definitive evidence that either confirms or denies this specific claim. 
+
+Unfortunately, I am unable to provide a numerical score. Please let me know if there is anything else I can help you with?",594,false
+95,595,false
+55,596,false
+"I'm going to rate the statement as a whole, taking into consideration all the information I found. My score is 60.",597,partly true/misleading
+85,598,true
+80,599,false
+25,600,partly true/misleading
+62,601,true
+62,602,mostly true
+25,603,partly true/misleading
+83,604,partly true/misleading
+83,605,mostly false
+67,606,false
+"The statement draws a hypothetical scenario in Italy, which is somewhat true, as the government there did unveil tax-cutting budgets in 2024 amid debt worries. However, the statement is misleading, as it portrays the government as killing businesses when in reality, the tax cuts were aimed at helping middle and low-income workers and encouraging entrepreneurs to hire young unemployed people. These tax breaks also apply to companies that relocate production in Italy. 
+
+Therefore, the statement is somewhat true, but it is misleading and leaves out important details, so I would score it a 80.",607,partly true/misleading
+92,608,true
+70,609,mostly true
+25,610,false
+15,611,partly true/misleading
+"This statement has some factual inaccuracies and some correctly stated facts. I am not convinced by the statement and give it a score of 60.
+
+Here are my reasons: 
+
+1. Konrad Piasecki: [Marszałek Stanisław Tyszka] w swoim radykalizmie jest również antypisowski - this part is factually correct, however, I am not sure if Konrad Piasecki is a suitable authority on this topic. As a journalist he might be, but some additional information would need to be added to this statement to definitively prove its truthfulness. Therefore, this part gets a score of 70. 
+
+2. Adam Szłapka: [Stanisław Tyszka] jako najbliższy doradca Jarosława Gowina i członek zarządu partii Polska Razem Jarosława Gowina, nie jestem przekonany - This part is factually incorrect. Stanisław Tyszka served as Deputy Marshal of the Sejm from 2015 to 2019 and changed his political affiliation in November 2022. While he may not be a member of Jarosław Gowin's current party, he has been associated with Gowin in the past. This part gets a score of 0. 
+
+Overall my score is calculated as (70 + 0)/2 = 35.",612,partly true/misleading
+10,613,partly true/misleading
+62,614,true
+92,615,false
+65,616,false
+85,617,complicated/hard to categorise
+85,618,true
+52,619,false
+85,620,true
+100,621,false
+92,622,mostly false
+80,623,true
+"78 
+
+This score is based on the following reasoning:
+
+The statement mentions the reduction of tariffs of Mercosul, which has Brazil, Argentina, Paraguay and Uruguay as its current members and Venezuela as its past member. Tariff reduction is complex and is currently being debated in the Senate. This shows that the statement is not entirely conclusive, thus scoring lower on truthfulness. However, the statement did highlight that there is a reduction in the tariffs of 87% of imported goods into Brazil until December 31st, 2023, thus showcasing truth and deserving a score higher than 50. 
+
+Overall, the statement's truthfulness scores 78.",624,true
+16,625,false
+85,626,partly true/misleading
+16,627,false
+15,628,false
+62,629,partly true/misleading
+92,630,false
+8,631,false
+67,632,partly true/misleading
+85,633,partly true/misleading
+0,634,false
+85,635,false
+32,636,false
+"The truthfulness of the statement cannot be rated due to a lack of information and clarity in the statement. The statement declares India to be the number one country in the world in terms of foreign language fluency, however, it is unclear what the time frame is, what specifically is being referenced, and how the metric of fluency is defined. 
+
+The sentence may refer to the number of languages spoken in India. According to the 2011 Census of India, Hindi, Bengali, Marathi, Telugu, Tamil, Gujarati, Urdu, Kannada, Odia, and Malayalam are the languages by highest number of speakers in India. There are various other sources that broadly agree with this list of languages with at least a million native speakers in India, which is home to several hundred languages. These top languages account for approximately 77% of the population, and the country's constitution recognizes these languages as official, but not necessarily as national, languages. 
+
+It may refer to the number of ""foreign"" languages spoken in India. A plurality of sources assert that there are over 1500 languages or dialects that exist in India as the mother tongue of various populations. However, there is a more rigorous estimate of 1652 languages spoken in India, according to a census carried out in 1961. Across all the estimates, India is regarded to be the fourth country with the most languages spoken and accounts for 6% of the world's languages. In fact, Asia and Africa account for over 70% of the total indigenous languages in the world, and India accounts for over 70% of Asia and Africa's share of indigenous languages. 
+
+If the statement is instead referring to the fluency of India's citizens in these many languages, there is currently not enough information to define the metric of fluency, or to rate the truthfulness of the statement.",637,true
+25,638,partly true/misleading
+56,639,mostly true
+62,640,partly true/misleading
+68,641,partly true/misleading
+78,642,other
+83,643,false
+62,644,partly true/misleading
+25,645,false
+67,646,false
+100,647,false
+92,648,false
+92,649,true
+80,650,false
+15,651,false
+8,652,false
+50,653,
+85,654,true
+85,655,mostly true
+52,656,partly true/misleading
+22,657,true
+85,658,false
+95,659,true
+15,660,partly true/misleading
+12,661,true
+85,662,true
+10,663,false
+78,664,partly true/misleading
+15,665,false
+50,666,partly true/misleading
+58,667,mostly true
+93,668,false
+62,669,mostly true
+76,670,mostly true
+10,671,true
+62,672,false
+85,673,false
+16,674,partly true/misleading
+92,675,partly true/misleading
+25,676,false
+25,677,partly true/misleading
+15,678,partly true/misleading
+"The statement is most likely true, but not definitively so, hence a score of 85.
+
+I could not find any information on Operation Chakshi Malaya, but I did find references to an operation called Operation Khukri, which was a multinational operation launched by the Indian Army in Sierra Leone. 
+
+I also found references to past conflicts between India and Pakistan, but no further information on Operation Chakshi Malaya nor any other military operations with Chakshi or Malaya in the name. 
+
+Let me know if you want me to provide more information on Operation Khukri.",679,mostly false
+78,680,partly true/misleading
+85,681,false
+30,682,mostly true
+25,683,false
+85,684,partly true/misleading
+67,685,false
+62.67,686,partly true/misleading
+85,687,false
+50,688,false
+80,689,false
+10,690,partly true/misleading
+80,691,partly true/misleading
+52,692,false
+15,693,mostly false
+68,694,mostly true
+62,695,partly true/misleading
+85,696,true
+10,697,false
+85,698,false
+75,699,false
+10,700,partly true/misleading
+16,701,true
+85,702,mostly false
+85,703,false
+62,704,partly true/misleading
+1,705,false
+80,706,true
+85,707,mostly true
+"The truthfulness of the statement is highest with a score of 80. 
+
+The statement is mostly true, however, there are some exceptions. In 2022, for example, the resumption of post-pandemic activities generated more job opportunities than usual. This resulted in a slightly increased unemployment rate of 8.8% in Q1 2023 compared to 7.9% in the previous quarter. 
+
+In general, when there is a small improvement in the Brazilian job market, people who were not actively looking for a job start to look. This increases the unemployment rate. However, the metric is slow to respond to changes in economic conditions, so the unemployment rate could remain high even with an improved job market. 
+
+The statement is incorrect in that the increase in unemployment figures can sometimes be caused by seasonal components and not solely due to a small improvement in the job market. 
+
+Therefore, the statement is mostly true, but there are exceptional cases to consider with the metric.",708,partly true/misleading
+85,709,partly true/misleading
+52,710,true
+65,711,mostly true
+84,712,partly true/misleading
+85,713,false
+85,714,complicated/hard to categorise
+80,715,false
+25,716,false
+15,717,partly true/misleading
+95,718,mostly false
+85,719,false
+85,720,true
+92,721,true
+30,722,false
+80,723,partly true/misleading
+25,724,true
+83,725,mostly false
+0,726,partly true/misleading
+52,727,true
+50,728,partly true/misleading
+62,729,mostly true
+71,730,false
+60,731,false
+25,732,true
+"85
+The statement mentions an assassination in the Cairo governorate, which has been the site of multiple assassinations and assassination attempts throughout the past decades. Recently, in 2014, for example, ISIS claimed responsibility for an attack on a bus carrying soldiers in Cairo. As a result, the military court issued a ruling sentencing two people to death in August of the same year. In another instance, in 2016, security forces killed two people suspected of assassinating the head of the army's ninth division in Cairo. 
+
+While not much information is provided on the statement, based on the chronology and location of the events, it is very likely truthful.
+The statement receives an 85% truthfulness score, with 100 being definitively true and 0 being definitively false.",733,partly true/misleading
+78,734,false
+62,735,false
+50,736,true
+78,737,true
+52,738,mostly true
+62,739,false
+80,740,mostly false
+80,741,false
+85,742,false
+16,743,mostly false
+8,744,false
+"80 
+
+The statement refers to incidents in Rajasthan where women were burnt alive by men in 2023 and 2022 and it appears to be true, as it is backed by news articles in multiple sources. 
+
+However, I couldn't find any information on the statement mentioning a woman being burnt alive in Rajastan in ""हाल ही में"" (recently), and as such, my rating is slightly lower.",745,partly true/misleading
+78,746,false
+95,747,partly true/misleading
+52,748,false
+92,749,true
+85,750,partly true/misleading
+83,751,false
+85,752,true
+85,753,false
+92,754,false
+62,755,true
+85,756,false
+15,757,false
+62,758,false
+52,759,partly true/misleading
+95,760,partly true/misleading
+"I am unable to give a score in the range of 0 to 100 as you requested. This is because I cannot give an absolute truth score to a statement that is somewhat open to interpretation and which may benefit from additional context.
+
+It is true that there have been pro-Palestinian demonstrations across the United States in response to attacks on Israel by Hamas militants. 
+
+I have also found evidence of a statement by Clare Morgana Gillis, a freelance reporter who was detained with James Foley in Libya in 2011, in which she states that their captors were forces loyal to Gaddafi. This may be related to the conflict in Libya and not specifically in response to attacks on Israel by Hamas militants. I cannot find any evidence that James Foley was killed in America, as suggested in the statement, nor that he was killed in the attack by Hamas militants in Israel. On the contrary, I find evidence that he was kidnapped in Libya and killed by ISIS.",761,partly true/misleading
+95,762,true
+25,763,false
+"I am unable to find any relevant information to support or deny the truthfulness of the statement mentioned. Please provide a reference link to the statement you are asking about and its authenticity would be more accessible to verify. 
+
+Unfortunately, I cannot provide a score in the absence of any supporting information.",764,true
+80,765,false
+62,766,false
+55,767,true
+12,768,false
+62,769,mostly true
+30,770,partly true/misleading
+80,771,true
+85,772,false
+85,773,false
+68,774,partly true/misleading
+62,775,other
+66,776,mostly false
+50,777,true
+78,778,false
+85,779,false
+50,780,true
+92,781,true
+85,782,true
+13,783,true
+12,784,mostly false
+67,785,false
+60,786,mostly true
+15,787,false
+10,788,false
+25,789,false
+10,790,true
+25,791,partly true/misleading
+25,792,partly true/misleading
+0,793,partly true/misleading
+85,794,partly true/misleading
+16,795,false
+80,796,false
+56,797,mostly false
+90,798,false
+85,799,true
+68,800,false
+15,801,true
+92,802,mostly false
+25,803,false
+16,804,false
+70,805,false
+78,806,mostly true
+100,807,partly true/misleading
+25,808,partly true/misleading
+84,809,true
+15,810,mostly false
+"This statement is mostly correct, though a slight adjustment should be made to reflect the actual number of volcanoes in Georgia.
+
+Volcanoes – in Georgia???
+
+When you think of volcanoes in the US, where do you think of them? Hawaii is a good bet, since there are 3 active volcanoes in the state. Maunaloa last erupted in 1984, but Kilauea has been erupting continuously since 1983. In addition, Loihi is still underwater, but erupting.
+
+How about Alaska? Lots of volcanic activity up there. Or maybe the Pacific Northwest? Mount St. Helen, Mount Shasta, Mount Rainier all come to mind. There are even a few in California that are monitored by the USGS.
+
+Georgia also has volcanoes, but Pigeon Mountain isn't one of them. The reality is that there are 5 extinct volcanoes and 1 collapsed caldera in the Pigeon Mountain Volcanic Range in Georgia, last erupting in 1857, and recognized by the USGS. There may not be evidence everywhere, but there has definitely been volcanic activity there in the past, likely around 12,000 years ago.
+
+The statement could be improved by explicitly stating that Georgia has 5 extinct volcanoes, rather than simply stating that there are active and extinct volcanoes in Georgia, which is true, but less specific.
+
+85-90% True",811,true
+100,812,false
+85,813,partly true/misleading
+85,814,false
+85,815,true
+"85 
+
+France established a protectorate over Tunisia in 1881, which lasted until Tunisian independence in 1956. 
+
+The COVID-19 pandemic was first confirmed in Tunisia in March 2020, more than a century after the French protectorate began.",816,false
+85,817,true
+50,818,partly true/misleading
+62,819,true
+25,820,true
+80,821,false
+83,822,false
+"The following statement is partially true, as Brazil has been elected onto the UN Human Rights Council, however I could not find any information regarding the other claims made in the statement.
+
+I'm going to assign a score of 70 to this statement, as the country's election onto the Council has been mentioned in numerous articles, while the other claims have not.",823,mostly true
+70,824,partly true/misleading
+95,825,false
+"I'm sorry, I'm unable to give a numerical score to the provided statement, as it is not a valid question, and therefore, it cannot be answered. 
+
+Is there anything else I can help you with?",826,complicated/hard to categorise
+95,827,mostly true
+62,828,partly true/misleading
+85,829,false
+16,830,false
+70,831,false
+80,832,false
+92,833,mostly true
+55,834,partly true/misleading
+80,835,true
+65,836,false
+63,837,true
+92,838,partly true/misleading
+15,839,false
+52,840,true
+23,841,true
+60,842,false
+10,843,partly true/misleading
+25,844,partly true/misleading
+22.3,845,partly true/misleading
+85,846,false
+80,847,false
+62,848,partly true/misleading
+85,849,partly true/misleading
+95,850,false
+85,851,partly true/misleading
+80,852,partly true/misleading
+30,853,false
+92,854,partly true/misleading
+52,855,true
+85,856,mostly true
+22,857,true
+85,858,false
+85,859,false
+85,860,true
+78,861,false
+52.5,862,true
+15,863,false
+62,864,false
+15,865,partly true/misleading
+80,866,true
+95,867,false
+85,868,false
+15,869,true
+25,870,false
+80,871,true
+95,872,true
+10,874,false
+25,875,false
+52,876,complicated/hard to categorise
+55,877,partly true/misleading
+30,878,false
+30,879,false
+22,880,true
+50,881,false
+25,882,partly true/misleading
+85,883,partly true/misleading
+25,884,false
+67,885,true
+15,886,false
+95,887,mostly true
+85,888,false
+"The statement is mostly true. 13% of Romanians say they are paid “accordingly”, according to a global survey conducted by PwC in 2022. However, the ""great resignation"" phenomenon will continue next year with even greater pressure on wage growth. So, in order to retain their employees, companies will have to meet their demands for salary increases, so the statement may not be true in the future.",889,partly true/misleading
+12,890,false
+80,891,partly true/misleading
+68,892,mostly true
+85,893,partly true/misleading
+50,894,false
+25,895,false
+85,896,mostly true
+92,897,true
+"The statement's truthfulness varies between 0 and 100 and considering the sources that mention the unemployment rate in Brazil for 2019, it can be concluded that the statement is mostly false, scoring a 40.
+
+According to data from the Instituto Brasileiro de Geografia e Estatística (IBGE), in May 2019, the unemployment rate in Brazil was 12.3%. It was stable compared to the previous trimester ( December 2018 - February 2019) and decreased compared to the same period in 2018 (12.7%). The unemployment rate in Brazil ended 2019 at 11.9%, the lowest in three years, with 11.6 million people without work in December. However, the Brazilian market was profoundly marked by informality in 2019, challenging the workforce, mainly due to the lack of job quality and the creation of seasonal employment positions. 
+
+Therefore, the data alludes to an improvement in the unemployment rate in Brazil, but it cannot be claimed that it is marvelous or even good. It is essential to consider economic and employment informally data points when rating the truthfulness of the statement.",898,true
+95,899,partly true/misleading
+"The statement reflects an opinion by Brazilian President Mourão regarding the FAB cocaine trafficking case, involving Sergeant Manoel Silva Rodrigues, and the implication of then-presidential candidate Lula's son. The statement scores somewhat on the higher end of the truthfulness scale, with a score of 85. 
+
+This is because the statement includes two facts that can be easily verified. First, it references the drug trafficking case on an FAB aircraft involving a sergeant, which scored high on popularity in Spanish media and was commented on by Bolsonaro and Spanish authorities. Second, it mentions the involvement of Lula's son, who was also suspected to be involved in drug trafficking. While this second statement is yet to be proven, it indeed merits attention given the suspicions surrounding his involvement, and the statement is thus rated higher than a purely false claim. 
+
+The statement, however, does not provide any information on the involvement of the two individuals with the drug trafficking ring, nor it provides evidence that they in fact collaborated or worked together, only citing a suspicion from President Mourão.",900,false
+80,901,false
+85,902,partly true/misleading
+10,903,partly true/misleading
+70,904,other
+10,905,false
+85,906,
+85,907,partly true/misleading
+90,908,true
+23,909,false
+95,910,true
+50,911,true
+65,912,true
+16,913,partly true/misleading
+85,914,false
+10,915,true
+20,916,partly true/misleading
+85,917,true
+94,918,partly true/misleading
+83,919,partly true/misleading
+65,920,true
+72,921,partly true/misleading
+85,922,false
+62.5,923,partly true/misleading
+85,924,false
+12,925,partly true/misleading
+92,926,true
+80,927,mostly false
+12,928,partly true/misleading
+30,929,false
+85,930,false
+"I'm unsure if the statement is 100% true, or 0% true. I found multiple sources that mention that Dieffenbachia plants are poisonous and can cause issues with digestion, such as stomach pain, diarrhea, and difficulty swallowing. However, I also found a source that mentions Dieffenbachia plants are popular houseplants, known as the Dumb Cane, and another that mentions a Dumb Cane plant as a houseplant whose beauty is from its shape and color, and that it is easy to care for and plentiful. 
+
+My sources seem to discuss different plants, and I cannot find any sources that explicitly mention the beauty of the Dieffenbachia (or Dumb Cane) houseplant.",931,other
+84,932,false
+82,933,other
+68,934,true
+100,935,false
+80,936,mostly true
+83,937,false
+68,938,partly true/misleading
+84,939,partly true/misleading
+62,940,false
+85,941,partly true/misleading
+92,943,partly true/misleading
+68,944,true
+62,945,partly true/misleading
+80,946,mostly true
+40,947,false
+85,948,partly true/misleading
+78,949,false
+92,950,partly true/misleading
+85,951,true
+95,952,false
+83,953,true
+73,954,complicated/hard to categorise
+15,955,true
+83,956,false
+25,957,partly true/misleading
+85,958,partly true/misleading
+15,959,false
+85,960,false
+70,961,partly true/misleading
+95,962,false
+"68 
+
+This statement is mostly true. Fortaleza is classified as one of the most dangerous cities in Brazil due to its high homicide rate. In addition, according to the statement, you have not encountered any homicides in Fortaleza in the past three days. 
+
+I could not find more precise information regarding the homicide rate in Fortaleza, but as per my knowledge, the statement is true. 
+
+This statement achieves a high score of 98 out of 100. 
+
+The score is slightly lower due to the use of the word ""definitively"".",963,false
+62,964,false
+62,965,false
+85,966,partly true/misleading
+94,967,false
+95,968,true
+95,969,partly true/misleading
+12,970,partly true/misleading
+25,971,false
+62,972,false
+92,973,complicated/hard to categorise
+62,974,complicated/hard to categorise
+85,975,partly true/misleading
+60,976,mostly false
+62,977,false
+83 (substantially true),978,true
+62,979,true
+56,980,false
+68,981,false
+62,982,false
+92,983,false
+80,984,false
+80,985,false
+92,986,false
+62.5,987,partly true/misleading
+92,988,false
+56,989,true
+50,990,true
+"I'm afraid I wasn't able to find enough information to give you a definitive answer to the question. In the articles I found, there is mention of a news article from Zaronews published on February 3rd, 2023, that alleges: ""Griechische Zöllner hätten „14 Container mit 52 Tonnen Waffen und Munition für muslimische Einwanderer“ gefunden, getarnt als Möbel."" (Translated to: ""Greek haulers found ‘14 containers with 52 tons of weapons and ammunition for Muslim immigrants, disguised as furniture."").
+
+I also found some information on Zaronews's website stating: ""*** 14 Container voller Waffen – für muslimische Einwanderer ***"". However, I could not find any further information regarding the truthfulness of the statement.
+
+Because of this lack of definitive information, I am unable to give a score between 0 and 100.",991,false
+52,992,mostly true
+8,993,partly true/misleading
+92,994,true
+85,995,partly true/misleading
+95,996,partly true/misleading
+95,997,false
+"This statement is mostly true, albeit with some caveats and assumptions. Assuming that democratization of knowledge means universal access to education of quality, some statements imply that this has already been successfully implemented to a significant amount. We can observe elements of truth in the statement, for example, broadening access to education, specifically through expanding access to preschools and pre-schools. This is exemplified by the Plan National Education (PNE) which aims for half of all children aged 3-5 years old to be enrolled in school or preschools by 2024. This is further supported by the statement's use of the word ""continuar"" which translates to the verb ""to continue"". However, the statement is false in regards to the idea that access to knowledge is a consequence of democratization. Overall, I give this statement a score of 80.",998,complicated/hard to categorise
+84,999,partly true/misleading
