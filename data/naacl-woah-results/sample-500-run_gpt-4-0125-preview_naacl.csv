@@ -1,0 +1,509 @@
+original_id,original_input,label,openai_resp,language,task
+2619,"რაც ""ნაციონალურმა მოძრაობამ"" 8 წელიწადში აჭარაში გზა დააგო, ჩვენ ოთხ წელიწადში მოვასწარით",true,50,ka,gpt-4-0125-zero-shot-100-threshold
+456,Przez ostatni rok bezrobocie osiągnęło w Niemczech najniższy poziom od roku 1991.,true,50,pl,gpt-4-0125-zero-shot-100-threshold
+102,"Os estados onde você teve a maior piora no nível de homicídios (...) é Maranhão, Pará, Bahia, Rio Grande do Sul, Ceará",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+3037,Foto Unjuk Rasa Driver Go-Jek Hasil Suntingan,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+1126,"Orientações de prevenção ao corona vírus (sic). (...) Tomar chá de erva-doce duas vezes ao dia. O chá de erva-doce tem a mesma substância que o medicamento Tamiflu, o remédio usado para tratar a gripe A - H1N1",false,0,pt,gpt-4-0125-zero-shot-100-threshold
+1003,الشرطة الأميركية تلقي القبض على أميركي من أصل سوداني ظنا منها أنه من مثيري الشغب؛ ليتبين أنه عميل في مكتب التحقيقات الفيدرالي,false,50,ar,gpt-4-0125-zero-shot-100-threshold
+914,„În Sectorul 6 [...] avem cele mai puține creșe din București. Doar trei creșe la o populație de sute de mii de locuitori.”,partly true/misleading,50,ro,gpt-4-0125-zero-shot-100-threshold
+571,CEK FAKTA DEBAT CAPRES : Capres Jokowi Klaim Impor Jagung Turun? Ini Data BPS,false,85,id,gpt-4-0125-zero-shot-100-threshold
+3016,Quante sono in Italia le madri che lavorano?,true,50,it,gpt-4-0125-zero-shot-100-threshold
+419,"Estou pessoalmente consternado com o incêndio que atingiu a Catedral de Notre-Dame, símbolo da cultura ocidental e da fé cristã. Me solidarizo à todos os ingleses nesse momento tão difícil e doloroso",false,0,pt,gpt-4-0125-zero-shot-100-threshold
+2771,विंग कमांडर अभिनंदन की पत्नी ने की सैनिकों के बलिदान पर राजनीति न करने की अपील,false,50,hi,gpt-4-0125-zero-shot-100-threshold
+3033,ظهور شخص في أحراش عجلون يدعي أنه طرزان.,false,50,ar,gpt-4-0125-zero-shot-100-threshold
+2233,"Foto von verletzter Frau, die angeblich von George Floyd geschlagen wurde",mostly false,50,de,gpt-4-0125-zero-shot-100-threshold
+356,गुजरात के सूरत में पकड़े गए नकली नोटों की तस्वीर.,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+2418,Não estou fazendo aqui acusação a meu adversário [de que ele seja responsável pela divulgação de vídeo que viralizou e mostra homem mantendo relações sexuais com várias mulheres],partly true/misleading,50,pt,gpt-4-0125-zero-shot-100-threshold
+1728,La Covid-19 è davvero «poco più di una normale influenza»?,partly true/misleading,10,it,gpt-4-0125-zero-shot-100-threshold
+130,A dúvida surgiu nas redes sociais. Milhares de posts foram colocados ......,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+122,"İşsizlik oranı bütün kriz dönemlerini aştı yüzde 10,9 oldu.",true,50,tr,gpt-4-0125-zero-shot-100-threshold
+383,தமிழகத்தில் தனித்துப்போட்டியிட்டால் 660 இடங்களில் ஜெயிப்போம்! பா.ஜ.க பொதுச் செயலாளர் கே.டி.ராகவன் பேட்டி,false,50,ta,gpt-4-0125-zero-shot-100-threshold
+895,"Rozwiązanie Kukiz’15, które mówi o tym, by sędziów Trybunału wybierała większość kwalifikowana dwóch trzecich głosów (…) to jest dobre rozwiązanie. Tym bardziej, że pół roku później Komisja Wenecka uważała, stwierdziła, że ten pomysł Kukiz’15 jest jedynym rozwiązaniem.",false,50,pl,gpt-4-0125-zero-shot-100-threshold
+952,La Costituzione e la nostra ignoranza,mostly true,50,it,gpt-4-0125-zero-shot-100-threshold
+2069,"Na época que surgiu o mensalão, eu e (o ex-presidente) José Alencar saímos do PL (Partido Liberal) e fundamos o PRB (Partido Republicano Brasileiro)",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2465,Na koniec 2019 roku w kraju mieliśmy ok. 800 domów i klubów seniora.,complicated/hard to categorise,85,pl,gpt-4-0125-zero-shot-100-threshold
+108,10-ம் வகுப்பிற்கு இனி தமிழ் மற்றும் ஆங்கிலத்திற்கு 2 தாள் கிடையாது. ஒரே தாள் மட்டுமே. 11 மற்றும் 12-ம் வகுப்பில் ஏதாவது ஒரு மொழிப்பாடத்தை மட்டுமே தேர்ந்தெடுக்கும் முறையை அமல்படுத்த பள்ளிக் கல்வித்துறை பரிந்துரை செய்துள்ளது.,false,50,ta,gpt-4-0125-zero-shot-100-threshold
+2298,Amazonas: 100 mil ONGs. Nordeste: 0 ONGs,false,0,pt,gpt-4-0125-zero-shot-100-threshold
+814,Penangkapan Tuyul di Desa Karangejo Blitar,false,0,id,gpt-4-0125-zero-shot-100-threshold
+2932,जेएनयू छात्रसंघ की पूर्व उपाध्यक्ष शहला राशिद ने पाकिस्तान के झंडे वाली साड़ी पहनी.,false,0,hi,gpt-4-0125-zero-shot-100-threshold
+2661,Uma publicação de 2010 voltou a circular nas redes sociais e muitos l......,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+2872,TripAdvisor notuje Gdańsk jako jedno z najbardziej atrakcyjnych miejsc do odwiedzenia na świecie.,partly true/misleading,50,pl,gpt-4-0125-zero-shot-100-threshold
+2232,شاب تونسي منقذ اسمه عبد العالي، أنقذ 13 طفلاً ينتمون لمُخيم صيفي من الغرق، بينهم 4 أطفال أخرجهم في حالة غيبوبة وذلك دفعة واحدة في يوم واحد.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+1718,Hanya Bermodalkan Ini Mereka Ingin Mahzulkan Presiden,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+902,"Milli gelirine oranla, dünyada en yüksek asgari ücrete sahip olan ülkeyiz.",false,50,tr,gpt-4-0125-zero-shot-100-threshold
+1839,Ustaz Fadlan Garamatan Tidak Maju Sebagai Caleg Dari PDIP,true,50,id,gpt-4-0125-zero-shot-100-threshold
+2413,"W analogicznym okresie w 2019 r. ilość nowych ognisk (ASF – przyp. Demagog) w roku 2020 spadła o 60%. Raptem kilka w Polsce nowych ognisk, kiedy chociażby w Rumunii 1163 ogniska.",partly true/misleading,50,pl,gpt-4-0125-zero-shot-100-threshold
+1139,Hollanda’nın tarım geliri kaç milyon dolar bizim ise yarısını bile bulmuyor.,true,50,tr,gpt-4-0125-zero-shot-100-threshold
+3315,Está a circular nas redes sociais uma publicação em que se acusa a ba......,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+3560,“Hay una disminución de las tasas de criminalidad que teníamos”,complicated/hard to categorise,50,es,gpt-4-0125-zero-shot-100-threshold
+26,"உத்தரகாண்டில் ஆம் ஆத்மி கட்சி போட்டியிடவே இல்லை என அக்கட்சித் தலைவர்கள் தெரிவித்து உள்ளனர். ஆனாலும், டைம்ஸ் நவ் கருத்து கணிப்பில் 2.9% வாக்குகள் பெற்றதாக தெரிவித்து உள்ளது.",true,50,sr,gpt-4-0125-zero-shot-100-threshold
+3108,"„I u to najteže vreme (devedesetih godina), uz užasan život, koji je posle toga promenjen u značajno bolji život, uspeli smo da sačuvamo osnove naše industrijske i poljoprivredne prozvodnje, srž i suštinu naše privrede, koja je suštinski rasturena i opljačkana od 2000. do 2007. godine, a zatim katastrofalnim merama Srbija dovedena do potpune ivice bankrotstva, od 2008. do 2012.“",false,50,sr,gpt-4-0125-zero-shot-100-threshold
+3300,ჩვენ შევძელით და დოლარიზაციის დონე შევამცირეთ,mostly true,50,ka,gpt-4-0125-zero-shot-100-threshold
+653,Inexplicavelmente tem mais votos computados do que eleitores registrados em Wisconsin,false,0,pt,gpt-4-0125-zero-shot-100-threshold
+2859,Erzurum en fakir 3 ilden bir tanesi.,mostly true,50,tr,gpt-4-0125-zero-shot-100-threshold
+1731,Kemenhub Beri Klarifikasi Atas Kabar yang Menyebutkan Ada 2 Pegawai Ditahan Usai Kebakaran di Gedung Kemenhub,true,50,id,gpt-4-0125-zero-shot-100-threshold
+1393,"Publicação na página ""Benfica Campeão"" indica que o jornal britânico ......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1138,16 000 სერთიფიცირებული მასწავლებლიდან მხოლოდ 8 000 იღებს მაქსიმალურ ანაზღაურებას,true,50,ka,gpt-4-0125-zero-shot-100-threshold
+636,पश्चिम बंगाल में रोहिंग्या और बांग्लादेशियों के दिलीप घोष पर हमले का वीडियो.,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+881,Pembunuhan Massal Berkedok Corona,partly true/misleading,0,id,gpt-4-0125-zero-shot-100-threshold
+3127,"Jeżeli chodzi o kancelarię prezydenta, premiera wzrosły (wydatki na administrację - przyp. Demagog) w tych ostatnich latach dwukrotnie.",partly true/misleading,50,pl,gpt-4-0125-zero-shot-100-threshold
+1378,“Narasi dalam Poster AHY Ketua Umum Partai Demokrat Periode 2020-2025”,partly true/misleading,100,id,gpt-4-0125-zero-shot-100-threshold
+418,خصوبة الرجال في مصر تدفع لتزايد عدد السكان ليصل قرابة 153 مليون نسمة عام 2052.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+379,O comentador da TVI afirmou que as Honduras registam a maior taxa de ......,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1556,"Confirmado: Christian Brueckner raptou e matou Maddie McCann, desta......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+396,"Gentiloni ha ragione sul crollo degli sbarchi, meno su quello dei morti in mare",mostly true,50,it,gpt-4-0125-zero-shot-100-threshold
+1470,"Sierra Madre, Kalifornien: Bienen sterben wegen 5G",false,0,de,gpt-4-0125-zero-shot-100-threshold
+3471,“No hay ningún control con la gente que viene a nuestro país”,complicated/hard to categorise,50,es,gpt-4-0125-zero-shot-100-threshold
+1408,Camilo SATANÁS proibiu a bandeira do Brasil e o povo cearense deu o troco,false,0,pt,gpt-4-0125-zero-shot-100-threshold
+2472,Kasus ABG Ancam Tembak Jokowi Akhirnya Selesai di Luar Pengadilan,true,50,id,gpt-4-0125-zero-shot-100-threshold
+1083,"VAZOU!!! Áudio de Ricardo Certi, assessor da Casa Civil do Camilo para o Sistema Verdes Mares",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+3305,"एक किताब की आलमारी में बने तीर के निशान, जो सुझाव देते हैं कि अगर आप नरेंद्र मोदी पर लिखी किताब पसंद करते हैं तो हिटलर पर लिखी किताब भी पढ़ें.",mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+177,MWM (...) [anunciou] o fechamento [de sua fábrica] na Argentina,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+2988,პენსია ფაქტობრივად დაუახლოვდა 2012 წლის მონაცემს,false,50,ka,gpt-4-0125-zero-shot-100-threshold
+1881,"2015'te, yüzde 3.8'lik son çeyrekteki büyümemizle beraber, dünyanın en hızlı büyüyen yedinci ülkesiyiz.",false,50,tr,gpt-4-0125-zero-shot-100-threshold
+2196,"“Otvorićemo prihvatilište za mališane, po prvi put u Beogradu, jer u Beogradu, dakle, ne postoji prihvatilište za decu.”",false,0,sr,gpt-4-0125-zero-shot-100-threshold
+511,सोशल मीडिया पर एक वीडियो वायरल हो रहा है जिसमें कहा जा रहा है कि गलवान घाटी में भारतीय सेना के जवानों ने ढोल-ताशे बजाते हुए गणेशोत्सव मनाया.,partly true/misleading,50,hi,gpt-4-0125-zero-shot-100-threshold
+1550,"O Brasil tem 22 hidrelétricas, das quais 20 foram construídas durante o regime militar (foto)",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+322,"முஸ்லீம் நபர் ஒருவர் தனது சொந்த மகளையே திருமணம் செய்து கொண்டு, கருவுறச் செய்து உள்ளார். அல்லாவின் அனுமதி பெற்றதாக அஃபாஸுதீன் கூறியுள்ளார். இவர்களின் திருமணத்திற்கு அவரின் மனைவியே சாட்சி.",partly true/misleading,0,ta,gpt-4-0125-zero-shot-100-threshold
+2261,"საქართველოს აქვს ყველაზე ძლიერი ეკონომიკური ზრდა არა მარტო რეგიონში, არამედ, ფაქტიურად, მსოფლიოში",false,20,ka,gpt-4-0125-zero-shot-100-threshold
+1200,"Otóż w ubiegłym roku na Przystanku Woodstock doszło do ponad 200 przestępstw. W większości były to przestępstwa związane z narkotykami, były także gwałty.",true,50,pl,gpt-4-0125-zero-shot-100-threshold
+3397,"Importujemy 13,5 mln ton węgla z Rosji.",true,50,pl,gpt-4-0125-zero-shot-100-threshold
+2574,(...) Foram criadas 50 mil vagas em creches,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+2533,“Meu plano de governo tem quase 170 folhas”,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+3529,“[Tiene] un costo fiscal enorme,complicated/hard to categorise,50,es,gpt-4-0125-zero-shot-100-threshold
+1481,Lula já tem data e hora para ser posto em liberdade,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2364,A febre amarela urbana é transmitida pelo mosquito Aedes aegypti,true,100,pt,gpt-4-0125-zero-shot-100-threshold
+787,"İzmir Ankara’ya 5 veriyor, siz İzmir’e 1 veriyorsunuz.",mostly true,50,tr,gpt-4-0125-zero-shot-100-threshold
+2885,"„Nu a avut nici măcar o deplasare dedicată românilor din diaspora. Nici măcar una. Mai mult decât atât, chiar dacă s-a deplasat în state unde [...]",false,50,ro,gpt-4-0125-zero-shot-100-threshold
+284,صورة تعود إلى الطفلين اللذين ألقتهما والدتها في نهر دجلة.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+187,عضو الكونغرس الأميركي إلهان عمر تقول إنه لا حاجة لتسجيل الناخب من أجل التصويت في ولاية مينيسوتا.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+2708,Ostatnia liczba: 65 tysięcy ludzi codziennie przywozimy i odwozimy z Wrocławia.,complicated/hard to categorise,50,pl,gpt-4-0125-zero-shot-100-threshold
+933,"„როდესაც რეგიონი იზრდება 0.1%-ით, 5%-იანი ზრდა არის ძალიან ამბიციური განაცხადი“",mostly false,50,ka,gpt-4-0125-zero-shot-100-threshold
+3166,Zitate von AfD-Politikern und AfD-Mitarbeitern,mostly true,50,de,gpt-4-0125-zero-shot-100-threshold
+1185,W kilku krajach europejskich taki zakaz (hodowania zwierząt futerkowych) już funkcjonuje.,true,100,pl,gpt-4-0125-zero-shot-100-threshold
+326,Video “Detik-Detik Pesawat Komersial Jatuh di Pemukiman Dekat Bandara Internasional Jinnah Karachi Pakistan”,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+3503,“No hubo una pérdida de salario real”,partly true/misleading,50,es,gpt-4-0125-zero-shot-100-threshold
+953,Esta tarde o cabeça de lista do CDS às eleições europeias acusou o Pr......,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+3549,verdades a medias,other,50,es,gpt-4-0125-zero-shot-100-threshold
+413,सऊदी अरब में पड़ रही है इतनी गर्मी कि पिघल रही है का,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+3605,"“En Provincia, se perdieron 271.000 empleos en un año”",mostly true,50,es,gpt-4-0125-zero-shot-100-threshold
+3612,“El 90% de los siniestros se producen por error humano”,true,85,es,gpt-4-0125-zero-shot-100-threshold
+1857,Está a propagar-se velozmente nas redes sociais uma imagem de Mariell......,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2603,Ribuan Ikan Mati Di Tepi Pantai Bali,false,50,id,gpt-4-0125-zero-shot-100-threshold
+3416,"Dubes China Buka Kartu: Tiap Tahun, 2 Juta Lebih Warga Kami Masuk Indonesia",partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+1494,"Essa é a juíza que condenou o Danilo Gentili. Está explicado, não é?",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+666,Fumar canábis leva homens heterossexuais a ficar mais predispostos a ......,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1516,"“U narednom periodu očekujem da se nastavi proces koji je već započet, a to je rešavanje pitanja problematičnih kredita. Strategija za rešavanje ovog važnog pitanja usvojena je u avgustu prošle godine, a od njene implementacije, učešće ovih kredita u ukupnim kreditima je smanjeno za 2,2 procentna poena. Ja sam preterao kada sam rekao na 18,6, na 20,2% je tačan podatak.”",true,50,sr,gpt-4-0125-zero-shot-100-threshold
+1455,“Patung Ahok di museum lilin Madame Tussauds Hongkong”,false,0,id,gpt-4-0125-zero-shot-100-threshold
+858,صورة لطفلة سورية تصدرت أغلفة الصحف البريطانية، وأُطلق عليها لقب سندريلا الحروب.,partly true/misleading,85,ar,gpt-4-0125-zero-shot-100-threshold
+2745,W Polsce rocznie odnotowuje się 6 tys. samobójstw.,false,75,pl,gpt-4-0125-zero-shot-100-threshold
+1093,"وزير الاقتصاد التركي السابق علي باباجان: ""تركيا على وشك الإفلاس ورصيد الاحتياطي صفر"".",partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+2874,"“SEBELUM DI SETRUM MATI, PERMINTAAN PRIA INI MEMBUAT SURAT WASIAT PADA IBUNYA”",partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+2799,तस्वीर में दिख रहा आदमी कोरोना मरीज था जिसे लेडी डॉक्टर से प्यार हो गया. दोनों ने मिस्र के अस्पताल में इंगेजमेंट कर ली.,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+2654,Gambar “Pilih Golkar”,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+292,"Alerta do coronavírus em encomendas da China‼ Diariamente, centenas ou até milhares de brasileiros esperam pacientemente suas compras de sites como AliExpress, Wish e Lightinthebox. Um médico infectologista confirma que estudos mostram que o vírus pode ser encontrado em materiais inorgânicos como papel e tecido. Fica o Alerta",complicated/hard to categorise,20,pt,gpt-4-0125-zero-shot-100-threshold
+2495,O prefeito cortou ao longo de seus três anos (o total de ônibus). Nós estamos com 3 mil a menos,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2600,पाकिस्तान में हिंदू महिलाओं को उनके बच्चों के सामने जबरदस्ती उठाकर ले जाने का वीडियो.,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+700,Eu apresentei 15 projetos no Congresso Nacional visando a aumentar a taxa de crescimento e a taxa de renda e o número de empregos,partly true/misleading,50,pt,gpt-4-0125-zero-shot-100-threshold
+2187,Kopacz: „Wprowadziliśmy wtedy kiedy byłam premierem program Senior-WIGOR. […] On już się nie nazywa Senior-WIGOR to już jest Senior+„. Kolenda-Zalewska: „Oprócz nomenklatury coś się zmieniło w tym programie”? Kopacz: „Obcięli pieniądze też na to„.,true,50,pl,gpt-4-0125-zero-shot-100-threshold
+2986,லண்டனில் உள்ள மெட்ரோ ரயில் நிலையத்தில் தமிழ் மொழி. இந்தியாவிலோ- உலகின் பழமையான தமிழ் மொழிக்கு உண்டான உரிமையை கேட்டு போராடிக்கொண்டிருக்கிறோம்.,true,50,ta,gpt-4-0125-zero-shot-100-threshold
+1002,"Além dos resultados desportivos, também as contas e os investimentos ......",partly true/misleading,50,pt,gpt-4-0125-zero-shot-100-threshold
+669,Lá (EUA) onde acontece (tiroteio) são locais onde há desarmamento. Onde não vai ter ninguém armado. Foi assim na boate gay (de Orlando),false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1893,جلسة عامة في مجلس نواب الشعب التونسيّ، لمساءلة رئيسه راشد الغنوشي.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+1554,"Ogólnie przyjmuje się, że pojazdy elektryczne są bezpieczniejsze dla środowiska od tych spalinowych, jeśli zostają naładowane energią z odnawialnych źródeł lub gdy emisyjność produkcji energii elektrycznej jest mniejsza niż 400 g CO2/kWh. W Polsce wskaźnik ten jest niestety dwukrotnie wyższy i wynosi około 1 kg CO2/kWh.",partly true/misleading,85,pl,gpt-4-0125-zero-shot-100-threshold
+1105,"Jest kilka innych podmiotów, które mogą wnieść wniosek w sprawie tej ustawy tj. Prokurator Generalny, Pierwszy Prezes Sądu Najwyższego, Krajowa Rada Sądownictwa, grupa posłów i grupa senatorów.",true,100,pl,gpt-4-0125-zero-shot-100-threshold
+2621,[Prezydent Sopotu zarabia] około 12 tysięcy złotych brutto.,true,50,pl,gpt-4-0125-zero-shot-100-threshold
+2818,"Seria importante que o secretário de Estado da Habitação, Jorge More......	false
+pl	demagog.org.pl	Pamiętajmy, że nie ma na świecie przypadków śmiertelnych wśród małych dzieci, do 9. roku życia.	czego celem ma być osiągnięcie do roku 2000 takiego stanu zdrowia ... nie i ekonomicznie satysfakcjonując)' poziom życia. ... jak i daleko ważniejszy współczynnik zgonów były znacznie większe wśród ... W przypadku, gdy nie ma możliwości uzys- ... oszacowanie współczynników umieralności niemowląt i małych dzieci.	Aug 12, 2020 — Koronawirus: COVID-19 u dzieci nie zawsze przebiega łagodnie ... że dzieci do piątego roku życia mają tysiąc razy więcej wirusów w jamie ... Wkrótce ma rozpocząć indywidualne zajęcia rehabilitacyjne ... Zachorowania na COVID-19 wśród dzieci są nieliczne w porównaniu do ... Może być śmiertelna.	May 9, 2020 — Dzieci nie odgrywają istotnej roli w rozprzestrzenianiu się koronawirusa, ... Wśród dzieci do 10 roku życia umieralność na koronawirusa nie ... Co z tego pamiętamy? ... wśród małoletnich zezwolili małym dzieciom na kontakt z dziadkami. ... Lutowy raport WHO podsumowujący przypadki zakażeń w Chinach ...	Co najważniejsze, książka ta nie ma sugerować podejścia diagnostycznego czy ... wszystkim staramy się zwiększać świadomość istnienia PNO wśród lekarzy ... Ta książka uratowała mi życie. ... Układ odpornościowy i pierwotne niedobory odporności. 9. Każda klasa lub ... dotyczyły przypadków stwierdzonych u dzieci, ale.	https://demagog.org.pl/wypowiedzi/czy-mamy-przypadki-zgonow-dzieci-na-covid-19/	https://apps.who.int/iris/bitstream/handle/10665/43541/8386052716_pol.pdf?sequence=8&isAllowed=y	https://www.medonet.pl/koronawirus-pytania-i-odpowiedzi/koronawirus-u-dzieci,koronawirus--coraz-wiecej-dzieci-choruje-na-covid-19,artykul,10509402.html	https://dadhero.pl/286373,co-wiemy-o-tym-jak-dzieci-choruja-na-koronawirusa-zebralismy-dane-i-fakty	https://primaryimmune.org/wp-content/uploads/2016/04/POLISH-Patient-and-Family-Handbook-3rd-Edition-PNO_przewodnik_dla_pacjentow_i_ich_rodzin.pdf	2020-03-02T00:00:00Z	2020-03-05T00:00:00Z	Tomasz Latos	Pamiętajmy, że nie ma na świecie przypadków śmiertelnych wśród małych dzieci, do 9. roku życia.	true
+pt	poligrafo.sapo.pt	Nov 3, 2020 — O treinador do Benfica fez, na conferência de Imprensa, a análise ao desafio com o Boavista na 6.ª jornada da Liga NOS. Boavista Benfica 6.	4 days ago — Direto. Futebol. Conferência Imprensa. Treinador Jorge Jesus analisa Benfica-SC Braga (2-3), jogo da 7.ª jornada da Liga NOS.	Jul 13, 2020 — Em conferência de Imprensa realizada no Benfica Campus, Nélson Veríssimo garantiu um ... O treinador do Benfica anteviu o desafio da 32.	Jun 10, 2020 — O treinador do Benfica admitiu que a formação encarnada tem de prolongar o seu melhor. Na conferência de Imprensa de análise ao desafio ...	Nov 29, 2018 — Rui Vitória continuará a ser nosso treinador”, garantiu o presidente do Benfica, Luís Filipe Vieira, numa conferência de imprensa nesta ...	https://www.slbenfica.pt/pt-pt/agora/noticias/2020/11/02/futebol-direto-declaracoes-jorge-jesus-jogo-boavista-benfica-6-jornada-liga-nos	https://www.slbenfica.pt/pt-pt/agora/noticias/2020/11/08/futebol-direto-conferencia-de-imprensa-jorge-jesus-pos-jogo-benfica-braga-7-jornada-liga-nos	https://www.slbenfica.pt/pt-PT/Agora/Noticias/2020/07/13/direto-futebol-antevisao-nelson-verissimo-jogo-benfica-vitoria-de-guimaraes-32-jornada-liga-nos	https://www.slbenfica.pt/pt-pt/agora/noticias/2020/06/10/futebol-conferencia-de-imprensa-bruno-lage-pos-jogo-portimonense-benfica-26-jornada-liga-nos	https://www.publico.pt/2018/11/29/desporto/noticia/conferencia-imprensa-luis-filipe-vieira-rui-vitoria-discutir-futuro-clube-1852965	2018-10-27T18:38:18Z	2018-10-27T18:38:18Z	Rui Vitória	O treinador do Benfica garantiu em conferência de imprensa que é o tr......	false
+pt	piaui.folha.uol.com.br	A norma padrão da língua portuguesa está respeitada, ... Botafogo procurava fazer uma forte marcação no meio ... Chamei o meu capataz Zé do Carmo e disse a ele que ia ... grupos distintos: adolescentes e idosos. ... nenhuma palavra será viva se não provocar o ... variedades linguísticas, o texto mostra que as normas.	as crianças e os adolescentes necessitam da ajuda de profissionais com um perfil ... bém mostram que o comportamento da criança está diretamente associado ao ... a se movimentar melhor) até por volta de um ano e meio a dois anos, que a ... ção10,11,12, mostra-se uma foto ou um objeto ao bebê repetidas vezes até ...	Os herdeiros somos eu e teus irmãos.b) Havendo dois pronomes pessoais, ... É que não varia em frases como as que se seguem (repare que está ... O verbo pode ficar no singular (no Estado, apenas em textos especiais e ... Meu irmão chegou ontem e nem me telefonou ainda. ... fazer. / Falta mandar nove volumes ainda.	Há muito tempo me deparei com o prefácio que um grande poeta, dos ... 93 poderia fazer para preparar meus filhos para viver no ... O mesmo tipo de complemento verbal grifado acima está na frase: ... A alternativa em que a afirmação sobre um elemento do texto mostra ... Podemos achar uma foto interessante ou não.	potencialidade discursiva do idioma no uso dos meios que estão disponíveis a um artista ... Pelo que toca a Portugal, possuímos textos em latim bárbaro, do séc. ... a linguagem escrita usada até fins do século XV e ainda nos primeiros anos ... fazer a lei sobre a sua língua, o seu gosto, a sua arte e a sua literatura. Essa.	https://www.contatomaceio.com.br/enem_downloads/69_arquivo.pdf	http://cienciasecognicao.org/neuroemdebate/wp-content/uploads/2015/08/aprendizagem-comportamento-e-emocoes-na-infancia-e-adolescente-uma-visao-transdisciplinar-elisabete-castelon-konkiewitz-org.pdf	https://quizlet.com/br/182391685/redacao-21-flash-cards/	https://www.exponencialconcursos.com.br/questoes/main/imprimir_meus_cadernos_html/336233	http://funag.gov.br/biblioteca/download/696-Estudos_da_lingua_portuguesa.pdf	2019-06-26T14:36:27Z	2019-06-26T14:36:27Z	Facebook	-Manheeeee estão me provocando e mandando indiretas ao meu governo catastrófico, vou fazer textão e tirar uma foto Emo mostrando o dedo do meio. Somos governados por um adolescente de 14 anos	false
+ta	youturn.in	ஆப்பிரிக்காவில் இருந்து வெளியேறி இந்தியாவிற்கு இடம்பெயர்ந்த முதல் மனிதனின் 70,000 வருடங்கள் மிக பழமையான M130 ஜீன் ரகம் மதுரையைச் சேர்ந்த ஒரு குடும்பத்திடம்...	ஆப்பிரிக்காவில் இருந்து வெளியேறி இந்தியாவிற்கு இடம்பெயர்ந்த முதல் மனிதனின் 70000 வருடங்கள் மிக பழமையான M130 ஜீன் ரகம் மதுரையைச் சேர்ந்த ஒரு...	Jul 29, 2014 — இந்தியாவில் குடியேறிய முதல் மனிதனின் வாரிசு. ... முதல் மனிதனின் வாரிசு தமிழகத்தில், மதுரை அருகே ஒரு ... 30 வயது நபரின் ஜீன், கிட்டத்தட்ட 70,000 ஆயிரம் ஆண்டுகளுக்கு ... காமராஜர் பல்கலைக்கழகத்தின் மரபியல் துறையைச் சேர்ந்த ... dna africa ஆப்பிரிக்கா மதுரை.	Nov 28, 2012 — It should be noted that 90% of the C-M130 samples reported here (66 out of 74) were positive for C5-M356 while the rest were negative for both C3-M217 and C5-M356 (Table S1). Table 2. Y chromosome haplogroup ...	8,000 - மனிதர்கள் பயிர் விளைவிக்கவும் வீட்டு விலங்குகளை வளர்க்கவும் ... 100 AD - சீனர்கள், தூளாக்கப்பட்ட chrysanthemum-களிலிருந்து முதல் ... Schwann கோட்பாடு வெளியீடு;ஒரு திசுளிலிருந்து தான் இன்னொரு திசுள் ... 1977 - மிக நீளமான DNA துண்டுகளையும் வேகமாக Sequence செய்வதற்கான ...	https://youturn.in/factcheck/first-indian.html	https://www.facebook.com/permalink.php?id=1494346427531394&story_fbid=2116791011953596	https://tamil.oneindia.com/news/india/evidence-first-indian-settlers-found-tamil-nadu-207186.html	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3508930/	https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%AF%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%B2%E0%AF%8D%E0%AE%A8%E0%AF%81%E0%AE%9F%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81	none	2019-07-02T00:00:00Z	Social media users	ஆப்பிரிக்காவில் இருந்து வெளியேறி இந்தியாவிற்கு இடம்பெயர்ந்த முதல் மனிதனின் 70,000 வருடங்கள் மிக பழமையான M130 ஜீன் ரகம் மதுரையைச் சேர்ந்த ஒரு குடும்பத்திடம் கண்டறியப்பட்டுள்ளது.	true
+it	pagellapolitica.it	Mar 1, 2018 — Di Maio ha (quasi) ragione sugli incentivi alle energie fossili. Ci sono 16 miliardi di euro l'anno di incentivi al carbone e al petrolio in un Paese ...",«[La minor spesa per il reddito di cittadinanza] non è deficit. Que... 01 mar 2018. Luigi Di Maio. Di Maio ha (quasi) ragione sugli incentivi alle energie fossili.,75,pt,gpt-4-0125-zero-shot-100-threshold
+2281,"პრეზიდენტმა ვეტო დაადო ისეთ ცვლილებებს, რითაც იზრდება საკრებულოს როლი, მოქალაქეთა ჩართულობა და დეცენ...",false,50,ka,gpt-4-0125-zero-shot-100-threshold
+899,Video “sebagian pekerjaan pembangunan PLTU Morowali”,false,50,id,gpt-4-0125-zero-shot-100-threshold
+2804,"საქართველოში ყოველი 1 000-დან 700 ადამიანს აქვს ბანკის ვალი, ქვეყანაში ჯამური ხელფასის 30%-მდე მიდის...",false,50,ka,gpt-4-0125-zero-shot-100-threshold
+1328,Está a propagar-se um vídeo nas redes sociais no qual se pode ver um ......,false,"I'm sorry, but I can't provide assistance without more specific information about the statement in question.",pt,gpt-4-0125-zero-shot-100-threshold
+3452,„To je uvedeno još davno (PCR testiranje ljudi koji ulaze u zemlju). Tada je isto rečeno za sve zemlje gde je velika transmisija. Ali znate zašto to sad nije problem – niko ne dolazi.“,false,50,sr,gpt-4-0125-zero-shot-100-threshold
+3147,"No primeiro dia de 2020 espalhou-se nas redes sociais uma suposta ""no......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+3178,«La revoca [delle concessioni autostradali ad Autostrade per l’Italia n.d.r.] significherebbe una perdita secca di 20 miliardi»,partly true/misleading,50,it,gpt-4-0125-zero-shot-100-threshold
+229,صورة رجل اعتدت عليه زوجته بعد سماعها له وهو يتحدث مع حبيبته.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+938,منظّمة الصحّة العالمية تصل إلى نتيجة بأن حامل فايروس كورونا المستجد (كوفيد-19) غير مُعدي إلّا عند ظهور أعراض الإصابة عليه.,partly true/misleading,0,ar,gpt-4-0125-zero-shot-100-threshold
+3366,"Você sabe que (...) a nossa principal fonte de receitas é exatamente o ISS, que é o Imposto sobre Serviços",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+131,AK Parti döneminde uygulanan ekonomik politikalarla hane başına düşen gelir 3 kattan fazla arttı,false,50,tr,gpt-4-0125-zero-shot-100-threshold
+3297,ადმინისტრაციულ საზღვრებზე ბლოკპოსტები და მობილური პატრული ბოლო წლებში მნიშვნელოვნად გავაძლიერეთ,complicated/hard to categorise,50,ka,gpt-4-0125-zero-shot-100-threshold
+1292,PBNU Tidak Pernah Menuding Pemerintah Menggunakan Dana CSR BUMN Digunakan Untuk Gerakan Khilafah,true,50,id,gpt-4-0125-zero-shot-100-threshold
+1643,"As prefeituras regionais vão substituir as subprefeituras. Elas serão polos descentralizados de gestão. Ao contrário do que faz a prefeitura hoje, que centraliza, nós vamos descentralizar. Vamos dar orçamentos, bons gestores e eficiência capilarizada nos bairros de São Paulo",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1096,الصحة العالمية تدعو للاقتداء بالتجربة السويدية في مواجهة فايروس كورونا المستجد، بدون حجر ولا كمامات.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+271,"[Com a reforma da Previdência,] O parlamentar vai se aposentar com o teto do INSS, ao todo R$ 5,8 mil",mostly true,50,pt,gpt-4-0125-zero-shot-100-threshold
+864,O site oficial da organização social da Irmã Dulce utiliza a palavra empreendedora,mostly true,50,pt,gpt-4-0125-zero-shot-100-threshold
+2323,جهاز فحص كورونا مجّاني في شوارع دولة الاحتلال الاسرائيلي,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+2940,Maria do Rosário diz que Rota errou em matar 11 bandidos em tentativa de assalto a banco. Ela diz que bandidos nem tiveram a chance de revidar. Tá louca,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1288,"Video “BERITA TERBARU HARI INI ~ SRI MULYANI SUDAH TIDAK SANGGUP LANJUT, SERAHKAN TUGASNYA KE RIZAL RAMLI”",partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+870,„Poskupljenje za domaćinstva će biti oko 10 odsto i kubni metar gasa koštaće oko 36 dinara.“,partly true/misleading,50,sr,gpt-4-0125-zero-shot-100-threshold
+2684,مقطع فيديو يظهر هجوم الأتراك على بنك كويت ترك في العاصمة إسطنبول بعد حملة مقاطعة المنتجات التركية.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+2044,Metade das vagas dos presídios federais [estão] ociosas,partly true/misleading,75,pt,gpt-4-0125-zero-shot-100-threshold
+1620,...çalışmalarla Türkiye dünyada bal üretiminde 2. sıraya yükseldi.,true,85,tr,gpt-4-0125-zero-shot-100-threshold
+2633,Immigrazione e criminalità: i numeri,mostly true,50,it,gpt-4-0125-zero-shot-100-threshold
+1879,Publicação nas redes sociais destaca que na Segurança Social está em ......,mostly true,50,pt,gpt-4-0125-zero-shot-100-threshold
+585,सड़क पर भरे पानी में बहते ट्रैफिक सिग्नल का ये वीडियो हैदराबाद का है.,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+1084,Fitch-მა საქართველოს ეკონომიკური განვითარების პროგნოზი შეამცირა,true,50,ka,gpt-4-0125-zero-shot-100-threshold
+3649,[Logramos un récord] de detención de narcotraficantes,partly true/misleading,50,es,gpt-4-0125-zero-shot-100-threshold
+1010,ნიკა მელია თბილისში შეჩერებული პროექტების შესახებ საუბრობს,mostly true,50,ka,gpt-4-0125-zero-shot-100-threshold
+3051,"„Pensia specială este o componentă a independenței magistraților(...). Este ceea ce spun atât deciziile CCR, cât și convențiile si reglement� [...]",partly true/misleading,50,ro,gpt-4-0125-zero-shot-100-threshold
+2299,"România este ţara din UE care se împrumută cel mai scump. Mai scump şi decât Grecia. Am văzut acum datele de la începutul lunii august, este pr [...]",true,50,ro,gpt-4-0125-zero-shot-100-threshold
+2207,"89% Polaków uważa nasz kraj za bezpieczny, o 9% więcej niż rok temu. To wspaniały dowód uznania dla służb, które nadzoruję! — Mariusz Błaszczak (@mblaszczak) 24 kwietnia 2017",true,50,pl,gpt-4-0125-zero-shot-100-threshold
+1076,''Toptan ve perakende ticaret sektöründe 1 milyon 800 bin kişi istihdam edilmektedir.'',partly true/misleading,50,tr,gpt-4-0125-zero-shot-100-threshold
+3059,2012 წელთან შედარებით მინისტრების ხელფასები მნიშვნელოვანად არის შემცირებული. მშპ-სთან მიმართებით მთლიანი ადმინისტრაციულ ხარჯები შემცირებულია,true,50,ka,gpt-4-0125-zero-shot-100-threshold
+2394,Ato falho? Macron chama a Amazônia de 'nossa casa'! Esta é a mensag......,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1754,"„Ovo je prvi put da je pravosuđe dobilo mogućnost da samo sebe bira, a osnovni kriterijumi bili su stručnost, osposobljenost i dostojnost kandidata.“",partly true/misleading,50,sr,gpt-4-0125-zero-shot-100-threshold
+2390,"“საქართველოს რკინიგზით გადაზიდული ტვირთების რაოდენობის კლებაა, ეს ტენდენცია უკვე მეორე წელია გრძელდე...",mostly true,50,ka,gpt-4-0125-zero-shot-100-threshold
+1635,"W ciągu 100 dni pani premier nie zapowiadała, że wszystko będzie podpisane przez prezydenta i wdrożone, natomiast, że w ciągu tych stu dni znajdą się w Sejmie te projekty ustawy, o których mówiła. I one są (…) albo uchwalone albo w Sejmie albo w komisjach, one się dzieją.",false,50,pl,gpt-4-0125-zero-shot-100-threshold
+1482,"A alegada ""oficialização"" da Bíblia como livro de referência para a n......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+898,"[Meirelles] Saiu da JBS, do Joesley, para o ministério",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+566,"ბოლო პერიოდში სოციალურად დაუცველთა რაოდენობა 450 ათასის ფარგლებშია. თვეში, ცვლილებები მხოლოდ 5 ათასის ფარგლებშია",false,50,ka,gpt-4-0125-zero-shot-100-threshold
+2087,Foto Satelit Pangkalan Militer China di Natuna,false,50,id,gpt-4-0125-zero-shot-100-threshold
+2021,"ევროსაბჭოს რეზოლუცია ""ევროპის სახალხო პარტიის"" კუთვნილებაა",false,50,ka,gpt-4-0125-zero-shot-100-threshold
+372,"Tak jest skonstruowany w Polsce mechanizm referendalny, że on daje wskazówki politykom i parlamentowi. Nie ma mocy wiążącej – to wynika z konstytucji.",false,75,pl,gpt-4-0125-zero-shot-100-threshold
+3095,"Uma semana após a OMS declarar que o continente africano estaria livre do vírus da Poliomielite, a organização foi forçada a admitir um novo surto de pólio no Sudão",mostly true,85,pt,gpt-4-0125-zero-shot-100-threshold
+192,"Flyer “Perjalanan Anda Terganggu, Agar Menyiapkan Surat Keterangan Hasil Rapid Tes”",false,50,id,gpt-4-0125-zero-shot-100-threshold
+449,Pegawai Hotel di Makassar Dipolisikan FPI karena Hina Prabowo-Sandi,other,50,id,gpt-4-0125-zero-shot-100-threshold
+626,"वायरल तस्वीर हिंदुस्तान की है, जहां पर कई परिवार लॉकडाउन के दौरान भूख से तंग आकर आत्महत्या कर रहे हैं.",mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+2570,Pemakaian Masker Menyebabkan Penyakit Legionnaires,partly true/misleading,20,id,gpt-4-0125-zero-shot-100-threshold
+655,A presidência da Câmara dos Deputados resolve convocar os membros da Comissão Especial destinada a dar parecer sobre a denúncia contra a senhora presidente da República por crime de responsabilidade,complicated/hard to categorise,50,pt,gpt-4-0125-zero-shot-100-threshold
+3244,Porto Alegre e Você. Aviso importante à comunidade. Os funcionários responsáveis pela coleta de lixo pedem que as famílias que tenham um familiar doente do Covid-19 separem o lixo do seu doente e o coloquem em um saco com fita vermelha e pulverizem com um desinfetante,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2787,Integrar novamente o transporte municipal com o transporte metropolitano,mostly true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1729,"System D’Hondta daje olbrzymią premię największym partiom, dostają olbrzymie premie.",true,75,pl,gpt-4-0125-zero-shot-100-threshold
+2442,"În prezent, pe medie desigur, pentru că nu toate spitalele bucureștene sunt egale ca număr de paturi și complexitate a actelor medicale pe care le [...]",false,50,ro,gpt-4-0125-zero-shot-100-threshold
+260,Video Pemotor yang Melintas di JLNT Casablanca Tak Ditilang Polisi Karena Punya Black Card,true,50,id,gpt-4-0125-zero-shot-100-threshold
+1576,W czasie trwania rządowego programu urodziło się ponad 1650 dzieci. [in vitro],true,50,pl,gpt-4-0125-zero-shot-100-threshold
+1563,"„Odată ce s-au atins 100 de cazuri într-o țară, tendința este ca, după 7 zile, să se ajungă deja la 1.000 de cazuri.""",partly true/misleading,50,ro,gpt-4-0125-zero-shot-100-threshold
+2440,FOMOS ENGANADOS?! Organização Mundial da Saúde alerta sobre máscara ser desnecessária para pessoas saudáveis. Por que estamos sendo obrigados a usar?,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1917,جراثيم التعليم الستّ بحسب Pasi Sahlberg، الأب الروحي للتعليم في فنلندا.,partly true/misleading,85,ar,gpt-4-0125-zero-shot-100-threshold
+2167,صورة كبيرة للرئيس الجزائري الراحل هواري بومدين في أحد شوارع العاصمة الكوبية هافانا استعداداً للاحتفال بذكرى خطاب ألقاه في الأمم المتحدة.,false,50,ar,gpt-4-0125-zero-shot-100-threshold
+1029,Son 12 yılda binden fazla asker intihar etti. Bunların büyük bölümü Çözüm Süreci'nde gerçekleşti.,partly true/misleading,50,tr,gpt-4-0125-zero-shot-100-threshold
+2266,"«Dal 2011 la Germania viola sistematicamente le regole europee sforando il tetto del 6 per cento sulla bilancia commerciale [...]. Le regole europee valgono per tutti tranne che per la Merkel, in questi anni la Commissione UE si è limitata solo a richiamare Berlino dalle violazioni, ma senza sortire alcun effetto»",partly true/misleading,75,it,gpt-4-0125-zero-shot-100-threshold
+47,Seorang Syekh Palestina yang Sedang Ibadah di Masjidil Aqsa Ditembak Oleh Zionis Israel,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+2786,Luxusautos auf Grünen Parkplatz,false,50,de,gpt-4-0125-zero-shot-100-threshold
+2952,6000 ஆண்டுகளுக்கு பழமையான ஸ்ரீராமர் மற்றும் ஹனுமனின் சிற்பம் ஈராக் நாட்டில் கண்டெடுக்கப்பட்டுள்ளது. 3 ஆண்டுகளுக்கு முன்பே கண்டுபிடித்தும் ஏன் வெளிச்சத்துக்கு வரவில்லை. யோசிங்க மக்களே..!,false,0,ta,gpt-4-0125-zero-shot-100-threshold
+469,இதுதான் யூனிஸ்கான் மகன் பெரோஸ்கான். அதாவது நேருவின் மகளாகிய இந்திராவின் கணவன்.. இதில் புரியாத புதிர் என்ன என்றால் நேருவின் மகளும் பெரோஸ்கானின் மனைவியுமாகிய இந்திராக்கான் எப்படி இந்திராகாந்தி ஆனதுதான்.,false,50,ta,gpt-4-0125-zero-shot-100-threshold
+2792,"საპროცესო შეთანხმებებიდან 2009 წელს ბიუჯეტში შევიდა 60 მლნ ლარი, 2010 წელს – 96 მლნ ლარი, 2011 წელს ...",mostly false,50,ka,gpt-4-0125-zero-shot-100-threshold
+2199,სახელმწიფომ დაურეგისტრირებელი მიწების თავის საკუთრებად რეგისტრაცია მოსახლეობისგან ფარულად დაიწყო,true,50,ka,gpt-4-0125-zero-shot-100-threshold
+3075,"„Comparativ cu luna iunie 2018, în luna iunie 2019 s-au înregistrat scumpiri cu 5% la alimente, cu aproape 3% la produsele nealimentare și cu 4,2% [...]",partly true/misleading,50,ro,gpt-4-0125-zero-shot-100-threshold
+1092,"कोरोना वायरस के चलते राहत कार्य का वीडियो, जहां गैर मुस्लिमों को खाना देने से पहले उसमें थूका जा रहा है.",mostly false,0,hi,gpt-4-0125-zero-shot-100-threshold
+3148,Jeden Abend werden 1600 E-Scooter mit 48 Diesel-Kleinbus-Touren abgeholt,mostly true,50,de,gpt-4-0125-zero-shot-100-threshold
+2625,2018-11-01T07:30:08Z,Wilson Witzel,50,ro,gpt-4-0125-zero-shot-100-threshold
+3613,"[El fracking] está prohibido en varios estados de los Estados Unidos, en Francia, en varios países de Europa",true,85,es,gpt-4-0125-zero-shot-100-threshold
+3655,"“En el gobierno de CFK, Kirchner y Duhalde aumentaron las villas miseria en un 55%”",partly true/misleading,50,es,gpt-4-0125-zero-shot-100-threshold
+1202,"Czy wiemy, jakie są konsekwencje wprowadzenia stanu nadzwyczajnego? I nie mówię o tych finansowych. Mówię o tym, że będziemy mieć wojsko na ulicach, pozamykane portale internetowe. (...) No więc w stanie wyjątkowym… pozamykane rozgłośnie radiowe. Naprawdę tego… naprawdę tego chcemy?",partly true/misleading,50,pl,gpt-4-0125-zero-shot-100-threshold
+1780,"Die Corona-Maßnahmen der Regierung waren unnötig und unwirksam, das zeigt die Reproduktionszahl des Virus",partly true/misleading,50,de,gpt-4-0125-zero-shot-100-threshold
+647,"நரேந்திர மோடி தலைமையிலான அரசு மக்களுக்கு ஏற்பட்டு இருக்கும் பொருளாதார பிரச்சனையைத் தீர்க்க "" ஹெலிகாப்டர் மணி"" என்ற முயற்சியை கொண்டு வருகிறது.",false,0,ta,gpt-4-0125-zero-shot-100-threshold
+1858,قتل أردني خمسة من عناصر الأمن بعد منعه من إسعاف ابنته إلى المشفى، وتوفيت إثر ذلك.,false,50,ar,gpt-4-0125-zero-shot-100-threshold
+13,زلزال ولاية ميلة في الجزائر يكشف عن مزرعة وآثار رومانية في باطن الأرض.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+2957,A cobaia do Dória que tomou a vacina,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2947,இந்தியாவில் ஊழல்கள் அதிகம் நடைபெறும் மாநிலங்கள் பட்டியலில் கர்நாடகா முதல் இடத்தை பிடித்துள்ளது. ஹிமாசலப்பிரதேசம் மற்றும் கேரளா மாநிலங்கள் பட்டியலின் இறுதி இடங்களில் உள்ளன.,true,50,ta,gpt-4-0125-zero-shot-100-threshold
+1078,"“O orçamento da saúde em Campo Grande é de R$ 1,290 bilhão”",mostly true,50,pt,gpt-4-0125-zero-shot-100-threshold
+2050,Le imprese bergamasche sono presenti in 70 Paesi con 733 stabilimenti,partly true/misleading,85,it,gpt-4-0125-zero-shot-100-threshold
+3120,"A companhia vai fazer a partir de amanhã, já está com os nomes, uma doação. Digo doação porque isso nada tem a ver com indenização. Uma doação de R$ 100 mil para suprir essas necessidades de curto prazo para cada uma dessas famílias",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+731,"Neymiş? 1923-1950 arasında yapılan toplam 3,4 milyar dolar ihracat şimdi bir haftada yapılıyormuş! İyi de aynı dönemde Türkiye’nin dış ticaret açığı sıfır! Bugün ise haftada 1,2 milyar doları buluyor.",true,50,tr,gpt-4-0125-zero-shot-100-threshold
+2079,ஐ.நா. நல்லெண்ண தூதரான மதுரை மாணவி.,false,50,ta,gpt-4-0125-zero-shot-100-threshold
+435,Tribunal divulga documento que prova inocência de Lula,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2561,Banser di Gereja Membawa Pulang Nasi Tumpeng,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+1222,شرطي مدينة مينيابوليس المتهم بقتل الأميركي من أصل أفريقي جورج فلويد، خنقاً تحت ركبته، سيحصل على استحقاقات مالية خاصة بتقاعده تصل إلى أكثر من مليون دولار.,true,50,ar,gpt-4-0125-zero-shot-100-threshold
+3447,पुलवामा आतंकी हमले के बाद सेना की कार्रवाई में मारे गए आतंकियों की तस्वीर,false,50,hi,gpt-4-0125-zero-shot-100-threshold
+2617,Indonesia Akan Adakan Program 1 Suami 2 Istri,false,0,id,gpt-4-0125-zero-shot-100-threshold
+3455,"„E o chestiune de opţiune politică, de alegere politică. (...) Controlul legitim este al Curţii Constituţionale. Comisia de la Veneţia nu dă d [...]",false,50,ro,gpt-4-0125-zero-shot-100-threshold
+2494,O antigo ministro socialista foi implacável para o juíz que se celebr......,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+3631,“[El proyecto de Cambiemos] establece una quita de entre el 30% y el 60% para los jubilados que tienen juicio”,partly true/misleading,50,es,gpt-4-0125-zero-shot-100-threshold
+3493,“El dólar ilegal mueve menos que la quiniela”,complicated/hard to categorise,50,es,gpt-4-0125-zero-shot-100-threshold
+1531,"Bernie Sanders já tem os olhos postos nas eleições de 2020, mas a cam......",mostly true,50,pt,gpt-4-0125-zero-shot-100-threshold
+3123,“Ma’ruf Amin: Buzer RP Di Pelihara Negara Anak Terlantar dan Fakir Miskin Di Pelihara Tetangga Kuncen Surga dan Neraka”,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+661,"É um presidente disruptivo, inteligente, e o único que está a consegu......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2209,“Essa é a revista oficial do NIH(National Institutes of Health). Dr. Fauci (nomeado pelo Presidente Obama em 2009) é diretor desse instituto há 11 anos”,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+3189,"ტერიტორიული მთლიანობის საკითხზე ""ქართული ოცნების"" გარდა ყველა პოლიტიკური პარტია შემხვდა",true,50,ka,gpt-4-0125-zero-shot-100-threshold
+2172,საქართველოს ისტორიის მანძილზე ამ მოცულობის [61 მლნ ბოთლი] ღვინის ექსპორტი არ განხორციელებულა,true,100,ka,gpt-4-0125-zero-shot-100-threshold
+2,"Isto nunca tinha sido feito na História, escreveu o Presidente dos ......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2453,Najnowszy ranking wolności mediów odnotował dramatyczny spadek pozycji Polski w tym właśnie rankingu.,true,85,pl,gpt-4-0125-zero-shot-100-threshold
+1327,...şu ana kadar yaptığımız derslik sayısı neredeyse 250 bine ulaşıyor.,mostly false,50,tr,gpt-4-0125-zero-shot-100-threshold
+2001,"ट्रंप की रैली में लगे ""अल्लाह हू अकबर"" के नारे",false,50,hi,gpt-4-0125-zero-shot-100-threshold
+79,(BDP/ HDP’nin verdiği araştırma önergeleri ve kanun tekliflerine atfen) bölge sorunlarıyla ilgili olan yüzde 8,true,50,tr,gpt-4-0125-zero-shot-100-threshold
+458,Türkiye’de kaçakçılık hacmi...gayrisafi yurt içi hasılanın yaklaşık yüzde 27’sine yani 415 milyar liraya denk geliyor.,partly true/misleading,50,tr,gpt-4-0125-zero-shot-100-threshold
+1486,დასახლებული პუნქტების 70%-ზე მეტი გაზიფიცირებულია,true,50,ka,gpt-4-0125-zero-shot-100-threshold
+3406,فتح الحدود في تركيا للهجرة إلى أوروبا.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+3304,मोहम्मद रफी की बेटी मुस्तफा परवेज ने गाया कृष्ण भजन,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+1259,"Dari DR. Ir. Hj. Sri Nurdiati, Dekan FMIPA IPB : “Banyak Yang Tidak Tahu: Ini Rahasia Imunitas Tubuh”",other,50,id,gpt-4-0125-zero-shot-100-threshold
+980,Eu penso o que o Janot pensa: que é inconstitucional,mostly true,50,pt,gpt-4-0125-zero-shot-100-threshold
+237,"[Bolsonaro] votou contra o Plano Real, [...] contra quebra monopólio petróleo, contra a quebra do monopólio de telecomunicações e contra cadastro positivo",true,75,pt,gpt-4-0125-zero-shot-100-threshold
+986,Quem optar por fazer esse saque [aniversário] não poderá sacar todo o dinheiro em caso de demissão,true,100,pt,gpt-4-0125-zero-shot-100-threshold
+3524,“La cantidad de droga secuestrada bajó”,complicated/hard to categorise,50,es,gpt-4-0125-zero-shot-100-threshold
+3591,“Cayó 21% en tres años y medio”,partly true/misleading,50,es,gpt-4-0125-zero-shot-100-threshold
+350,துபாயில் ஓட்டுனர் உரிமம் பெற தமிழில் தேர்வு எழுதலாம் என்று அந்நாட்டு அரசாங்கம் அறிவித்துள்ளது,true,50,ta,gpt-4-0125-zero-shot-100-threshold
+2997,"„Bilanțul primelor șase luni de guvernare a fost receptat pozitiv în mare parte, existând totodată observații și critici - legitime într-un s [...]",false,50,ro,gpt-4-0125-zero-shot-100-threshold
+1990,"6,3 mil mortes [por intervenção policial no ano passado] [...]. 40% desses casos estão em São Paulo e no Rio de Janeiro",true,75,pt,gpt-4-0125-zero-shot-100-threshold
+3342,Começou a espalhar-se nas redes sociais do Brasil e entretanto também......,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+283,Liste ausländischer „Gleisschubser“,false,0,de,gpt-4-0125-zero-shot-100-threshold
+3115,In Hessen werden Grundschüler verpflichtend über Homo-Ehe und Analverkehr aufgeklärt,mostly false,0,de,gpt-4-0125-zero-shot-100-threshold
+2181,"Pakiet szczepień obowiązkowych pozostaje taki sam, zresztą my go rozszerzaliśmy też w poprzednich latach.",true,50,pl,gpt-4-0125-zero-shot-100-threshold
+3136,"Już w tej chwili wiemy, że tych urodzeń jest niemalże 19 tys. więcej, jeżeli policzymy rok do roku od stycznia do sierpnia tego roku.",true,50,pl,gpt-4-0125-zero-shot-100-threshold
+515,صورة لم تُنشر من قبل، تُظهر رئيس العراق السابق صدام حسين قبل دقائق من إعدامه.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+525,„Strahlende“ Lebensmittel aus #Fukushima,mostly true,50,de,gpt-4-0125-zero-shot-100-threshold
+2702,فيديو لهطول الأمطار على جبل عرفات أمس.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+1946,Vou criar a secretaria de Integridade Pública,complicated/hard to categorise,50,pt,gpt-4-0125-zero-shot-100-threshold
+2251,"MAIA PEDE UM MINUTO DE SILÊNCIO A MORTE DO GENERAL IRANIANO. Virou tumulto no plenário quando o Presidente Rodrigo Maia nesta segunda feira, pediu ao plenário um minuto de silêncio a morte do General Haj Qassem Soleimani. Maia recebeu até vaias do plenário.",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+676,“Erick Thohir nyamar jadi tukang bakso waktu bongkar skandal Ari Garuda”,other,0,id,gpt-4-0125-zero-shot-100-threshold
+1085,बिहार में बीजेपी उम्मीदवार के भाई के घर से 119 करोड़ रुपये का सोना बरामद हुआ है.,partly true/misleading,50,hi,gpt-4-0125-zero-shot-100-threshold
+2161,"„Niko vas nije terao da pravite jedini Ustav na svetu, u kome postoje brojevi u normativnom delu Ustava, odnosno u članovima. Obično ustavi samo imaju brojeve članova, to su jedini brojevi u Ustavu. Naš Ustav ima i brojeve i procente u članovima koji regulišu, u ovom slučaju, prava AP Vojvodine.“",false,50,sr,gpt-4-0125-zero-shot-100-threshold
+2484,Siamo il popolo più anziano del mondo?,mostly true,50,it,gpt-4-0125-zero-shot-100-threshold
+1733,"მთავრობის ზომა შეადგენს 35%-ს, ანუ ყოველი 100 ლარიდან 35 ლარს მთავრობა საკუთარ თავზე ხარჯავს",mostly false,50,ka,gpt-4-0125-zero-shot-100-threshold
+867,انتقلت إلى رحمته تعالى الشيف منال العالم.,false,50,ar,gpt-4-0125-zero-shot-100-threshold
+2208,Il divario tra ricchi e poveri in Italia è il più alto tra i grandi Paesi Ue?,mostly true,75,it,gpt-4-0125-zero-shot-100-threshold
+3093,Accoglienza ai migranti: Emma Bonino ha ragione sul sistema Sprar,mostly true,50,it,gpt-4-0125-zero-shot-100-threshold
+2989,“ada yang bilang suara ikan paus”,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+2825,"Em publicação nas redes sociais, denunciada como sendo falsa ou engan......",partly true/misleading,50,pt,gpt-4-0125-zero-shot-100-threshold
+823,SPD Scharia Partei Deutschlands,mostly false,0,de,gpt-4-0125-zero-shot-100-threshold
+2920,صورة لـ رجب طيب أردوغان وهو يُطعم وزير الخارجية السعودي الأسبق سعود الفيصل.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+1276,मध्य प्रदेश से कांग्रेस विधायक अनिल उपाध्याय ने की पीएम नरेंद्र मोदी की तारीफ,false,50,hi,gpt-4-0125-zero-shot-100-threshold
+1634,"სოციალურ ქსელში გავრცელებული ამბავი, რომლის მიხედვითაც პოლიციამ არ დააკავა ქუჩაში ისლამის მქადაგებელ...",partly true/misleading,50,ka,gpt-4-0125-zero-shot-100-threshold
+2751,बिल गेट्स ने एक वेटर को 5 डॉलर की टिप दी क्योंकि वे लकड़हारे के बेटे हैं.,mostly false,0,hi,gpt-4-0125-zero-shot-100-threshold
+3629,"“No nos hemos desendeudado, estamos más endeudados que antes”",false,50,es,gpt-4-0125-zero-shot-100-threshold
+1529,"Bo prawo tutaj mówi wprost, na dzień dzisiejszy, że można odebrać stopień wojskowy, to jest ustawa o powszechnym obowiązku obrony, zrzeczenia się, uprawomocnienia się wyroku sądu orzekającego środek karny pozbawienia praw publicznych, albo degradacji, albo odmowy złożenia przysięgi wojskowej.",true,85,pl,gpt-4-0125-zero-shot-100-threshold
+1794,Tidak Ada Pasien Positif Corona di Aceh,false,50,id,gpt-4-0125-zero-shot-100-threshold
+2119,სოციალურ ქსელში გავრცელებული ინფორმაცია ბრიუსელში ქრისტიანობის წინააღმდეგ მიმართული ძალადობრივი პროტ...,partly true/misleading,50,ka,gpt-4-0125-zero-shot-100-threshold
+1849,إنزو زيدان يوقع عقداً وينتقل رسميًّا للوداد البيضاوي المغربي.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+495,O Brasil é o quinto país em violência contra a mulher no mundo,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1015,"உத்தரப்பிரதேசத்தில் பொது இடத்தில் வைத்து ஒரு பெண்ணை மானபங்கம் படுத்தும் எம்.எல்.ஏ..கண்டுக்கொள்ளாத ஊடகம், வேடிக்கைப் பார்க்கும் காவல்துறை.. அதிகம் ஷேர் செய்யவும்.",false,50,ta,gpt-4-0125-zero-shot-100-threshold
+920,"ჩვენ არ ვართ ღარიბი ქვეყანა, ვართ ყველაზე უთანასწორო ქვეყანა. განსხვავება მდიდარსა და ღარიბს შორის ა...",mostly false,50,ka,gpt-4-0125-zero-shot-100-threshold
+262,„საქართველოს ბანკი“ და „თი-ბი-სი“ მსოფლიოში პირველ ადგილზე არიან რენტაბელურობით,complicated/hard to categorise,0,ka,gpt-4-0125-zero-shot-100-threshold
+1384,"முருகன் தமிழ்க் கடவுள் என்பதெல்லாம் திராவிடக் கூட்டம் கிளப்பிவிட்ட கதை . கலாச்சார ஏதிலிகளாக காட்டுமிராண்டிகளாக திரிந்த ஆதித்தமிழர்களை பண்படுத்தியது வைதீக வழிபாட்டு முறைகளே – முருகன், பா.ஜ.க தமிழக தலைவர்",false,0,ta,gpt-4-0125-zero-shot-100-threshold
+86,"„Cum să nu fie explicabilă degringolada din sistemul de învăţământ, atâta vreme cât în ultimii trei ani un mandat de ministru a durat în m [...]",true,50,ro,gpt-4-0125-zero-shot-100-threshold
+2409,PT KAI Memberikan Klarifikasi Terkait KA Argo Parahyangan Berasap,other,50,id,gpt-4-0125-zero-shot-100-threshold
+2268,La febbre del sabato sera dei deputati a Cinque Stelle?,false,50,it,gpt-4-0125-zero-shot-100-threshold
+942,சிரியாவில் இருந்து குடிபெயரும் மக்களுக்கு ஆதரவு தருகிறார் கனடா பிரதமர்!!,true,85,ta,gpt-4-0125-zero-shot-100-threshold
+2410,"Ton başına buğdayımız 940 liraydı, şimdi 1.050 lira. Geçen sene mayısta sattığınız bir ton buğdayın dolar üzerinden değeri 262 dolardı. Bugün 243 dolar. Yani daha da fakirsiniz.",true,50,tr,gpt-4-0125-zero-shot-100-threshold
+3625,“El decreto para importar basura de Macri [...] elimina el requisito de inocuidad y peligrosidad de origen”,mostly true,50,es,gpt-4-0125-zero-shot-100-threshold
+29,Duden listet „Inschallah“ neu als deutsches Wort,false,85,de,gpt-4-0125-zero-shot-100-threshold
+290,São Paulo (...) tem 133 delegacias da mulher,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+2899,"Jakbyśmy porównywali bezrobocie w roku 2007, to ono było wyższe niż to, które przekazywaliśmy w roku 2015.",true,50,pl,gpt-4-0125-zero-shot-100-threshold
+2584,PKI Memang Didukung TKA,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+241,Mais de 90% dos homicídios no RJ não são esclarecidos,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+937,"No, i poveri nel mondo non sono in aumento",false,50,it,gpt-4-0125-zero-shot-100-threshold
+276,“Lukisan Jokowi berambut panjang”,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+128,Yurtiçi tasarrufları AK Parti iktidarı döneminde cumhuriyet tarihinin en düşük seviyesine düştü.,mostly true,50,tr,gpt-4-0125-zero-shot-100-threshold
+1353,Mamy wystarczająco naszych problemów: 20 tys. dzieci w domach dziecka.,true,50,pl,gpt-4-0125-zero-shot-100-threshold
+3379,99% das armas entrando por fronteira seca,partly true/misleading,50,pt,gpt-4-0125-zero-shot-100-threshold
+2105,Espalhou-se pelas redes sociais uma mensagem alertando para o envio d......,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+974,"«Dati scientifici, in questo caso di Ispra, ci rammentano che il 91 per cento dei comuni italiani si trova in zone a rischio [idrogeologico], seppure a rischio diversificato, e l’80 per cento del nostro territorio, quindi, la stragrande maggioranza, anche in questo caso, si trova in condizioni di rischio»",partly true/misleading,85,it,gpt-4-0125-zero-shot-100-threshold
+1140,Foto Anies Baswedan Dinobatkan Menjadi Gubernur Terbaik Dunia,false,50,id,gpt-4-0125-zero-shot-100-threshold
+2740,"ხაშურში მოქმედი 13 საბავშვო ბაღიდან 2013 წლამდე მხოლოდ ერთი იყო რეაბილიტირებული, დღეს კი - ათია. ასე...",true,50,ka,gpt-4-0125-zero-shot-100-threshold
+1988,"თუ 2014 წელს [რუსეთიდან] გადმორიცხვების საერთო წილი გადმორიცხვებიდან იყო 50%, დღეს ეს განახევრებულია...",true,50,ka,gpt-4-0125-zero-shot-100-threshold
+877,Benarkah KPU Kumpulkan Pendatang Cina untuk Menangkan Jokowi?,partly true/misleading,0,id,gpt-4-0125-zero-shot-100-threshold
+3405,"Są bardzo nieliczne przeciwwskazania (medyczne do noszenia maseczki – przyp. Demagog): bardzo ciężka postać niewydolności serca, bardzo ciężka postać niewydolności oddechowej, jakaś bardzo ciężka postać alergii na twarzy - ale wtedy można nosić przyłbicę.",true,85,pl,gpt-4-0125-zero-shot-100-threshold
+541,"तस्वीर में दिख रही लड़की गैंगस्टर विकास दुबे के करीबी अमर दुबे की पत्नी है, जिसे पुलिस ने गिरफ्तार किया है.",partly true/misleading,50,hi,gpt-4-0125-zero-shot-100-threshold
+2962,"No ranking do Pisa, o ensino público fica, mais ou menos, na posição 63º em 70",complicated/hard to categorise,50,pt,gpt-4-0125-zero-shot-100-threshold
+2338,जम्मू-कश्मीर के निलंबित डीएसपी देविंदर सिंह को जेल से रिहा कर दिया गया है.,partly true/misleading,50,hi,gpt-4-0125-zero-shot-100-threshold
+2360,طفلٌ أميركي يبلغ من العمر 13 عاماً يمثل أمام القضاء لقيامه بتهكير حساب أحد البنوك وتحويل مليارات الدولارات إلى حسابه الشخصي.,false,0,ar,gpt-4-0125-zero-shot-100-threshold
+1936,Na mesma semana em que Lenine Cunha ganhou mais duas medalhas de ouro......,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+995,Vinculação da autorização de concursos públicos à adoção de medidas de eficiência administrativa,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+3213,"ზოგადი უნარების გამოცდების შედეგების მიხედვით, საშუალოდ 8-9 ქულიანი განსხვავებაა დედაქალაქსა და რეგი...",complicated/hard to categorise,50,ka,gpt-4-0125-zero-shot-100-threshold
+1937,"«Da quando io sono segretario del Pd, il Pd non ha mai ricevuto per le elezioni alle quali ha partecipato europee e politiche nazionali, neanche un centesimo […]. I rimborsi sono stati fatti fino alle elezioni del 2013 […]. Mai abbiamo avuto rimborsi, perché noi abbiamo cancellato la legge sul finanziamento pubblico ai partiti».",mostly true,50,it,gpt-4-0125-zero-shot-100-threshold
+3307,A maioria dos LGBT assassinados no ano passado era branca,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1667,ისრაელში პარლამენტის გადაწყვეტილებას სასულიერო პირები ამტკიცებენ,false,50,ka,gpt-4-0125-zero-shot-100-threshold
+779,Il decreto per aiutare le imprese dell'Italia è davvero «il più ampio» d’Europa?,mostly true,50,it,gpt-4-0125-zero-shot-100-threshold
+386,திருச்சியில் மனநலம் பாதிக்கப்பட்ட 14 வயது சிறுமியை பாலியல் வன்புணர்வு செய்த முன்னாள் திமுக பஞ்சாயத்து தலைவர் மற்றும் கூட்டாளிகள்.,true,"I'm sorry, but I can't provide the information requested.",ta,gpt-4-0125-zero-shot-100-threshold
+397,"Sędzia, który miał obowiązek napisać uzasadnienie do tego wyroku [w sprawie Mariusza Kamińskiego] w ciągu 7 dni, zrobił to dopiero za pół roku.",false,50,pl,gpt-4-0125-zero-shot-100-threshold
+2699,"Warszawa ma 17 mld z kawałkiem budżetu, z czego 4,5 [mld – przyp. red.] pochodzi jako zadania zlecone ze Skarbu Państwa.",false,50,pl,gpt-4-0125-zero-shot-100-threshold
+1765,A [médica] cubana [que trabalha no Mais Médicos] não pode trazer seus filhos menores para o Brasil,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1451,Quanto diamo all'Europa e quanto riceviamo?,partly true/misleading,50,it,gpt-4-0125-zero-shot-100-threshold
+1734,Nos últimos dias espalhou-se pelas redes sociais uma fotografia de um......,mostly true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1683,«215 milioni i cristiani perseguitati [...]. A me ha colpito il dato nel quale un sacerdote viene ucciso ogni nove giorni».,mostly true,50,it,gpt-4-0125-zero-shot-100-threshold
+1912,باراك أوباما، أنتوني فاوتشي وميلندا غيتس زاروا مختبراً في مدينة ووهان الصينية عام 2015.,partly true/misleading,0,ar,gpt-4-0125-zero-shot-100-threshold
+3571,"“Perdimos casi 12 millones de cabezas, que es el stock completo del Uruguay”",mostly true,50,es,gpt-4-0125-zero-shot-100-threshold
+221,Protezione umanitaria solo in Italia e Slovacchia? Di Maio sbaglia,false,50,it,gpt-4-0125-zero-shot-100-threshold
+2758,Polda D.I. Yogyakarta tidak pernah bekerja sama dengan leasing dalam hal pelelangan mobil kredit macet,other,50,id,gpt-4-0125-zero-shot-100-threshold
+2676,"Toată lumea a venit în Marea Britanie legal și toate drepturile lor sunt protejate pe deplin. Acum am votat Brexit, am votat să respingem conceptul [...]",partly true/misleading,0,ro,gpt-4-0125-zero-shot-100-threshold
+2646,"Ayer a la noche, en el programa humorístico ""Isto é Gozar com Quem Tr......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+403,„პირველად მხოლოდ 2013 წელს მოეწყო თავშესაფარი მიუსაფარი ადამიანებისათვის“,mostly true,50,ka,gpt-4-0125-zero-shot-100-threshold
+248,საქართველოში სიცოცხლის ხანგრძლივობა 0.6-ით [წელი] გაიზარდა,false,50,ka,gpt-4-0125-zero-shot-100-threshold
+1649,"მომავალი წლების პროგნოზით, ეკონომიკური ზრდა საშუალოდ 5%-ია და 2-ჯერ აღემატება სამეზობლოში არსებულ მა...",mostly true,50,ka,gpt-4-0125-zero-shot-100-threshold
+2982,"Węgry przeżyły trzy takie rezolucje Parlamentu Europejskiego, w tym samym czasie wręcz inwestorzy w większym stopniu jeszcze napływali na Węgry.",partly true/misleading,50,pl,gpt-4-0125-zero-shot-100-threshold
+1389,"உம்ரா எனும் மெக்கா பயணத்திற்கு தன் பெண்ணை வழி அனுப்ப வந்த சுப்ரமணியசுவாமி அவர்கள். கூடிய சீக்கிரம் அவரையும் உம்ரா, ஹஜ் போன்ற காரியங்களுக்கு ஏக இறைவன் அழைப்பான்.",false,0,ta,gpt-4-0125-zero-shot-100-threshold
+3279,Venezuelanos mataram um homem a pauladas para roubar os tênis dele,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+447,W Krakowie mamy rzeczywiście ponad 12 mln turystów rocznie.,true,50,pl,gpt-4-0125-zero-shot-100-threshold
+1018,Tidak Ada Klaim dari Anies Mengenai Merancang Lapangan Banteng Dari 0,true,50,id,gpt-4-0125-zero-shot-100-threshold
+784,ராமேஸ்வரத்தில் உள்ள பாம்பன் பாலத்தில் இருந்து வெடிகுண்டுகளை காவல்துறையினர் கண்டெடுத்துள்ளனர்.. மக்கள் அனைவரும் பாதுகாப்பாக இருக்கவும்.,false,50,ta,gpt-4-0125-zero-shot-100-threshold
+3353,अपने “चाइनीज बॉस” से मुलाकात करते प्रधानमंत्री नरेंद्र मोदी.,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+3594,"En 2017 fuimos el primer destino de Sudamérica. En 2018 llegaron 7 millones de turistas extranjeros, un 3,4% más que en 2017.",true,85,es,gpt-4-0125-zero-shot-100-threshold
+1837,Bundan 16 yıl önce bir Türk vatandaşı AB vatandaşlarının üçte biri kadar gelire sahipti. Bugün üçte ikisi kadar bir gelire sahip hale gelmiştir.,partly true/misleading,50,tr,gpt-4-0125-zero-shot-100-threshold
+574,"Ten stan (klęski żywiołowej - przyp.) może teoretycznie zgodnie z konstytucją trwać miesiąc, ale zgodą Sejmu może być przedłużany.",true,85,pl,gpt-4-0125-zero-shot-100-threshold
+3641,“Hoy hay cinco millones de personas con planes”,mostly true,50,es,gpt-4-0125-zero-shot-100-threshold
+751,"सुर्खाब पक्षी का वीडियो, जिसे शूट करने के लिए 16 फोटोग्राफर्स ने दो महीने तक मेहनत की.",false,50,hi,gpt-4-0125-zero-shot-100-threshold
+3368,ოჯახებში ბავშვთა რაოდენობის ზრდასთან ერთად იზრდება სიღარიბის მაჩვენებელიც,true,75,ka,gpt-4-0125-zero-shot-100-threshold
+1894,[Domingos Brazão] Ele é que manda no dinheiro do estado [como conselheiro do TCE-RJ],false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1023,O Ministério da Saúde deixou de aplicar R$ 174 bilhões na saúde em 10 anos,partly true/misleading,50,pt,gpt-4-0125-zero-shot-100-threshold
+308,[...] O governador que ganhou a eleição tinha 1% [na véspera],false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1815,"Neste quesito [geração de empregos], o Rio de Janeiro tem ocupado, desde 2015, a lanterna da região sudeste (...)",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+3309,"Europa mente para ganhar Turismo, denuncia-se em publicação nas red......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2254,ვისაც დოლარში სესხი არ აქვს ლარის გაუფასურებას ვერ გრძნობს,mostly false,50,ka,gpt-4-0125-zero-shot-100-threshold
+401,أثناء التهام أنثى الأسد لغزال وجدت بين أحشائها جنينا، فحاولت إنقاذه ولكنها لم تستطع، فاستلقت بجوار فريستها وبعد قليل اكتشف المصور الذي التقط الصور أنها ماتت من الحزن على قتلها للغزالة الحامل .,partly true/misleading,0,ar,gpt-4-0125-zero-shot-100-threshold
+207,वीडियो में एक बेहद गन्दा हवाई जहाज दिख रहा है और दावा किया जा रहा कि ये एयर इंडिया की फ्लाइट है जिसमें हज यात्री बैठे है.,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+2671,"Na entrevista de ontem à SIC, o primeiro-ministro António Costa afirm......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2214,"Nós últimos quatro anos, se somar 2012, 2013, 2014 e 2015, mais de R$ 700 milhões (deixaram de ser investidos na saúde)",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+60,Cacau show salva a Páscoa doando 5000 ovos de páscoa de graça só fazer um cadastro,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+382,தமிழ்நாட்டில் பசு மாடு வைத்திருப்பவர்கள் அதன் கோமியத்தை அருகில் உள்ள பாரதிய ஜனதா கட்சியின் அலுவலகத்தில் கொடுத்து அளவை பொறுத்து அதற்குரிய பணத்தை பெற்றுக்கொள்ளலாம். 1 லிட்டர் கோமியத்தின் விலை 100 ரூபாய்.,false,0,ta,gpt-4-0125-zero-shot-100-threshold
+3086,"Radni nie udzielili mi absolutorium, choć trzy lata z rzędu byli za.",true,50,pl,gpt-4-0125-zero-shot-100-threshold
+968,false,,0,pt,gpt-4-0125-zero-shot-100-threshold
+681,"Liberalizacja rynku gazu ziemnego jest naszym obowiązkiem, w konsekwencji przynależności Polski do UE i przyjęcia m.in. III pakietu energetycznego.",true,85,pl,gpt-4-0125-zero-shot-100-threshold
+1664,Está a circular nas redes sociais a imagem de uma sequência de coment......,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1989,Avem cel mai mare număr de ministere din Uniunea Europeană.<br>,true,50,ro,gpt-4-0125-zero-shot-100-threshold
+1971,Basta colocar o número 1 na urna e ela escolhe o candidato pra você (vídeo),false,0,pt,gpt-4-0125-zero-shot-100-threshold
+875,O Estado de S. Paulo publicou foto ANTIGA da praia de Ipanema lotada como se fosse de ontem. Os cariocas foram à praia mas o jornal foi buscar no arquivo uma aglomeração muito maior (esse mar de barracas grudadas NÃO EXISTIU) p/ilustrar sua fake news viral,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1642,ஸ்டெர்லைட் தாமிர உருக்கு ஆலையின் அடிக்கல் நாட்டு விழாவில் பங்கேற்று தொடங்கி வைத்த தமிழக முதல்வர் திரு.கருணாநிதி அவர்கள்.,false,100,ta,gpt-4-0125-zero-shot-100-threshold
+240,"Çevre ve Şehircilik Bakanlığı’nın bütçesine dikkatle bakınca, genel bütçe içerisinde sadece binde 2 kadar bir güce sahip. Diğer bakanlıklar (…) karşısında Türkiye’nin en güçsüz, en savunmasız bakanlığıdır.",false,50,tr,gpt-4-0125-zero-shot-100-threshold
+674,Jobcenter-Bescheid an Flüchtlingsfamilie,partly true/misleading,50,de,gpt-4-0125-zero-shot-100-threshold
+1552,"«Tutti gli ultimi governi hanno portato 800 mila disperati in Italia illudendoli che in Italia ci sia casa e lavoro per tutti, quando ci sono 3 milioni di italiani che sono senza lavoro, 3 milioni di italiani che lavorano in nero, 5 milioni di italiani in situazione di povertà»",partly true/misleading,50,it,gpt-4-0125-zero-shot-100-threshold
+8,"ტურიზმის საინფორმაციო ცენტრი ბიუჯეტის დიდ ნაწილს ხელფასებში, პრემიებსა და მივლინებებში ხარჯავს",mostly true,50,ka,gpt-4-0125-zero-shot-100-threshold
+1599,Vou da (sic) uma facada no peito desse fasista (sic) FDP! (imagem),false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1086,الناطق باسم الخارجية الاسرائيلية: أول علاقات لإسرائيل كانت مع تركيا وأردوغان لا يستطيع مجرد التفكير فى قطع العلاقة معنا، لأنه يعلم جيدا الوثائق التي نمتلكها ضده.,false,50,ar,gpt-4-0125-zero-shot-100-threshold
+3211,În ultimii 5 ani PSD și aliații săi au dat 6 miniștri ai educației. Fiecare ministru a uitat să pună elevul în centrul sistemului educațional [...],false,50,ro,gpt-4-0125-zero-shot-100-threshold
+3215,“Heboh! Pernyataan Dokter Indonesia Soal Covid”,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+1863,Bos Mayapada Jadi Pembina Brimob dan TNI,false,50,id,gpt-4-0125-zero-shot-100-threshold
+1168,अहमदाबाद की साबरमती नदी में गणपति विसर्जन पर प्रतिबंध लगने पर लोगों ने गणपति की मूर्तियों को फुटपाथ पर ही छोड़ दिया है.,partly true/misleading,50,hi,gpt-4-0125-zero-shot-100-threshold
+1732,"Doğu ve Güneydoğu bölgelerimize 12 yılda yaptığımız yatırım, bu yılın fiyatlarıyla 260 katrilyon lira, yani yaklaşık 100 milyar dolar",false,50,tr,gpt-4-0125-zero-shot-100-threshold
+2853,ჩვენი სტილი არ არის ცრემლსადენი გაზი და რეზინის ტყვიები,false,50,ka,gpt-4-0125-zero-shot-100-threshold
+2992,وفاة الفنانة فيروز في مستشفى الجامعة الأميركية في بيروت.,false,0,ar,gpt-4-0125-zero-shot-100-threshold
+3208,الرئيس محمود عباس يجري مكالمة تسربت إلى الإعلام الإسرائيلي وذلك بعد اتفاقية التطبيع الإمارتية ويشكر فيها ولي عهد أبوظبي محمد بن زايد على جهوده.,false,50,ar,gpt-4-0125-zero-shot-100-threshold
+2276,"Dokumente zeigen: Obama befahl der CIA, ISIS auszubilden",false,0,de,gpt-4-0125-zero-shot-100-threshold
+2711,نقل الجثث إلى المقابر على دراجات نارية في جمهورية الكونغو.,true,50,ar,gpt-4-0125-zero-shot-100-threshold
+2942,"Koszt utrzymania [stołecznych – przyp. red.] urzędników, ich samych pensji, to jest koszt 2,5 mld zł.",false,50,pl,gpt-4-0125-zero-shot-100-threshold
+1993,"A vacina chinesa pelos dados soltos pela China mesmo tem um efeito colateral é de 5,37%",mostly true,50,pt,gpt-4-0125-zero-shot-100-threshold
+634,To giełda polska traci najwięcej (z powodu koronawirusa - przyp. Demagog),false,50,pl,gpt-4-0125-zero-shot-100-threshold
+777,„Ispunio sam sve što sam do sada obećao.“,false,50,sr,gpt-4-0125-zero-shot-100-threshold
+1215,"Num meme colocado a circular por um site ligado a conteúdos fake, os ......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+891,"În România, prețul la pompă este cel mai mare din UE și aici vorbim de prețul fără taxe, ceea ce mi se pare foarte greu de explicat.",false,50,ro,gpt-4-0125-zero-shot-100-threshold
+239,تطبيق واتساب يُلغي خاصية آخر حالة تمت رؤيتها للمستخدمين الآخرين أو إماكنية معرفة إذا كان المستخدمون الآخرون متصلين أم لا، وكذلك إشارة جاري الكتابة.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+2372,"60% [das pessoas que morrem no Brasil] são jovens, negros, favelados",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+3013,„Doar în guvernarea Boc a mai avut România atâția șomeri. INS a confirmat cele mai negre scenarii privind situația locurilor de muncă. Români [...],partly true/misleading,50,ro,gpt-4-0125-zero-shot-100-threshold
+2220,"Em artigo difundido nas redes sociais garante-se que o ""uso preventiv......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+249,"Çay, margarin, kuru fasulye, yoğurt, efendim tüp gaza kadar her şeye zam geldi ve hepsi de yüzde 10’nun üstünde, yüzde 20’nin üstünde. Asgari ücret yüzde 7,9 arttı.",true,50,tr,gpt-4-0125-zero-shot-100-threshold
+3063,Publicação disseminada em massa nas redes sociais denuncia que as ver......,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1284,"Informamos todos os postos de nossa rede em todo Brasil, para manterem os postos abastecidos, por devido surto à pandemia de (Covid-19), (sic) paralisaremos a partir do dia 24/03 as nossas refinarias por um período de 15 dias",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+234,გიორგი კვირიკაშვილი სოფლის მეურნეობის სექტორში დაფიქსირებულ პოზიტიურ მაჩვენებლებზე საუბრობს,mostly true,50,ka,gpt-4-0125-zero-shot-100-threshold
+205,கடலூரில் 6 ஏழை குழந்தை தத்தெடுத்து அவர்கள் கல்வி செலவை ஏற்றுக் கொண்டுள்ள அரசு பள்ளி ஆசிரியை கயல்விழி மனம் இருந்தால் ஷேர் பண்ணி வாழ்த்துங்க நண்பர்களே 👍👍👍👍,false,50,ta,gpt-4-0125-zero-shot-100-threshold
+2392,Não adianta brigar comigo: vacinas causam autismo. Tá na bula,false,0,pt,gpt-4-0125-zero-shot-100-threshold
+1952,"პარლამენტარ დარეჯან ჩხეტიანის განცხადებით,  ბოლო 10 წლის განმავლობაში ბოლნისისთვის გზების, წყალმომარ...",complicated/hard to categorise,50,ka,gpt-4-0125-zero-shot-100-threshold
+2059,"A eclosão, nos Estados Unidos, de surtos de tuberculose, sarampo, pap......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2175,तस्वीर में दिख रहे शख्स ने यूपी के शाहजहांपुर के पास एक लड़की को गैंग रेप से बचाया. उसने चार में से दो बदमाशों को मार डाला और तीन गोली लगने के बाद गंभीर हालत में अस्पताल में हैं.,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+644,"“Tes Baca Qur’an, Ini Jawaban Mengejutkan Prabowo”",partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+232,"தன் நாட்டில் உள்ள ஏழை பெண்களுக்கு பயன்படுத்துவதற்காக கோவை முருகானந்ததிடம் நாப்கின் இயந்திரத்தை வாங்கிச் சென்று தன் நாட்டு பெண்களுக்கு வழங்க உள்ளார் கிரிக்கெட் வீரர் பிராவோ. தன் நாட்டின் மீதும், தன் மக்களின் மீதும் அக்கறை உடையவரை பாராட்டலாமே.",true,50,ta,gpt-4-0125-zero-shot-100-threshold
+2080,"No a z kolei Rafał Trzaskowski, ten jego przeszło trzydziestoprocentowy wynik to chyba jest, jeżeli mnie pamięć nie myli, najniższy wynik ze wszystkich kandydatów, którzy dostawali się do II tury po 89 roku.",false,50,pl,gpt-4-0125-zero-shot-100-threshold
+328,"Trzy lata temu ukraiński parlament uchwalił ustawę, która przewiduje karanie więzieniem wszystkich, którzy okazywaliby lekceważenie dla weteranów UPA i podobnych organizacji, lub negowali celowość ich walki. Polskie władze nie reagowały. — Leszek Miller (@LeszekMiller) 28 stycznia 2018",partly true/misleading,50,pl,gpt-4-0125-zero-shot-100-threshold
+761,Em publicação nas redes sociais traça-se um contraste entre André Ven......,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+280,Kinder verschwinden und landen in Farmen für Menschenfleisch,false,0,de,gpt-4-0125-zero-shot-100-threshold
+2437,إعدام أي شخص يصاب بفايروس كورونا في كوريا الشمالية.,false,0,ar,gpt-4-0125-zero-shot-100-threshold
+278,سلطنة عُمان تُجلي الطلبة اليمنيّين في الصين تلبية لنداءاتهم بعد تفشّي كوفيد-19 (فايروس كورونا).,false,100,ar,gpt-4-0125-zero-shot-100-threshold
+2765,الرئيس السنغالي يحل مجلس النواب من أجل بناء مركز لإنتاج الطاقة الشمسية.,false,50,ar,gpt-4-0125-zero-shot-100-threshold
+963,"Aumento das pensões. Uma pensão de 7.500 euros aumentou 238 euros. U......	false
+pt	piaui.folha.uol.com.br	Art. 4º Poderá participar das eleições o partido que, até seis meses antes do pleito, ... nome ou número de candidato, nem conter pedido de voto para partido político. ... 1º Aos detentores de mandato de Deputado Federal, Estadual ou Distrital, ... II - nos Municípios de até cem mil eleitores, nos quais cada coligação poderá ...	19 Jun 2018 — “Eu tive 700 mil votos [para deputado federal]. Até hoje, nenhum deputado federal, nem o Bolsonaro no momento de [maior] popularidade dele, chegou perto disso” VERDADEIRO Em 2010, Garotinho foi o deputado federal ...	19 Jun 2018 — “Eu tive 700 mil votos [para deputado federal]. Até hoje, nenhum deputado federal, nem o Bolsonaro no momento de [maior] popularidade dele, chegou perto disso” Anthony Garotinho, ex-governador e pré-candidato do PRP ...	28 Oct 2018 — Jair Bolsonaro, candidato do PSL à Presidência, em entrevista à ... Assessor do núcleo duro de Bolsonaro, o deputado federal Onyx ... O plano de governo de Haddad não fala na criação de nenhuma ... Com 264.013 votos, ela teve a sétima maior votação no Estado. ... “Temos até a estatal do trem-bala”	A declaração é FALSA, porque o STF (Supremo Tribunal Federal) não ... do Turismo quando deputado, mas nunca propôs nem relatou matérias sobre o tema. ... Apesar disso, Bolsonaro tem afirmado com recorrência que o medicamento é ... Não há, até o momento, evidências científicas que apontem, inclusive, para a ...	http://www.planalto.gov.br/ccivil_03/leis/l9504compilado.htm	https://www1.folha.uol.com.br/poder/2018/06/veja-erros-e-acertos-dos-pre-candidatos-ao-governo-do-rj-em-sabatinas-folhauolsbt.shtml	https://piaui.folha.uol.com.br/lupa/2018/06/19/sabatina-folha-governo-rj/	https://piaui.folha.uol.com.br/lupa/2018/10/28/tudo-sobre-bolsonaro/	https://www.aosfatos.org/todas-as-declara%C3%A7%C3%B5es-de-bolsonaro/	2018-06-19T06:00:46Z	2018-06-19T06:00:46Z	Anthony Garotinho (PRP)	Eu tive 700 mil votos [para deputado federal]. Até hoje, nenhum deputado federal, nem o Bolsonaro no momento de [maior] popularidade dele, chegou perto disso	true
+ar	misbar.com	الشاب السوري رامي يتزوج من السبعينية الألمانية جيسكا التي تملك مصنع سيارات.	4 sep. 2019 — رامى شاب عربى عنده 20 سنه تزوج چسيكا من المانيا عمرها 75 سنه وعندها مصنع سيارات ورصيد بنكى 200 مليون دولار.. رامى يقول أنه أحبها من اول نظرة"".",11 mars 2019 — رامي شاب عربي عنده 20 سنه وتزوج جيسيكا 80سنهً من المانيا وعندها مصنع سيارات وثروه تصل ل 150 مليون يورو رامي بيقول حبها من اول لحظه.,50,pt,gpt-4-0125-zero-shot-100-threshold
+1653,"பாகிஸ்தான் துருப்புக்கள் 2019 தீபாவளி பரிசுகளை இந்திய ராணுவத்துடன் பரிமாறிக்கொள்கின்றன. 90% ஊடகங்கள் இதைக் காட்டவில்லை, ஊடகங்கள் வெறுக்கத்தக்க செய்திகளை மட்டுமே இதயத்தில் பரப்புகின்றன.",false,50,ta,gpt-4-0125-zero-shot-100-threshold
+491,ITB STIKOM Bali Berikan Klarifikasi Atas Isu Telah Terpapar ISIS,other,50,id,gpt-4-0125-zero-shot-100-threshold
+2333,“KERAJAAN ARAB SAUDI TETAPKAN: HRS KETURUNAN RASULULLAH SAW KE-38”,false,0,id,gpt-4-0125-zero-shot-100-threshold
+1008,Foto di Cuitan “Ketik #INAelectionObserverSOS Biar Dibantu Cyber Seluruh Dunia.”,partly true/misleading,50,id,gpt-4-0125-zero-shot-100-threshold
+2371,Malam ini jam 24:00 BBM naik Tanggal 30 Agustus 2019,false,50,id,gpt-4-0125-zero-shot-100-threshold
+2435,Dono da Rede Atacadão Carrefour Falou a Verdade.👏👏👏,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+162,"IMF'ye giden biz olmadık ki, IMF'ye giden CHP zihniyeti oldu. İlk IMF'ye kapılarını açan CHP oldu.",partly true/misleading,50,tr,gpt-4-0125-zero-shot-100-threshold
+2536,“Gara-gara HTI Pertamina Rugi 11 Triliun”,other,50,id,gpt-4-0125-zero-shot-100-threshold
+335,"Mengonsumsi Pisang Dalam Sehari, Membuat Virus Corona Pergi",partly true/misleading,0,id,gpt-4-0125-zero-shot-100-threshold
+1717,"Vamos enfrentar o tráfico de armas e munições, que é o grande responsável pelos homicídios no país",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+2692,2017'de kadına yönelik şiddet nedeniyle 207 bin dava açıldı.,true,50,tr,gpt-4-0125-zero-shot-100-threshold
+3504,En este teléfono no hay ningún llamado del gobernador José Manuel De la Sota,partly true/misleading,50,es,gpt-4-0125-zero-shot-100-threshold
+2315,"„Din 2008 până astăzi, singurul partid care a majorat alocațiile copiilor a fost PNL. În 2015, când nu se mai majoraseră din 2008 sau 2009, fi [...]",false,50,ro,gpt-4-0125-zero-shot-100-threshold
+2141,"ქუთაისის მერიაში თანამშრომელთა რაოდენობა 850-დან 350-მდე შემცირდა, ხოლო ადმინისტრაციულ ხარჯზე 2.5 მი...",partly true/misleading,50,ka,gpt-4-0125-zero-shot-100-threshold
+1295,Urgente: atirador invade escola em Humaitá e dispara contra alunos,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1068,Hemen her şehirde ihracat artışının 5 kattan daha az olduğu şehir görmedim. 1 milyar doları aşan ihracat yapan şehirlerimizin sayısı 5’ten 16’ya çıkmış,partly true/misleading,50,tr,gpt-4-0125-zero-shot-100-threshold
+836,लेजर शो का ये वीडियो अयोध्या का है जिसका आयोजन राम मंदिर भूमि पूजन के लिए किया गया.,mostly false,50,hi,gpt-4-0125-zero-shot-100-threshold
+2743,Depois de Lula da Silva ter sido preso por corrupção no âmbito do cas......,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2933,"Além disso, os acidentes no trânsito [...] representam um custo de R$ 2,9 bilhões para o Sistema Único de Saúde",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1286,4-Mandetta diz que achatamos a curva,mostly true,50,pt,gpt-4-0125-zero-shot-100-threshold
+977,"Há dois anos, o PS tinha 21 pontos de diferença em relação ao segund......	mostly true
+it	pagellapolitica.it	Le riforme della Grecia secondo Di Battista	Se l'Iraq è una polveriera è per via anche del gove. ... Le riforme della Grecia secondo Di Battista · A che età si va in pensione in Grecia e in Germania?","A quanto ho letto in giro, Di Battista non è l'unico politico a cavalcare come ... The proportion of children at risk of poverty has increased from 28·2% in 2007 to ... Potremmo dire che la la sanità italiana è peggiore pure di quella della Grecia in ... Si è parlato nelle commissioni bicamerali per le riforme di premierato forte, di ...","Without a specific statement to evaluate its truthfulness, I cannot provide a score. Please provide a clear statement for evaluation.",pt,gpt-4-0125-zero-shot-100-threshold
+1087,"Fetos com seis, sete, oito ou nove meses de gestação. De forma aleató......",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1621,2015 წელს ვიზიტორების რიცხვის 8%-იანი ზრდა გვაქვს,true,50,ka,gpt-4-0125-zero-shot-100-threshold
+536,"Na debatę o zdrowiu organizowaną przez samorząd lekarski nikt nie przyszedł z kandydatów, byłem tylko ja.",true,50,pl,gpt-4-0125-zero-shot-100-threshold
+3588,“$11 millones por día se van en publicidad oficial”,mostly true,50,es,gpt-4-0125-zero-shot-100-threshold
+2643,"மதுரை மீனாட்சி அம்மன் கோவிலை செயற்கைக்கோள் மூலம் கண்காணித்த போது, பல அறிவியல் அற்புதங்கள் அங்கு மறைந்திருந்ததை, கண்டறிந்தனர், ‘நாசா’ விஞ்ஞானிகள்.",false,0,ta,gpt-4-0125-zero-shot-100-threshold
+1228,الممثّل الشهير جاكي تشان يعتنق الإسلام.,partly true/misleading,0,ar,gpt-4-0125-zero-shot-100-threshold
+1872,"„მთავრობამ 2015 წელს, 2012 წელთან შედარებით, 350 მილიონით გაიზარდა საკუთარი ხარჯი“",mostly true,50,ka,gpt-4-0125-zero-shot-100-threshold
+3490,“La Argentina es el país más cerrado del planeta”,true,20,es,gpt-4-0125-zero-shot-100-threshold
+3079,Hanya dengan Goodbener Anies-Sandi dibuat Jakarta jadi super keren,false,50,id,gpt-4-0125-zero-shot-100-threshold
+297,"Gaziantep’te 200 bin Suriyeli var. 34, 35 bini kamplarda kalıyor geri kalanı şehirde dolaşıyor. Gaziantep’in kabul edebileceği sınır aşılmıştır.",true,50,tr,gpt-4-0125-zero-shot-100-threshold
+38,Beppe Grillo e l’età per entrare in parlamento,true,50,it,gpt-4-0125-zero-shot-100-threshold
+1877,ბოლო თვეებში სექსუალური უმცირესობის წარმომადგენელი ასეულობით ირანელი ჩამოვიდა. ისინი საიმედო თავშესა...,false,50,ka,gpt-4-0125-zero-shot-100-threshold
+2544,"Halk sağlığı laboratuvarımızda, Ankara’daki Hıfzıssıha Halk Sağlığı Laboratuvarımızda, merkezimizde aşı üretimi 1998 yılında Sayın Bülent Ecevit hükümeti döneminde tamamen durdurulmuştu.",mostly false,50,tr,gpt-4-0125-zero-shot-100-threshold
+2306,மஞ்சள் வாழைப்பழத்தில் ரசாயனத்தை கலந்து செவ்வாழை என விற்பனை செய்யப்படுகிறது. மக்கள் அனைவரையும் ஏமாற்றி வருகிறார்கள். உணவு பண்டத்தில் கலப்படம்.,false,50,ta,gpt-4-0125-zero-shot-100-threshold
+409,Em nenhum momento o nosso partido [PRTB] teve alguma acusação [na Lava Jato],false,50,pt,gpt-4-0125-zero-shot-100-threshold
+300,"Wiemy dzisiaj, że ćwierć miliona emerytów dostaje emeryturę poniżej 1000 zł, w tym przede wszystkim kobiety, które składkowo nie uzbierały sobie tej emerytury.",true,75,pl,gpt-4-0125-zero-shot-100-threshold
+2202,O sistema [político] que a gente vai tentar colocar na emenda constitucional que vai ser votada é o distrital misto (...) a lista [de candidatos] traz vantagens,partly true/misleading,50,pt,gpt-4-0125-zero-shot-100-threshold
+873,"(...) [Passamos] para mais de 300, 320 [cursos de medicina atualmente]",true,85,pt,gpt-4-0125-zero-shot-100-threshold
+2072,სოფლის მეურნეობის პროგრამაში მეწარმეების მიერ ინვენტარზე ფასის ხელოვნურად მატების სახით ფინანსური და...,true,50,ka,gpt-4-0125-zero-shot-100-threshold
+3298,"ქადაგიძემ მსოფლიო ბანკს 2 წლით ადრე დაუბრუნა ვალი - 400 მილიონი დოლარი, ეს ეჭვებს აჩენს...",false,50,ka,gpt-4-0125-zero-shot-100-threshold
+542,مصليات بلباس غير محتشم في آيا صوفيا، بعد قرار تحويله من متحف إلى مسجد.,partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+1429,"«80.000 richieste [di regolarizzazione], 88 per cento non riguardano l’agricoltura»",mostly true,85,it,gpt-4-0125-zero-shot-100-threshold
+281,"Patryk Jaki: (…) Kiedy, w jakich latach i za czyich rządów wzrosła w Polsce najwięcej wykrywalność korupcji? Michał Wójcik: Oczywiście nie było to za rządów nikogo innego niż pana ministra Zbigniewa Ziobry, kiedy był ministrem Jarosława Kaczyńskiego, gdy był premierem.",complicated/hard to categorise,50,pl,gpt-4-0125-zero-shot-100-threshold
+1000,"Em março deste ano, foram registradas 344 vítimas de homicídio doloso, uma redução de 32% em relação a março de 2018",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1513,A previdência era superavitária no meu governo,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+1167,கேரளாவில் பொன்னானி என்ற ஊரில் கடல் இரண்டாகப் பிளந்து உள்ளது. இந்த அதிசயத்தைக் காணுங்கள்.,false,50,ta,gpt-4-0125-zero-shot-100-threshold
+646,صورة تُظهر إسماعيل هنية وهو يُقبّل يد جندي إسرائيلي.,partly true/misleading,0,ar,gpt-4-0125-zero-shot-100-threshold
+3394,सोनिया गांधी का पैर छूते हुए मनमोहन सिंह की एक तस्वीर.,false,50,hi,gpt-4-0125-zero-shot-100-threshold
+2225,Die Polizei in NRW ist pleite.,false,50,de,gpt-4-0125-zero-shot-100-threshold
+2881,O presidente de 65 anos curado da Covid-19 com a cloroquina!,false,0,pt,gpt-4-0125-zero-shot-100-threshold
+1239,"Geçen 2 yılda ekonomi %6,5 oranında küçüldü.",mostly true,50,tr,gpt-4-0125-zero-shot-100-threshold
+2505,Selebaran DPO Provokator Kerusuhan Veronica Koman oleh Polda Metro Jaya,false,50,id,gpt-4-0125-zero-shot-100-threshold
+2678,Video von Ausschreitungen stammt aus Lager Moria auf Lesbos,mostly false,50,de,gpt-4-0125-zero-shot-100-threshold
+2166,"4. Implantar CERs (Coordenações de Atendimento Regional) ao lado dos hospitais Rocha Faria, Salgado Filho e Albert Schweitzer até o final de 2017",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+32,"فيديو يصوّر مظاهرة ""طيّارة"" خرجت حديثاً قرب فندق الفورسيزنز في العاصمة السورية دمشق",partly true/misleading,50,ar,gpt-4-0125-zero-shot-100-threshold
+2735,"6. (...) aumentar em 20% o número de leitos nos hospitais municipais até o final de 2018, visando reduzir o tempo de espera das demais cirurgias",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+2271,"კახა კალაძე ერთი წლის წინ დაპირდა მოსახლეობას, რომ უახლოეს მომავალში სოფელ თელათგორის  გაზიფიცირება ...",mostly true,50,ka,gpt-4-0125-zero-shot-100-threshold
+1226,"2002’de faiz harcamaları, vergi gelirlerimizin yüzde 86'sına karşılık geliyordu. Bir başka ifadeyle, topladığımız her 100 liralık verginin 86 lirasını faiz ödemesine ayırıyorduk. 2017 kesin rakamları itibarıyla bu oran yüzde 10'lar seviyesine geriledi.",true,85,tr,gpt-4-0125-zero-shot-100-threshold
+2717,"Od kilku lat bardzo intensywnie debatowaliśmy (nt. Zalewu Zemborzyckiego) z naukowcami, co zrobić(…). W roku ubiegłym (…) większość naukowców wypowiedziała się za zdjęciem tzw. namułu (…), w którym są zarodniki sinic”.",true,50,pl,gpt-4-0125-zero-shot-100-threshold
+424,"„...ჩვენ ვამბობთ, რომ ეკონომიკაში დღეს არის ცუდი მდგომარეობა, რომ ეკონომიკაში არის რეცესია...“",partly true/misleading,50,ka,gpt-4-0125-zero-shot-100-threshold
+550,[São] 32 milhões de brasileiros na informalidade,mostly true,85,pt,gpt-4-0125-zero-shot-100-threshold
+3599,“En los últimos 4 o 5 meses perdimos fácil 7 mil puestos de trabajo”,complicated/hard to categorise,50,es,gpt-4-0125-zero-shot-100-threshold
+472,Nós temos uma carga tributária alta porque nós temos o setor público mais caro do mundo (...),false,50,pt,gpt-4-0125-zero-shot-100-threshold
+438,Os Democratas mandaram fazer cédulas lá na China,false,0,pt,gpt-4-0125-zero-shot-100-threshold
+3040,"Vai vendo! Times Square, agora há pouco! A esquerdalha toda se coçando de raiva!",false,50,pt,gpt-4-0125-zero-shot-100-threshold
+3479,"“El 41,5% de los chicos de entre 5 y 17 años tienen obesidad”",partly true/misleading,50,es,gpt-4-0125-zero-shot-100-threshold
+3611,“Hace 3 años seguidos que cae la venta de medicamentos de recetas”,true,50,es,gpt-4-0125-zero-shot-100-threshold
+1115,"საწარმოს, რომელიც წელიწადში 65-70 ტონა ჩაის აწარმოებდა, 2013 წელს სახელმწიფომ მიწებზე ხელშეკრულებები...",false,50,ka,gpt-4-0125-zero-shot-100-threshold
+1154,"„Zaposleni u Direkciji za urbanizam i izgradnju grada, čiji se rad finansira iz budžeta lokalne samouprave, ponašaju se kao da su ‘van sistema’.“",true,50,sr,gpt-4-0125-zero-shot-100-threshold
+2477,2013 წლიდან დღემდე 300-მდე ოჯახს ბინა საკუთრებაში გადაეცა,mostly true,50,ka,gpt-4-0125-zero-shot-100-threshold
+862,Sri Mulyani Tantang Pembenci Jokowi,false,50,id,gpt-4-0125-zero-shot-100-threshold
+2939,Mi poljoprivredne i prehrambene proizvode izvezemo devet puta više u EU nego u Rusiju.,mostly true,85,sr,gpt-4-0125-zero-shot-100-threshold
+1404,Depois de 95 (...) veio essa proposta generosíssima dos 100%,false,50,pt,gpt-4-0125-zero-shot-100-threshold
+833,"„Gândiţi-vă că de la 1 ianuarie 2017 au fost angajaţi în sistemul public peste 60.000 de angajaţi noi, mă refer la guvernările PSD (...)” [...]",true,50,ro,gpt-4-0125-zero-shot-100-threshold
+2815,Agora até fita sem perícia vale,partly true/misleading,50,pt,gpt-4-0125-zero-shot-100-threshold
+2597,"Ontem à noite, no programa de comentário político semanal que protago......",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1081,(EDUKASI) 7 Tipe Informasi Hoax,other,50,id,gpt-4-0125-zero-shot-100-threshold
+2070,"რეგლამენტის თანახმად, მერის მოადგილე ვალდებული იყო საკრებულოს ფრაქციის სხდომაზე მოსვლის, მაგრამ ის ა...",true,50,ka,gpt-4-0125-zero-shot-100-threshold
+3436,"கர்நாடகாவில் மரணமடைந்த ஒரு #பிச்சைக்காரரின் பையில் இருந்த தொகை அங்கேயே காவல்துறையினரால் எண்ணிக் கணக்கிடப்பட்டது. அதிகம் ஒன்றுமில்லை…..#ரூ. ஒரு கோடியே எண்பத்தாறு லட்சத்து நாற்பத்தி மூவாயிரத்து முன்னூற்று அறுபத்து நான்கு மட்டும்.(ரூ1,86,43,364/-)!!!",false,50,ta,gpt-4-0125-zero-shot-100-threshold
+1028,HOAX: Video Simulasi Hacking Manipulasi Suara Pilgub DKI 2017,other,50,id,gpt-4-0125-zero-shot-100-threshold
+208,Bayern zahlt keine Sofort-Hilfe für Unternehmen bis 10 Mitarbeiter – Enttäuschung für viele Unternehmen,partly true/misleading,50,de,gpt-4-0125-zero-shot-100-threshold
+378,Willkommen im Schlaraffenland!,false,50,de,gpt-4-0125-zero-shot-100-threshold
+2598,عندما يفترش العرب السجاد الاحمر ليسيروا عليه،كان جيفارا يفترش علم اسرائيل لتطأه قدماه,false,0,ar,gpt-4-0125-zero-shot-100-threshold
+3347,மாத்திரை போல் உள்ள துணி. பெற்றோர்கள் கவனத்திற்கு குழந்தைகள் மாத்திரை சாப்பிடும் முன் அது மாத்திரையா இல்லையா என்று கவனிங்கள். மருத்துவர் பரிந்துரை செய்த பிறகு சாப்பிடவும் எச்சரிக்கை எதிலும் ?,true,50,ta,gpt-4-0125-zero-shot-100-threshold
+1133,Por que o Brasil foi o último país do mundo a abolir a escravidão?,false,85,pt,gpt-4-0125-zero-shot-100-threshold
+180,"„უკვე ვასრულებთ ქალაქის გზების მოწესრიგებას, ეს პრობლემა თითქმის მთლიანად გადავწყვიტეთ...“",false,50,ka,gpt-4-0125-zero-shot-100-threshold
+14,وكالة ناسا للفضاء تقول أن الشمس اقتربت من أن تشرق من الغرب.,false,0,ar,gpt-4-0125-zero-shot-100-threshold
+1366,Video zeigt leeres Krankenhaus für Covid-19-Patienten in Brasilien,false,50,de,gpt-4-0125-zero-shot-100-threshold
+3158,Davvero in Italia c'è il record di parlamentari eletti dai cittadini?,true,50,it,gpt-4-0125-zero-shot-100-threshold
+535,Türkiye’de nüfusun %99’unun internete erişimi var.,mostly false,45,tr,gpt-4-0125-zero-shot-100-threshold
+2609,L’Italia ha davvero un divario di genere «tra i più gravi» al mondo?,partly true/misleading,50,it,gpt-4-0125-zero-shot-100-threshold
+1072,A minha proposta é que o vale-transporte passe a ter validade por três horas e seja acoplado ao metrô.,true,50,pt,gpt-4-0125-zero-shot-100-threshold
+3443,"„În ceea ce privește sănătatea, (...) pe hârtie Bucureștiul stă foarte bine, cu 50 de spitale din care 19 în subordinea primăriei, cu un num [...]",true,85,ro,gpt-4-0125-zero-shot-100-threshold
+3036,"Em entrevista à TVI, António Costa afirmou que o PS não apresentará n......",true,50,pt,gpt-4-0125-zero-shot-100-threshold
+1809,„Evropska komisija zahteva da Pravosudna akademija bude jedini ulaz na pravosudnu funkciju.“,false,50,sr,gpt-4-0125-zero-shot-100-threshold
+2259,केंद्र सरकार बिहार के जमालपुर में बने रेलवे प्रशिक्षण संस्थान को IRIMEE को लखनऊ स्थानांतरित करने जा रही है.,false,50,hi,gpt-4-0125-zero-shot-100-threshold
+2890,Bu yılın ilk 9 ayında havayollarında yolcu trafiği yüzde 18 arttı.,false,50,tr,gpt-4-0125-zero-shot-100-threshold
+1751,"Os países com melhor resultado no mundo - Coreia [do Sul], Taiwan (...) - não fizeram quarentena, não fecharam loja",mostly true,20,pt,gpt-4-0125-zero-shot-100-threshold
+2297,Não defendi em redes sociais [os policiais do Espírito Santo que fizeram paralisação em 2017],false,50,pt,gpt-4-0125-zero-shot-100-threshold
+39,"Dincolo de Ministerul Sănătății, care ne spune cine ar fi obligat să facă ce, am putea să ne uităm în urmă la câte campanii de vaccinare a f [...]",complicated/hard to categorise,50,ro,gpt-4-0125-zero-shot-100-threshold
+3434,"Em entrevista à RTP, o cabeça-de-lista da coligação Basta às eleições......",partly true/misleading,50,pt,gpt-4-0125-zero-shot-100-threshold
