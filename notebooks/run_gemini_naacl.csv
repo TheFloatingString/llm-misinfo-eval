@@ -1,0 +1,103 @@
+original_id,original_input,true_label,model_output,orignal_language,task
+0,"Augusto Santos Silva perguntou na Convenção Europeia do PS como é qu......	mostly true
+ta	youturn.in	Nov 16, 2017 — ... செய்தி. கனடா நாட்டின் 150வது சுதந்திர தினத்தை முன்னிட்டு முதல் முறையாக அந்நாட்டின் தேசியக் கீதத்தை தமிழ் மொழியில் பாடியுள்ளனர் . ... பேசப்படும் அனைத்து மொழிகளிலும் தேசியக் கீதத்தைப் பாடியுள்ளனர்.	கனடா அரசு 150-வது சுதந்திர தினத்தை முன்னிட்டு அந்நாட்டு தேசிய கீதத்தை ... ஈழத்தமிழர்கள் ஏராளமானோர் வசிக்கும் கனடா நாட்டில் தமிழ் மொழிக்கு ... கனடா தேசிய கீதத்தின் தமிழ் மொழி ஆக்கம் கவிஞர் கந்தவனம் ... தமிழகத்தில் நாளை மறுநாள் முதல் மீண்டும் கனமழைக்கு ...	Claim: Canada celebrated 150th Independence day on June 1, 2019	Aug 13, 2017 — அந்நாட்டு தேசிய கீதத்தை தமிழில் வெளியிட்டு கவுரவம்! World ... ஒட்டவா: கனடா நாட்டின் 150வது சுதந்திர தினத்தை முன்னிட்டு அந்நாட்டு தேசிய ... இதற்காக தமிழ் மொழி உட்பட மொத்தம் 12 மொழிகளில் கனடா ... பீகாரில் அதிக இடங்களில் முன்னிலை வகித்து முதல் முறையாக ...	Jun 3, 2017 — இந்த சூழலில் கனடா நாட்டின் 150வது சுதந்திர தினம், வரும் ... 12 மொழிகளில் அந்நாட்டின் தேசிய கீதம் வெளியிடப்பட்டுள்ளன.	https://youturn.in/factcheck/canada-national-anthem-tamil.html	http://www.puthiyathalaimurai.com/newsview/6225/Canada-s-national-song-released-in-tamil	https://tamil.factcrescendo.com/factcheck-canada-celebrated-150th-independence-day-on-june-1-2019/	https://tamil.oneindia.com/news/international/canada-national-anthem-has-been-released-tamil-284874.html	https://tamil.samayam.com/latest-news/international-news/canada-made-their-national-anthem-in-to-tamil/articleshow/58973603.cms	none	2017-11-16T00:00:00Z	Social media users	கனடா நாட்டின் 150வது சுதந்திர தினத்தை முன்னிட்டு முதல் முறையாக அந்நாட்டின் தேசியக் கீதத்தை தமிழ் மொழியில் பாடியுள்ளனர்	partly true/misleading
+pt	poligrafo.sapo.pt	Em publicação partilhada viralmente nas redes sociais destaca-se que a cafeína, por ser rica em antioxidantes e minerais"", é uma substância que impede...","Em publicação partilhada viralmente nas redes sociais destaca-se que a cafeína, por ser rica em “antioxidantes e minerais“, é uma substância que impede que ...",50,pt,gemini-zero-shot-100-threshold
+1,"Eles [do Instituto Butantan] pegam o adenovírus, pegam a proteína do coronavírus, e colocam nesse adenovírus",false,100,pt,gemini-zero-shot-100-threshold
+2,"Isto nunca tinha sido feito na História, escreveu o Presidente dos ......",false,0,pt,gemini-zero-shot-100-threshold
+3,"Cortou a suntuosa verba do Carnaval e outros eventos, passando a responsabilidade a ser dos próprios idealizadores",false,50,pt,gemini-zero-shot-100-threshold
+4,SERÁ VERDADE. OLHA A SAFADEZA PRA DIZER QUE O NÚMERO DE INFECTADO ESTA AUMENTANDO,false,50,pt,gemini-zero-shot-100-threshold
+5,Fui a primeira [entre os candidatos] a dialogar com eles [Transparência Internacional],true,50,pt,gemini-zero-shot-100-threshold
+6,مقطع فيديو يوثق اعتداء شبان على الشرطة المصرية، ولكن نشطاء الإخوان المسلمين استخدموه لتضليل الرأي العام، فهو لهجوم على آليات عسكرية تابعة للاحتلال الإسرائيلي في مدينة غزة.,partly true/misleading,0,ar,gemini-zero-shot-100-threshold
+7,Nunca aconteceram incidentes graves [durante missões GLO] que viessem a manchar essa atuação das Forças Armadas,partly true/misleading,70,pt,gemini-zero-shot-100-threshold
+8,"ტურიზმის საინფორმაციო ცენტრი ბიუჯეტის დიდ ნაწილს ხელფასებში, პრემიებსა და მივლინებებში ხარჯავს",mostly true,0,ka,gemini-zero-shot-100-threshold
+9,martineli என்ற பெயரில் ஒரு வீடியோ வாட்ஸ்அப்பில் வெளியிடப்படுகிறது. அதை ஓப்பன் செய்ய வேண்டாம் . ஒரு வேளை ஓப்பன் செய்தால் உங்கள் போனில் உள்ள தகவல்களை 10 வினாடியில் ஹக் செய்து விடும். எனவே உங்கள் நண்பர்களுக்கும் இந்த தகவலை ஷேர் செய்யுங்கள்.,false,10,ta,gemini-zero-shot-100-threshold
+10,"Resmi rakamlara göre, 2008'den bu yana toplam 45 trans kadın öldürülmüş. Bu veri Avrupa ülkeleri arasındaki en yüksek rakam.",true,80,tr,gemini-zero-shot-100-threshold
+11,Um vídeo que se tornou viral mostra um grupo de pessoas a atacar um v......,false,0,pt,gemini-zero-shot-100-threshold
+12,கீழடியில் ஹிந்து கடவுள்களான விநாயகர் மற்றும் சிவலிங்கம் கிடைத்து உள்ளதாக பேசும் ஹெச்.ராஜா. கீழடி பற்றிய உண்மை தெரிஞ்ச உடனே இந்து விரோத கூட்டம் கீழடி பற்றி பேச மாட்டாங்க பாருங்க….,false,10,ta,gemini-zero-shot-100-threshold
+13,زلزال ولاية ميلة في الجزائر يكشف عن مزرعة وآثار رومانية في باطن الأرض.,partly true/misleading,100,ar,gemini-zero-shot-100-threshold
+14,وكالة ناسا للفضاء تقول أن الشمس اقتربت من أن تشرق من الغرب.,false,0,ar,gemini-zero-shot-100-threshold
+15,Comentando uma reportagem da SIC sobre preconceito racial em Portugal......,true,0,pt,gemini-zero-shot-100-threshold
+16,“Eu sou o primeiro secretário no Brasil a criar uma ala LGBT dentro do presídio”,false,50,pt,gemini-zero-shot-100-threshold
+17,“Indonesia satu2nya negara didunia yang pemerintahnya bahagia merelakan rakyatnya jadi kelinci percobaan vaksin dari china”,partly true/misleading,50,id,gemini-zero-shot-100-threshold
+18,"15 ile 64 yaş arası Türkiye’de hayatında 1 kere uyuşturucu denemiş kişilerin oranı yüzde 2,7",true,40,tr,gemini-zero-shot-100-threshold
+19,"Dubai, espalha bandeira do Brasil pelo país",false,0,pt,gemini-zero-shot-100-threshold
+20,Pesta Homo Seksual di Italia Sebelum Covid-19 Mewabah,false,0,id,gemini-zero-shot-100-threshold
+21,Viral Video Kepala Tikus Di Mangkuk Mie ayam Di Solo,false,20,id,gemini-zero-shot-100-threshold
+22,"Geteilter Kettenbrief in Niedersachsen: Verbrecher geben vor, Rauchmelder prüfen zu wollen, um in Wohnung zu gelangen",true,100,de,gemini-zero-shot-100-threshold
+23,Quase 40% do nosso esgoto não é tratado,true,60,pt,gemini-zero-shot-100-threshold
+24,டான்சானியாவில் இருக்கும் ஏரியில் பறவைகள் கற்களாக மாறி வருகிறது.,partly true/misleading,0,ta,gemini-zero-shot-100-threshold
+25,லக்னோவில் இஸ்லாமியர்கள் இந்து என்ற காரணத்தால் தனது அண்ணன் முன்னே தங்கை சாந்திபிரியாவை கற்பழித்தனர். பிறகு இருவரின் மீது கொலை வெறி தாக்குதல் நடத்தி உள்ளனர்.,false,60,ta,gemini-zero-shot-100-threshold
+26,"உத்தரகாண்டில் ஆம் ஆத்மி கட்சி போட்டியிடவே இல்லை என அக்கட்சித் தலைவர்கள் தெரிவித்து உள்ளனர். ஆனாலும், டைம்ஸ் நவ் கருத்து கணிப்பில் 2.9% வாக்குகள் பெற்றதாக தெரிவித்து உள்ளது.",true,50,sr,gemini-zero-shot-100-threshold
+27,ტურისტების რიცხვმა 9 მილიონს გადააჭარბა,partly true/misleading,80,ka,gemini-zero-shot-100-threshold
+28,"Disse ao funcionário que um termômetro infravermelho nunca deve ser apontado para a testa de alguém, especialmente de bebês e crianças pequenas. [...] Como profissional da área médica, recuso-me a visar diretamente a glândula pineal, que está localizada diretamente no centro da testa, com um raio infravermelho. No entanto, a maioria das pessoas concorda em passar por isso várias vezes ao dia! Nossas glândulas pineais devem ser protegidas, pois é crucial para nossa saúde agora e no futuro",false,0,pt,gemini-zero-shot-100-threshold
+29,Duden listet „Inschallah“ neu als deutsches Wort,false,85,de,gemini-zero-shot-100-threshold
+30,عودة تقبيل يد الملك المغربي محمد السادس، بداية من 20 يوليو/تموز المقبل.,false,0,ar,gemini-zero-shot-100-threshold
+31,"„Imamo veću transparentnost zahvaljujući i MMF i Fiskalnom savetu i otvorenosti u radu javnih preduzeća, pa ako hoćete i zahvaljujući ovima na koje se ja često ljutim Šabiću i nesretnom Jankoviću.“",false,60,sr,gemini-zero-shot-100-threshold
+32,"فيديو يصوّر مظاهرة ""طيّارة"" خرجت حديثاً قرب فندق الفورسيزنز في العاصمة السورية دمشق",partly true/misleading,20,ar,gemini-zero-shot-100-threshold
+33,Clamor: 94% da sociedade brasileira quer intervenção militar,false,20,pt,gemini-zero-shot-100-threshold
+34,Politikus PKS Netty Prasetiyani Meninggal Dunia,false,20,id,gemini-zero-shot-100-threshold
+35,"Numa publicação no Twitter garante-se que são pagos valores ""altament......",false,0,pt,gemini-zero-shot-100-threshold
+36,Evident ca ma bucur si sunt mandru ca am finalizat si deschis Autostrada Sibiu - Deva ( chiar daca o mica portiune a avut nevoie ulterior de remedii - [...],false,85,ro,gemini-zero-shot-100-threshold
+37,"[Eduardo Paes] pegou o ISS das empresas de ônibus e baixou para 0,01%",true,25,pt,gemini-zero-shot-100-threshold
+38,Beppe Grillo e l’età per entrare in parlamento,true,0,it,gemini-zero-shot-100-threshold
+39,"Dincolo de Ministerul Sănătății, care ne spune cine ar fi obligat să facă ce, am putea să ne uităm în urmă la câte campanii de vaccinare a f [...]",complicated/hard to categorise,80,ro,gemini-zero-shot-100-threshold
+40,"Defender fechamento do Congresso Nacional. Já imaginou se não tivesse Congresso Nacional, com as maluquices que o presidente faz? (...) Seria a ditadura completa",partly true/misleading,35,pt,gemini-zero-shot-100-threshold
+41,"Czeski Trybunał Administracyjny stwierdził, że odłożenie wyborów, bo tam odłożono wybory uzupełniające do Senatu, że to odłożenie było bezprawne.",true,50,pl,gemini-zero-shot-100-threshold
+42,"Türkiye üzüm üretiminde dünyada altıncı, çekirdeksiz kuru üzüm üretiminde ise birinci sıradadır.",true,100,tr,gemini-zero-shot-100-threshold
+43,50 ألف دولار، تستطيع ان تحصل عليهم لو قبلت السكن لمده ٣٠ يوماً متواصلة وحدك في هذا القصر.,false,0,ar,gemini-zero-shot-100-threshold
+44,أعمال شغب في الشوارع الأميركية، بعد انهيار الاقتصاد الأميركي جراء جائحة كورونا,false,50,ar,gemini-zero-shot-100-threshold
+45,"É isso aí Messi, sempre fui teu fã e não é a toa",false,100,pt,gemini-zero-shot-100-threshold
+46,"Prezydent Trump i każdy inny prezydent USA nie może powiedzieć o zniesieniu wiz, bo to nie jego decyzja, a decyzja Kongresu.",true,80,pl,gemini-zero-shot-100-threshold
+47,Seorang Syekh Palestina yang Sedang Ibadah di Masjidil Aqsa Ditembak Oleh Zionis Israel,partly true/misleading,0,id,gemini-zero-shot-100-threshold
+48,3 milhões de pessoas utilizam a CPTM diariamente,true,40,pt,gemini-zero-shot-100-threshold
+49,படத்தில் புரட்சி தலைவரிடம் செங்கோலை புரட்சித்தலைவி கொடுக்க புரட்சித்தலைவர் இன்னொருவரை கூப்பிட்டு பிடிக்க சொல்கிறார் அவர்தான் இன்றைய தமிழக முதல்வர்அண்ணன் எடப்பாடியார்…,false,0,ta,gemini-zero-shot-100-threshold
+50,O custo da viagem é calculado com base no tempo de uso do patinete elétrico,true,80,pt,gemini-zero-shot-100-threshold
+51,Pesan Berantai Biaya Tilang Baru,false,60,id,gemini-zero-shot-100-threshold
+52,"Publicação disseminada no Facebook garante que Dejan Lovren, defesa d......",true,0,pt,gemini-zero-shot-100-threshold
+53,"ბიუჯეტში შეტანილი ცვლილებით, ბათუმში ესტაკადის, სტადიონის, სპორტსკოლის მშენებლობის და გაზიფიცირების ...",complicated/hard to categorise,50,ka,gemini-zero-shot-100-threshold
+54,"Bana verilen rakamlar yanlış değilse, Avrupa’da asgari ücret 200 Euro.",false,65,tr,gemini-zero-shot-100-threshold
+55,Foto Panwaslu Malaysia Yaza Azzahra Berpose Dua Jari Bersama Relawan 02,false,50,id,gemini-zero-shot-100-threshold
+56,"„ევროკავშირის ახალმა წევრმა ქვეყნებმა: პოლონეთმა, უნგრეთმა, რუმინეთმა, ჩეხეთმა დააწესეს სხვადასხვა ტ...",mostly false,0,ka,gemini-zero-shot-100-threshold
+57,Logo HUT Kemerdekaan RI ke-75 Mengandung Simbol Seperti Tanda Salib,partly true/misleading,0,id,gemini-zero-shot-100-threshold
+58,"Takie dowody są niemożliwe, bo mamy dowody, że Globalne Ocieplenie nie raz występowało (Jura, Kreda, r.900 -1100…) i się samorzutnie cofało. Przyrost temperatury między 1600 (Baltyk zamarzał!) a 1800 był znacznie większy nic w latach 1800-2000 .",false,20,pl,gemini-zero-shot-100-threshold
+59,"Kakva Srebrenica, kakav genocid?",false,0,sr,gemini-zero-shot-100-threshold
+60,Cacau show salva a Páscoa doando 5000 ovos de páscoa de graça só fazer um cadastro,false,0,pt,gemini-zero-shot-100-threshold
+61,Alle Arbeitgeber müssen bis 31. Juli 2021 den Impfschutz ihrer Angestellten nachweisen,mostly false,0,de,gemini-zero-shot-100-threshold
+62,Tribunale del popolo o giuria popolare?,mostly true,50,it,gemini-zero-shot-100-threshold
+63,جزائريون يتظاهرون في نابولي ويعنفون الشرطة الإيطالية بعد إهانة شاب تونسي على يد شرطي إيطالي.,false,50,ar,gemini-zero-shot-100-threshold
+64,"საკრებულომ ბოლო სამი წლის განმავლობაში 41 მილიონი ლარი დახარჯა, აქედან 19 მილიონი დახარჯა ხელფასებზე",complicated/hard to categorise,100,ka,gemini-zero-shot-100-threshold
+65,مشاهد مأساوية لغرق ”جاردن سيتي“ أحد أحياء العاصمة السودانية الراقية، جراء فيضانات غير مسبوقة يشهدها لأول مرة السودان.,partly true/misleading,50,ar,gemini-zero-shot-100-threshold
+66,Gli occupati sono aumentati (o forse no?),partly true/misleading,50,it,gemini-zero-shot-100-threshold
+67,"„U Lebanu i Žitorađi ništa nismo imali. Ništa. Iz Lebana, da biste razumeli koliko sam zahvalan turskim investitorima i vama, u Lebanu smo izgubili polovinu stanovništva u proteklih 20 godina. Polovinu stanovništva smo izgubili. Sada, fabrika koja će da zaposli više od 300, 350 ljudi, a koju ćemo otvoriti za nekoliko dana u Lebanu, je spas za to malo mesto u Jablaničkom okrugu na jugu Srbije.“",false,50,sr,gemini-zero-shot-100-threshold
+68,“mengintimidasi ASN bawahannya”,false,100,id,gemini-zero-shot-100-threshold
+69,"BR-163: Lula, antes BR-163: Bolsonaro, depois",false,50,pt,gemini-zero-shot-100-threshold
+70,Website “www.smkn1sukabumi.simdikonline.id” PPDB SMKN 1 Kota Sukabumi,other,100,id,gemini-zero-shot-100-threshold
+71,"Mâine voi merge la serviciu. (...) Cred că o să ne retragem toți demisiile, ca să poată să fie funcțională activitatea ministerelor până câ [...]",partly true/misleading,50,ro,gemini-zero-shot-100-threshold
+72,,,0,ka,gemini-zero-shot-100-threshold
+73,பிரபாகரன் என் காலில் விழுந்தார் – சீமான். பிரபாகரனை எலியை விட சிறுமை படுத்திய பெருமை இவரையே சாரும் !,false,0,ta,gemini-zero-shot-100-threshold
+74,"„Am adus deja de patru ori mai multe fonduri europene față de guvernul precedent, dar vrem să aducem mai mult decât atât, pentru că românii ș [...]",false,60,ro,gemini-zero-shot-100-threshold
+75,Chi ha eletto più sindaci?,true,0,it,gemini-zero-shot-100-threshold
+76,PNS dan Guru Dilaporkan Terbanyak Sebar Hoaks di Medsos,true,70,id,gemini-zero-shot-100-threshold
+77,"Eine Frau soll in Chemnitz von mehreren Männern belästigt worden sein. Zwei ihr zu Hilfe eilende Männer wurden mit Messern schwerst verletzt. Es wird berichtet, dass nun auch der zweite seinen schweren Verletzungen erlegen ist.",false,50,de,gemini-zero-shot-100-threshold
+78,„შარშან ეკონომიკის ზრდა 3%-ზე მეტი იყო. ბოლო თვეებში ის ბევრად მაღალ მაჩვენებელზე გადავიდა: ოქტომბერ...,partly true/misleading,70,ka,gemini-zero-shot-100-threshold
+79,(BDP/ HDP’nin verdiği araştırma önergeleri ve kanun tekliflerine atfen) bölge sorunlarıyla ilgili olan yüzde 8,true,8,tr,gemini-zero-shot-100-threshold
+80,Italiani in Germania: nessuna circolare con minacce di espulsione,false,100,it,gemini-zero-shot-100-threshold
+81,"திருட்டு விசாவில் 2019 வருடம் அமெரிக்காவிற்கு சென்று, சிக்காகோ விமான நிலைய போலீஸ் அதிகாரிகளின் சோதனையின் போது திருட்டு விசா என்று கண்டுபிடிக்கப்பட்டு பின்பு கைது செய்யப்பட்டு உடனே திருப்பி இந்தியாவிற்கு விரட்டி விடப்பட்டார் YG மகேந்திரனின் மகள் மதுவந்தி என்பது எத்தனை பேருக்குத் தெரியும்?இந்த திருட்டு அமெரிக்க விசா தயாரித்த பின்னணியில் யார் யார் உள்ளார்கள் என்று ஏன் இது வரையில் எந்த ஊடகமும் கேள்வி கேட்கவில்லை? ஏன் காவல்துறையும் நடவடிக்கை எடுக்கவில்லை? இந்த பைத்தியத்தை பாதுகாப்பது யார்?",false,70,ta,gemini-zero-shot-100-threshold
+82,"„Din păcate, Guvernul liberal nu este deloc interesat de faptul că cel puţin 2 milioane de cetăţeni din populaţia României nu este înscrisă [...]",partly true/misleading,20,ro,gemini-zero-shot-100-threshold
+83,நாங்கள் ஆட்சிக்கு வந்தால் தொழில் நகரமாம் திருப்பூரில் புதிய துறைமுகம் கொண்டு வருமோம் – திமுக தலைவர் ஸ்டாலின் அறிவிப்பு.,false,0,ta,gemini-zero-shot-100-threshold
+84,சுர்ஜித் தந்தையை போல தானும் பணக்காரனாக வேண்டும் என்று மகளைக் கொன்ற அப்பா ? சுர்ஜித் தந்தைக்கு பணம் கொடுத்தது தவறான எடுத்துக்காட்டாக மாறி இன்று ஒரு சிறுமியின் உயிரை பழிவாங்கியுள்ளது . இனியாவது திருந்துவார்களா ?,false,50,ta,gemini-zero-shot-100-threshold
+85,Está a propagar-se um artigo nas redes sociais no qual se alega que a......,partly true/misleading,50,pt,gemini-zero-shot-100-threshold
+86,"„Cum să nu fie explicabilă degringolada din sistemul de învăţământ, atâta vreme cât în ultimii trei ani un mandat de ministru a durat în m [...]",true,60,ro,gemini-zero-shot-100-threshold
+87,Muitos presidentes da Câmara são reeleitos?,false,80,pt,gemini-zero-shot-100-threshold
+88,"«Il Parlamento europeo ha tre sedi: una a Bruxelles, una a Strasburgo e una in Lussemburgo. Questa assurdità costa ai contribuenti diverse decine di milioni di euro, spesso superando anche i 200 milioni all'anno, che equivale praticamente al 10% dell'intero bilancio del Parlamento»",partly true/misleading,80,it,gemini-zero-shot-100-threshold
+89,वायरल तस्वीर में दिख रही महिला दरोगा उसी क्षेत्र में तैनात हैं जहां उनके पिता रिक्शा चलाते हैं.,mostly false,50,hi,gemini-zero-shot-100-threshold
+90,"„Deci, în mod uzual - și asta nu numai la noi, și în țările cu democrații mai consolidate, mai rodate - marea majoritate a membrilor guvernulu [...]",partly true/misleading,50,ro,gemini-zero-shot-100-threshold
+91,Ultra Keto Slim lässt Fett schmelzen und ist eine Wunderpille gegen Übergewicht,false,0,de,gemini-zero-shot-100-threshold
+92,पीएम मोदी ने गुजरात के पाटन में रैली को संबोधित करते हुए दी गाली,false,0,hi,gemini-zero-shot-100-threshold
+93,"Her 4 işsizden biri üniversitelidir. Üniversite mezunu işsizlik oranı yüzde 12,1 olarak gerçekleşmiştir.",true,60,tr,gemini-zero-shot-100-threshold
+94,أردوغان يحذف سيرة كمال أتاتورك من المناهج الدراسية، ويستبدلها بالسيرة النبوية والتاريخ العثماني,false,50,ar,gemini-zero-shot-100-threshold
+95,"Prawie połowa Polaków uważa, że ceny alkoholu są niskie.",true,35,pl,gemini-zero-shot-100-threshold
+96,"2016 წელს ხმაურის გამო საპატრულო პოლიცია 6 534-ჯერ გამოიძახეს, თუმცა შედეგი არ დადგა, იმიტომ, რომ არ...",true,0,ka,gemini-zero-shot-100-threshold
+97,"Neden bu HES'lere karşı çıkıyorlar? HES'ler suyu tüketmiyor, temiz, yenilenebilir enerji.",partly true/misleading,50,tr,gemini-zero-shot-100-threshold
+98,«Il calcio è la terza industria del Paese»,false,70,it,gemini-zero-shot-100-threshold
+99,"(O Jacku Saryuszu-Wolskim jako kandydacie na przewodniczącego RE – przyp. Demagog): W sensie kierowania premierami czyli szefami rządów, musi również spełniać kryteria formalne.",false,50,pl,gemini-zero-shot-100-threshold
