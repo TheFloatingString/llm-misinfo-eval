@@ -6,6 +6,7 @@ import pandas as pd
 import tqdm
 import datetime
 import json
+import openai
 
 load_dotenv()
 
@@ -97,7 +98,7 @@ Only respond with the corresponding uppercase letter (A to G). Answer with a sin
     return prompt, answer
 
 
-def run_eval(ds_name, provider, model):
+def run_eval(ds_name, provider, model, jsonl_filepath):
     df = pd.read_csv(
         "data/x_fact_dataset/x-fact/zeroshot.tsv", delimiter="\t", on_bad_lines="skip"
     )
@@ -116,6 +117,16 @@ def run_eval(ds_name, provider, model):
 
         prompt, answer = generate_prompt_and_answer_for_x_fact(claim, answer)
 
+        letter_to_label = {
+            "A": "true",
+            "B": "mostly true",
+            "C": "partly true/misleading",
+            "D": "complicated/hard to categorise",
+            "E": "other",
+            "F": "mostly true",
+            "G": "false",
+        }
+        
         if provider == "together":
             client = together.Together(api_key=os.getenv("TOGETHER_API_KEY"))
             completion = client.chat.completions.create(
@@ -128,41 +139,42 @@ def run_eval(ds_name, provider, model):
                 ],
             )
 
-            letter_to_label = {
-                "A": "true",
-                "B": "mostly true",
-                "C": "partly true/misleading",
-                "D": "complicated/hard to categorise",
-                "E": "other",
-                "F": "mostly true",
-                "G": "false",
-            }
-
             pred = completion.choices[0].message.content
 
-            # print("---")
-            # print(pred, answer)
-            try:
-                pred = pred.split("</think>")[-1].strip()
-                # print(pred)
+        elif provider == "openai":
+            client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+            response = client.responses.create(
+                model=model,
+                input=prompt
+            )
+            print(response.output_text)
+            pred = response.output_text
 
-                new_data = {
-                    "dataset": "x-fact-zeroshot.tsv",
-                    "idx_after_dropna": IDX,
-                    "raw_pred": pred,
-                    "pred": letter_to_label[pred.strip()],
-                    "ground_truth": "sample",
-                    "time": str(datetime.datetime.now()),
-                    "score": score(letter_to_label[pred.strip()], answer),
-                    "model": model,
-                    "provider": provider,
-                }
-                # print(score(letter_to_label[pred.strip()], answer))
-                sum_ += score(letter_to_label[pred.strip()], answer)
-                with open("data.jsonl", "a", encoding="utf-8") as f:
-                    f.write(json.dumps(new_data) + "\n")
-            except:
-                print(f"error at {IDX}")
+
+        # print("---")
+        # print(pred, answer)
+        try:
+            pred = pred.split("</think>")[-1].strip()
+            # print(pred)
+
+            new_data = {
+                "dataset": "x-fact-zeroshot.tsv",
+                "idx_after_dropna": IDX,
+                "raw_pred": pred,
+                "pred": letter_to_label[pred.strip()],
+                "ground_truth": "sample",
+                "time": str(datetime.datetime.now()),
+                "score": score(letter_to_label[pred.strip()], answer),
+                "model": model,
+                "provider": provider,
+                "languge": df.iloc[IDX]["language"]
+            }
+            # print(score(letter_to_label[pred.strip()], answer))
+            sum_ += score(letter_to_label[pred.strip()], answer)
+            with open(jsonl_filepath, "a", encoding="utf-8") as f:
+                f.write(json.dumps(new_data) + "\n")
+        except:
+            print(f"error at {IDX}: {pred}")
 
     print(sum_ / (IDX + 1))
 
@@ -172,9 +184,10 @@ if __name__ == "__main__":
     parser.add_argument("--ds")
     parser.add_argument("--prov")
     parser.add_argument("--model")
+    parser.add_argument("--jsonl-filepath")
     args = parser.parse_args()
     if args.ds not in ["x-fact", "mumin"]:
         raise ValueError("--ds must be either 'x-fact' or 'mumin'")
     print(args.ds)
     print(args.model)
-    run_eval(ds_name=args.ds, provider=args.prov, model=args.model)
+    run_eval(ds_name=args.ds, provider=args.prov, model=args.model, jsonl_filepath=args.jsonl_filepath)
