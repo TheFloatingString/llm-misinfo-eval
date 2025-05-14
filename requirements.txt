@@ -2,3 +2,5 @@ cohere
 tqdm
 pandas
 openai
+together
+python-dotenv
