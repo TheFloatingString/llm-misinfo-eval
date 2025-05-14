@@ -1,0 +1,2 @@
+{"dataset": "x-fact-zeroshot.tsv", "idx_after_dropna": 0, "raw_pred": "G", "pred": "false", "ground_truth": "sample", "time": "2025-05-14 05:01:25.595515", "score": 0.0, "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free", "provider": "together"}
+{"dataset": "x-fact-zeroshot.tsv", "idx_after_dropna": 1, "raw_pred": "G", "pred": "false", "ground_truth": "sample", "time": "2025-05-14 05:01:28.391229", "score": 0.25, "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free", "provider": "together"}

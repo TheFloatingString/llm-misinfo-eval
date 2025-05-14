@@ -3,6 +3,9 @@ import argparse
 from dotenv import load_dotenv
 import os
 import pandas as pd
+import tqdm
+import datetime
+import json
 
 load_dotenv()
 
@@ -104,45 +107,64 @@ def run_eval(ds_name, provider, model):
     print(df.shape)
     df = df.dropna(subset=["label"])
     print(df.shape)
+    sum_ = 0
 
-    IDX = 500
+    for IDX in tqdm.trange(df.shape[0]):
+        claim = df.iloc[IDX]["claim"]
+        # print(claim)
+        answer = df.iloc[IDX]["label"]
 
-    claim = df.iloc[IDX]["claim"]
-    print(claim)
-    answer = df.iloc[IDX]["label"]
+        prompt, answer = generate_prompt_and_answer_for_x_fact(claim, answer)
 
-    prompt, answer = generate_prompt_and_answer_for_x_fact(claim, answer)
+        if provider == "together":
+            client = together.Together(api_key=os.getenv("TOGETHER_API_KEY"))
+            completion = client.chat.completions.create(
+                model=model,
+                messages=[
+                    {
+                        "role": "user",
+                        "content": prompt,
+                    }
+                ],
+            )
 
-    if provider == "together":
-        client = together.Together(api_key=os.getenv("TOGETHER_API_KEY"))
-        completion = client.chat.completions.create(
-            model=model,
-            messages=[
-                {
-                    "role": "user",
-                    "content": prompt,
+            letter_to_label = {
+                "A": "true",
+                "B": "mostly true",
+                "C": "partly true/misleading",
+                "D": "complicated/hard to categorise",
+                "E": "other",
+                "F": "mostly true",
+                "G": "false",
+            }
+
+            pred = completion.choices[0].message.content
+
+            # print("---")
+            # print(pred, answer)
+            try:
+                pred = pred.split("</think>")[-1].strip()
+                # print(pred)
+
+                new_data = {
+                    "dataset": "x-fact-zeroshot.tsv",
+                    "idx_after_dropna": IDX,
+                    "raw_pred": pred,
+                    "pred": letter_to_label[pred.strip()],
+                    "ground_truth": "sample",
+                    "time": str(datetime.datetime.now()),
+                    "score": score(letter_to_label[pred.strip()], answer),
+                    "model": model,
+                    "provider": provider,
                 }
-            ],
-        )
+                # print(score(letter_to_label[pred.strip()], answer))
+                sum_ += score(letter_to_label[pred.strip()], answer)
+                with open("data.jsonl", "a", encoding="utf-8") as f:
+                    f.write(json.dumps(new_data) + "\n")
+            except:
+                print(f"error at {IDX}")
 
-        pred = completion.choices[0].message.content
-        print("---")
-        print(pred, answer)
-
-        pred = pred.split("</think>")[-1].strip()
-        print(pred)
-
-        letter_to_label = {
-            "A": "true",
-            "B": "mostly true",
-            "C": "partly true/misleading",
-            "D": "complicated/hard to categorise",
-            "E": "other",
-            "F": "mostly true",
-            "G": "false",
-        }
-
-        print(score(letter_to_label[pred.strip()], answer))
+    print(sum_ / (IDX + 1))
 
 
 if __name__ == "__main__":
