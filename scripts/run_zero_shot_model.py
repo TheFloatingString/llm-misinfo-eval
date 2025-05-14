@@ -7,6 +7,9 @@ import tqdm
 import datetime
 import json
 import openai
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
 
 load_dotenv()
 
@@ -97,8 +100,65 @@ G. false
 Only respond with the corresponding uppercase letter (A to G). Answer with a single letter, do not write anything else:"""
     return prompt, answer
 
+def run_single_eval(df, IDX, provider, model, jsonl_filepath):
+    claim = df.iloc[IDX]["claim"]
+    # print(claim)
+    answer = df.iloc[IDX]["label"]
 
-def run_eval(ds_name, provider, model, jsonl_filepath):
+    prompt, answer = generate_prompt_and_answer_for_x_fact(claim, answer)
+
+    letter_to_label = {
+        "A": "true",
+        "B": "mostly true",
+        "C": "partly true/misleading",
+        "D": "complicated/hard to categorise",
+        "E": "other",
+        "F": "mostly true",
+        "G": "false",
+    }
+
+    if provider == "together":
+        client = together.Together(api_key=os.getenv("TOGETHER_API_KEY"))
+        completion = client.chat.completions.create(
+            model=model,
+            messages=[
+                {
+                    "role": "user",
+                    "content": prompt,
+                }
+            ],
+        )
+
+        pred = completion.choices[0].message.content
+
+    elif provider == "openai":
+        client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        response = client.responses.create(model=model, input=prompt)
+        print(response.output_text)
+        pred = response.output_text
+
+    try:
+        pred = pred.split("</think>")[-1].strip()
+
+        new_data = {
+            "dataset": "x-fact-zeroshot.tsv",
+            "idx_after_dropna": IDX,
+            "raw_pred": pred,
+            "pred": letter_to_label[pred.strip()],
+            "ground_truth": "sample",
+            "time": str(datetime.datetime.now()),
+            "score": score(letter_to_label[pred.strip()], answer),
+            "model": model,
+            "provider": provider,
+            "languge": df.iloc[IDX]["language"],
+        }
+        with open(jsonl_filepath, "a", encoding="utf-8") as f:
+            f.write(json.dumps(new_data) + "\n")
+    except:
+        print(f"error at {IDX}: {pred}")
+
+
+def run_eval(ds_name, provider, model, jsonl_filepath, max_workers=10):
     df = pd.read_csv(
         "data/x_fact_dataset/x-fact/zeroshot.tsv", delimiter="\t", on_bad_lines="skip"
     )
@@ -111,72 +171,19 @@ def run_eval(ds_name, provider, model, jsonl_filepath):
     sum_ = 0
 
     for IDX in tqdm.trange(df.shape[0]):
-        claim = df.iloc[IDX]["claim"]
-        # print(claim)
-        answer = df.iloc[IDX]["label"]
-
-        prompt, answer = generate_prompt_and_answer_for_x_fact(claim, answer)
-
-        letter_to_label = {
-            "A": "true",
-            "B": "mostly true",
-            "C": "partly true/misleading",
-            "D": "complicated/hard to categorise",
-            "E": "other",
-            "F": "mostly true",
-            "G": "false",
-        }
         
-        if provider == "together":
-            client = together.Together(api_key=os.getenv("TOGETHER_API_KEY"))
-            completion = client.chat.completions.create(
-                model=model,
-                messages=[
-                    {
-                        "role": "user",
-                        "content": prompt,
-                    }
-                ],
-            )
+        run_single_eval
+    
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {executor.submit(run_single_eval, df, IDX, provider, model, jsonl_filepath): i for i in range(df.shape[0])}
+    
+        for future in tqdm.tqdm(as_completed(futures), total=len(futures), desc="Running evaluations"):
+            try:
+                result = future.result()
+                # results.append(result)
+            except Exception as e:
+                print(f"Error: {e}")
 
-            pred = completion.choices[0].message.content
-
-        elif provider == "openai":
-            client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-            response = client.responses.create(
-                model=model,
-                input=prompt
-            )
-            print(response.output_text)
-            pred = response.output_text
-
-
-        # print("---")
-        # print(pred, answer)
-        try:
-            pred = pred.split("</think>")[-1].strip()
-            # print(pred)
-
-            new_data = {
-                "dataset": "x-fact-zeroshot.tsv",
-                "idx_after_dropna": IDX,
-                "raw_pred": pred,
-                "pred": letter_to_label[pred.strip()],
-                "ground_truth": "sample",
-                "time": str(datetime.datetime.now()),
-                "score": score(letter_to_label[pred.strip()], answer),
-                "model": model,
-                "provider": provider,
-                "languge": df.iloc[IDX]["language"]
-            }
-            # print(score(letter_to_label[pred.strip()], answer))
-            sum_ += score(letter_to_label[pred.strip()], answer)
-            with open(jsonl_filepath, "a", encoding="utf-8") as f:
-                f.write(json.dumps(new_data) + "\n")
-        except:
-            print(f"error at {IDX}: {pred}")
-
-    print(sum_ / (IDX + 1))
 
 
 if __name__ == "__main__":
@@ -190,4 +197,9 @@ if __name__ == "__main__":
         raise ValueError("--ds must be either 'x-fact' or 'mumin'")
     print(args.ds)
     print(args.model)
-    run_eval(ds_name=args.ds, provider=args.prov, model=args.model, jsonl_filepath=args.jsonl_filepath)
+    run_eval(
+        ds_name=args.ds,
+        provider=args.prov,
+        model=args.model,
+        jsonl_filepath=args.jsonl_filepath,
+    )
