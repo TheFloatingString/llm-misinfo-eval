@@ -100,6 +100,7 @@ G. false
 Only respond with the corresponding uppercase letter (A to G). Answer with a single letter, do not write anything else:"""
     return prompt, answer
 
+
 def run_single_eval(df, IDX, provider, model, jsonl_filepath):
     claim = df.iloc[IDX]["claim"]
     # print(claim)
@@ -129,13 +130,13 @@ def run_single_eval(df, IDX, provider, model, jsonl_filepath):
             ],
         )
 
-        pred = completion.choices[0].message.content
-
+        pred = completion.choices[0].message.content.strip()
+        # print(pred)
     elif provider == "openai":
         client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         response = client.responses.create(model=model, input=prompt)
-        print(response.output_text)
-        pred = response.output_text
+        # print(response.output_text)
+        pred = response.output_text.strip()
 
     try:
         pred = pred.split("</think>")[-1].strip()
@@ -145,7 +146,7 @@ def run_single_eval(df, IDX, provider, model, jsonl_filepath):
             "idx_after_dropna": IDX,
             "raw_pred": pred,
             "pred": letter_to_label[pred.strip()],
-            "ground_truth": "sample",
+            "ground_truth": answer,
             "time": str(datetime.datetime.now()),
             "score": score(letter_to_label[pred.strip()], answer),
             "model": model,
@@ -154,11 +155,12 @@ def run_single_eval(df, IDX, provider, model, jsonl_filepath):
         }
         with open(jsonl_filepath, "a", encoding="utf-8") as f:
             f.write(json.dumps(new_data) + "\n")
+
     except:
-        print(f"error at {IDX}: {pred}")
+        print(f"error at {IDX}: `{pred}`")
 
 
-def run_eval(ds_name, provider, model, jsonl_filepath, max_workers=10):
+def run_eval(ds_name, provider, model, jsonl_filepath, max_workers=5):
     df = pd.read_csv(
         "data/x_fact_dataset/x-fact/zeroshot.tsv", delimiter="\t", on_bad_lines="skip"
     )
@@ -170,20 +172,28 @@ def run_eval(ds_name, provider, model, jsonl_filepath, max_workers=10):
     print(df.shape)
     sum_ = 0
 
+    """
     for IDX in tqdm.trange(df.shape[0]):
         
         run_single_eval
-    
+    """
+
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(run_single_eval, df, IDX, provider, model, jsonl_filepath): i for i in range(df.shape[0])}
-    
-        for future in tqdm.tqdm(as_completed(futures), total=len(futures), desc="Running evaluations"):
+        futures = {
+            executor.submit(
+                run_single_eval, df, IDX, provider, model, jsonl_filepath
+            ): IDX
+            for IDX in range(df.shape[0])
+        }
+
+        for future in tqdm.tqdm(
+            as_completed(futures), total=len(futures), desc="Running evaluations"
+        ):
             try:
                 result = future.result()
                 # results.append(result)
             except Exception as e:
                 print(f"Error: {e}")
-
 
 
 if __name__ == "__main__":
