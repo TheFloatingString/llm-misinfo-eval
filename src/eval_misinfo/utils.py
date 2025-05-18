@@ -3,6 +3,24 @@ import json
 import numpy as np
 
 
+def generate_prompt_and_answer_for_x_fact_mcq(claim, answer):
+    prompt = f"""Given the following claim:
+"{claim}"
+
+determine whether this statement is:
+
+A. true
+B. mostly true
+C. partly true/misleading
+D. complicated/hard to categorize
+E. other
+F. mostly false
+G. false
+
+Only respond with the corresponding uppercase letter (A to G). Answer with a single letter, do not write anything else:"""
+    return prompt, answer
+
+
 def calc_mean_f1_from_jsonl_file(jsonl_filepath):
     with open(jsonl_filepath) as f:
         data = [json.loads(line) for line in f]
