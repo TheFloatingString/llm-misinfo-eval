@@ -22,8 +22,7 @@ def number_to_label(number: int):
         return "complicated/hard to categorise"
 
 
-def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type,
-                    ds_name):
+def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type, ds_name):
     claim = df.iloc[IDX]["claim"]
     answer = df.iloc[IDX]["label"]
 
@@ -84,7 +83,7 @@ def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type,
             "score": score,
             "model": model,
             "provider": provider,
-            "languge": df.iloc[IDX]["language"],
+            "language": df.iloc[IDX]["language"],
             "prompt_type": prompt_type,
         }
         with open(jsonl_filepath, "a", encoding="utf-8") as f:
@@ -102,7 +101,7 @@ def run_eval(
     jsonl_filepath: str,
     ds_name: str,
     prompt_type: str,
-    max_workers: int = 5,
+    max_workers: int = 10,
 ):
     if ds_name == "x-fact-zero-shot":
         df = pd.read_csv(
@@ -111,7 +110,13 @@ def run_eval(
             on_bad_lines="skip",
         )
     elif ds_name == "x-fact-in-domain":
-        df = pd.read_csv("data/x_fact_dataset/x-fact/test.all.tsv", sep="\t", quotechar='"', engine="python", on_bad_lines="skip")
+        df = pd.read_csv(
+            "data/x_fact_dataset/x-fact/test.all.tsv",
+            sep="\t",
+            quotechar='"',
+            engine="python",
+            on_bad_lines="skip",
+        )
 
     else:
         raise ValueError(f"dataset name `{ds_name}`not recogized")
@@ -119,8 +124,14 @@ def run_eval(
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {
             executor.submit(
-                run_single_eval, df, IDX, provider, model, jsonl_filepath,
-                prompt_type, ds_name
+                run_single_eval,
+                df,
+                IDX,
+                provider,
+                model,
+                jsonl_filepath,
+                prompt_type,
+                ds_name,
             ): IDX
             for IDX in range(df.shape[0])
         }
