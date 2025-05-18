@@ -9,8 +9,10 @@ if __name__ == "__main__":
     parser.add_argument("--jsonl-filepath")
     parser.add_argument("--prompt-type")
     args = parser.parse_args()
-    if args.ds not in ["x-fact", "mumin"]:
-        raise ValueError("--ds must be either 'x-fact' or 'mumin'")
+    if args.ds not in ["x-fact-in-domain", "x-fact-zero-shot", "mumin"]:
+        raise ValueError(
+            "--ds must be either 'x-fact-in-domain', 'x-fact-zero-shot' or 'mumin'"
+        )
     print(args.ds)
     print(args.model)
     experiments.run_eval(
