@@ -21,6 +21,14 @@ Only respond with the corresponding uppercase letter (A to G). Answer with a sin
     return prompt, answer
 
 
+def generate_prompt_and_answer_for_x_fact_numerical(claim, answer):
+    prompt = f"""Rate the truthfulness of the following statement: "{claim}"
+  Provide a score from 0 to 100, where 0 represents definitively false and 100
+  represents definitvely true. Return the score and nothing else.
+"""
+    return prompt, answer
+
+
 def calc_mean_f1_from_jsonl_file(jsonl_filepath):
     with open(jsonl_filepath) as f:
         data = [json.loads(line) for line in f]

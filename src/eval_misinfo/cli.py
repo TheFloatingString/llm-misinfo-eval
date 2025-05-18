@@ -18,5 +18,5 @@ if __name__ == "__main__":
         model=args.model,
         jsonl_filepath=args.jsonl_filepath,
         prompt_type=args.prompt_type,
-        ds_name=args.ds
+        ds_name=args.ds,
     )
