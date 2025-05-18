@@ -7,6 +7,8 @@ import datetime
 import metrics
 
 
+data_list_to_export = []
+
 def number_to_label(number: int):
     if 0 <= number < 20:
         return "false"
@@ -22,8 +24,8 @@ def number_to_label(number: int):
         return "complicated/hard to categorise"
 
 
-def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type,
-                    ds_name):
+def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type, ds_name):
+    global data_list_to_export
     claim = df.iloc[IDX]["claim"]
     answer = df.iloc[IDX]["label"]
 
@@ -62,8 +64,13 @@ def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type,
 
     try:
         pred = pred.split("</think>")[-1].strip()
+        pred = pred.replace(".","")
         score = None
         if prompt_type == "numerical":
+            if pred.strip() == "1.":
+                pred = "1.0"
+            elif pred.strip() == "0.":
+                pred = "0.0"
             score = metrics.score(number_to_label(int(pred.strip())), answer)
             pred_for_json = number_to_label(int(pred.strip()))
         elif prompt_type == "mcq":
@@ -84,17 +91,25 @@ def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type,
             "score": score,
             "model": model,
             "provider": provider,
-            "languge": df.iloc[IDX]["language"],
+            "language": df.iloc[IDX]["language"],
             "prompt_type": prompt_type,
         }
+
+        data_list_to_export.append(new_data)
+
+        #'''
         with open(jsonl_filepath, "a", encoding="utf-8") as f:
             f.write(json.dumps(new_data) + "\n")
+        #'''
 
-    except KeyboardInterrupt:
+    except Exception:
+        #'''
         with open(jsonl_filepath, "a", encoding="utf-8") as f:
             f.write(json.dumps({"score": 0}) + "\n")
             print(f"error at {IDX}: `{pred}`")
-
+        #'''
+        data_list_to_export.append({"score":0})
+        print(f"error at {IDX}: `{pred}`")
 
 def run_eval(
     provider: str,
@@ -102,7 +117,7 @@ def run_eval(
     jsonl_filepath: str,
     ds_name: str,
     prompt_type: str,
-    max_workers: int = 5,
+    max_workers: int = 10,
 ):
     if ds_name == "x-fact-zero-shot":
         df = pd.read_csv(
@@ -111,7 +126,13 @@ def run_eval(
             on_bad_lines="skip",
         )
     elif ds_name == "x-fact-in-domain":
-        df = pd.read_csv("data/x_fact_dataset/x-fact/test.all.tsv", sep="\t", quotechar='"', engine="python", on_bad_lines="skip")
+        df = pd.read_csv(
+            "data/x_fact_dataset/x-fact/test.all.tsv",
+            sep="\t",
+            quotechar='"',
+            engine="python",
+            on_bad_lines="skip",
+        )
 
     else:
         raise ValueError(f"dataset name `{ds_name}`not recogized")
@@ -119,8 +140,14 @@ def run_eval(
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {
             executor.submit(
-                run_single_eval, df, IDX, provider, model, jsonl_filepath,
-                prompt_type, ds_name
+                run_single_eval,
+                df,
+                IDX,
+                provider,
+                model,
+                jsonl_filepath,
+                prompt_type,
+                ds_name,
             ): IDX
             for IDX in range(df.shape[0])
         }
@@ -131,5 +158,12 @@ def run_eval(
             try:
                 result = future.result()
                 # results.append(result)
-            except KeyboardInterrupt as e:
+            except Exception as e:
                 print(f"Error: {e}")
+
+    global data_list_to_export
+
+    '''
+    with open(jsonl_filepath, "a", encoding="utf-8") as f:
+        f.write(json.dumps(data_list_to_export) + "\n")
+    '''
