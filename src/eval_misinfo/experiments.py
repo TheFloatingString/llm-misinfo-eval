@@ -7,6 +7,8 @@ import datetime
 import metrics
 
 
+data_list_to_export = []
+
 def number_to_label(number: int):
     if 0 <= number < 20:
         return "false"
@@ -23,6 +25,7 @@ def number_to_label(number: int):
 
 
 def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type, ds_name):
+    global data_list_to_export
     claim = df.iloc[IDX]["claim"]
     answer = df.iloc[IDX]["label"]
 
@@ -61,8 +64,13 @@ def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type, ds_na
 
     try:
         pred = pred.split("</think>")[-1].strip()
+        pred = pred.replace(".","")
         score = None
         if prompt_type == "numerical":
+            if pred.strip() == "1.":
+                pred = "1.0"
+            elif pred.strip() == "0.":
+                pred = "0.0"
             score = metrics.score(number_to_label(int(pred.strip())), answer)
             pred_for_json = number_to_label(int(pred.strip()))
         elif prompt_type == "mcq":
@@ -86,14 +94,22 @@ def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type, ds_na
             "language": df.iloc[IDX]["language"],
             "prompt_type": prompt_type,
         }
+
+        data_list_to_export.append(new_data)
+
+        #'''
         with open(jsonl_filepath, "a", encoding="utf-8") as f:
             f.write(json.dumps(new_data) + "\n")
+        #'''
 
-    except KeyboardInterrupt:
+    except Exception:
+        #'''
         with open(jsonl_filepath, "a", encoding="utf-8") as f:
             f.write(json.dumps({"score": 0}) + "\n")
             print(f"error at {IDX}: `{pred}`")
-
+        #'''
+        data_list_to_export.append({"score":0})
+        print(f"error at {IDX}: `{pred}`")
 
 def run_eval(
     provider: str,
@@ -142,5 +158,12 @@ def run_eval(
             try:
                 result = future.result()
                 # results.append(result)
-            except KeyboardInterrupt as e:
+            except Exception as e:
                 print(f"Error: {e}")
+
+    global data_list_to_export
+
+    '''
+    with open(jsonl_filepath, "a", encoding="utf-8") as f:
+        f.write(json.dumps(data_list_to_export) + "\n")
+    '''

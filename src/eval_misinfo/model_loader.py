@@ -33,7 +33,7 @@ def call_together(model: str, prompt: str) -> str:
 def call_cohere(model: str, prompt: str) -> str:
     co = cohere.ClientV2(os.getenv("COHERE_API_KEY"))
     response = co.chat(model=model, messages=[{"role": "user", "content": prompt}])
-    return response
+    return response.message.content[0].text
 
 
 def call_gemini(model: str, prompt: str) -> str:

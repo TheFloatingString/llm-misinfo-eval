@@ -1,0 +1,2 @@
+uv run src/eval_misinfo/cli.py --ds x-fact-zero-shot --prov together --model meta-llama/Llama-3.3-70B-Instruct-Turbo --jsonl-filepath x-fact-zero-shot-together-llama-3.3-70b-mcq.jsonl --prompt-type mcq
+uv run src/eval_misinfo/cli.py --ds x-fact-zero-shot --prov together --model meta-llama/Llama-3.3-70B-Instruct-Turbo --jsonl-filepath x-fact-zero-shot-together-llama-3.3-70b-numerical.jsonl --prompt-type numerical
