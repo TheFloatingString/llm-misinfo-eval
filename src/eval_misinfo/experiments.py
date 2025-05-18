@@ -22,7 +22,8 @@ def number_to_label(number: int):
         return "complicated/hard to categorise"
 
 
-def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type):
+def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type,
+                    ds_name):
     claim = df.iloc[IDX]["claim"]
     answer = df.iloc[IDX]["label"]
 
@@ -61,7 +62,6 @@ def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type):
 
     try:
         pred = pred.split("</think>")[-1].strip()
-
         score = None
         if prompt_type == "numerical":
             score = metrics.score(number_to_label(int(pred.strip())), answer)
@@ -75,7 +75,7 @@ def run_single_eval(df, IDX, provider, model, jsonl_filepath, prompt_type):
             )
 
         new_data = {
-            "dataset": "x-fact-zeroshot.tsv",
+            "dataset": ds_name,
             "idx_after_dropna": IDX,
             "raw_pred": pred,
             "pred": pred_for_json,
@@ -104,19 +104,23 @@ def run_eval(
     prompt_type: str,
     max_workers: int = 5,
 ):
-    if ds_name == "x-fact":
+    if ds_name == "x-fact-zero-shot":
         df = pd.read_csv(
             "data/x_fact_dataset/x-fact/zeroshot.tsv",
             delimiter="\t",
             on_bad_lines="skip",
         )
+    elif ds_name == "x-fact-in-domain":
+        df = pd.read_csv("data/x_fact_dataset/x-fact/test.all.tsv", sep="\t", quotechar='"', engine="python", on_bad_lines="skip")
+
     else:
         raise ValueError(f"dataset name `{ds_name}`not recogized")
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {
             executor.submit(
-                run_single_eval, df, IDX, provider, model, jsonl_filepath, prompt_type
+                run_single_eval, df, IDX, provider, model, jsonl_filepath,
+                prompt_type, ds_name
             ): IDX
             for IDX in range(df.shape[0])
         }
