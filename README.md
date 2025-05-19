@@ -4,44 +4,36 @@ Repository for using LLMs to evaluate misinformation in non-English datasets.
 
 ### Setup
 
-In the root directory, run the following command to install dependencies. 
+This repository uses `uv` as a package manager:
 
 ```bash
-pip install -r requirements.txt
+pip install uv
+uv sync
 ```
 
-Please include the `.env` file in the project root folder (the same folder as the `requirements.txt` file)
-
-One example with OpenAI's o3-mini would be:
+Ensure that all the environment variables are defined, either directly in the terminal, or in a `.env` file at the project's root folder:
 
 ```bash
-python scripts/run_zero_shot_model.py --ds x-fact --prov openai --model o4-mini --jsonl-filepath o4-mini-reuslts.jsonl
+OPENAI_API_KEY="<KEY>"
+TOGETHER_API_KEY="<KEY>"
+GEMINI_API_KEY="<KEY>"
 ```
 
-One example with Together AI (which is preferable due to model speed and model offerings) using `meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo` would be:
+### Experiments
+
+Run the following for each experiment from the project root folder:
 
 ```bash
-python scripts/run_zero_shot_model.py --ds x-fact --prov together --model meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo --jsonl-filepath together-llama-3.1-8b-reuslts.jsonl
+source ./scripts/<name of .sh file to run>
 ```
 
-Please see the following link for models offered on Together AI:
+where each `.sh` shell file in `/scripts` contains the runtime arguments for an experiment of interest. 
 
-https://www.together.ai/models
+### Analysis
 
-The next step would then be to caclculate averages from the f1 scores in the jsonl after the run is complete. 
+Run the following from the project root folder:
 
-
-
-
-### Running Evaluations (2025 Update)
-
-```
-python scripts/run_zero_shot_model.py --
+```bash
+uv run src/eval_misinfo/analyze.py --jsonl-filepath "<.jsonl filepath to file that contains experiment outputs>"
 ```
 
-
-### Notebooks
-
-* `notebooks/load_dataset.ipynb`: Sample code to load the x-fact and mumin datasets
-* `notebooks/openai_example_code.ipynb`: Example OpenAI code
-* `notebooks/cohere_example_code.ipynb`: Example Cohere code
