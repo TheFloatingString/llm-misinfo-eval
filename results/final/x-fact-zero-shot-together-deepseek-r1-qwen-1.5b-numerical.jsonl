@@ -2973,3 +2973,353 @@
 {"score": 0}
 {"dataset": "x-fact-zero-shot", "idx_after_dropna": 2987, "raw_pred": "100", "pred": "true", "ground_truth": "mostly false", "time": "2025-05-18 18:26:16.439634", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
 {"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 2994, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:17.454299", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 2990, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:17.477583", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 2992, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:18.072702", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 2995, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "true", "time": "2025-05-18 18:26:18.073666", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3003, "raw_pred": "90", "pred": "true", "ground_truth": "mostly false", "time": "2025-05-18 18:26:18.112334", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3002, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:18.273346", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3001, "raw_pred": "30", "pred": "mostly false", "ground_truth": "false", "time": "2025-05-18 18:26:18.350846", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 2991, "raw_pred": "0", "pred": "false", "ground_truth": "true", "time": "2025-05-18 18:26:18.803930", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fr", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3019, "raw_pred": "0", "pred": "false", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:19.504521", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 2998, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "other", "time": "2025-05-18 18:26:19.527377", "score": 0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3021, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:19.906069", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3020, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:20.118350", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fr", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3016, "raw_pred": "0", "pred": "false", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:20.155848", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fr", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3028, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:20.340601", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3031, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:20.462079", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "mr", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3013, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:20.496249", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3030, "raw_pred": "90", "pred": "true", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:20.604802", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3023, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:20.895703", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3024, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:20.900917", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3027, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:20.963826", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3036, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "true", "time": "2025-05-18 18:26:21.684986", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3041, "raw_pred": "100", "pred": "true", "ground_truth": "true", "time": "2025-05-18 18:26:22.065719", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3039, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:22.067015", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3050, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:22.096635", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3037, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:22.137281", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3053, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:22.189011", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "nl", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3047, "raw_pred": "0", "pred": "false", "ground_truth": "true", "time": "2025-05-18 18:26:22.238476", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3040, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:22.289972", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3049, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:22.305172", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3052, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:22.677900", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3035, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:22.770970", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3058, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:22.837769", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3048, "raw_pred": "70", "pred": "mostly true", "ground_truth": "mostly true", "time": "2025-05-18 18:26:22.942884", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3045, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:22.969000", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3061, "raw_pred": "0", "pred": "false", "ground_truth": "true", "time": "2025-05-18 18:26:23.516255", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "nl", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3064, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "other", "time": "2025-05-18 18:26:23.628704", "score": 0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3073, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:23.690715", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3055, "raw_pred": "80", "pred": "true", "ground_truth": "false", "time": "2025-05-18 18:26:23.972999", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "mr", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3067, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:24.037158", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3077, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:24.083714", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3071, "raw_pred": "100", "pred": "true", "ground_truth": "false", "time": "2025-05-18 18:26:24.208142", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3075, "raw_pred": "75", "pred": "mostly true", "ground_truth": "other", "time": "2025-05-18 18:26:24.211190", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3081, "raw_pred": "0", "pred": "false", "ground_truth": "true", "time": "2025-05-18 18:26:24.240377", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3068, "raw_pred": "75", "pred": "mostly true", "ground_truth": "other", "time": "2025-05-18 18:26:24.273712", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "si", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3076, "raw_pred": "0", "pred": "false", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:24.301279", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3069, "raw_pred": "100", "pred": "true", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:24.723579", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "mr", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3084, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:25.066915", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3096, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "false", "time": "2025-05-18 18:26:25.698609", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3092, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:25.810567", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3101, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:25.930227", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3097, "raw_pred": "90", "pred": "true", "ground_truth": "mostly false", "time": "2025-05-18 18:26:25.964364", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3102, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:26.362135", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3089, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:26.466261", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3104, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:26.540710", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3100, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:26.858880", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3103, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:27.010462", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3106, "raw_pred": "100", "pred": "true", "ground_truth": "mostly false", "time": "2025-05-18 18:26:27.182286", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3107, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:27.185405", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3116, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:27.187757", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3127, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:27.819080", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3124, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:27.966212", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3123, "raw_pred": "0", "pred": "false", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:27.976567", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3125, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:28.366989", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3131, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:28.399652", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3129, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:28.723000", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3120, "raw_pred": "90", "pred": "true", "ground_truth": "false", "time": "2025-05-18 18:26:29.156032", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "pa", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3145, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:29.438775", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3115, "raw_pred": "100", "pred": "true", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:29.540455", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "gu", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3147, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:29.565361", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3148, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:29.782478", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3156, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:29.961214", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3142, "raw_pred": "80", "pred": "true", "ground_truth": "mostly false", "time": "2025-05-18 18:26:30.331881", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3146, "raw_pred": "0", "pred": "false", "ground_truth": "true", "time": "2025-05-18 18:26:30.337275", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3168, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:30.953712", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3160, "raw_pred": "0", "pred": "false", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:30.974893", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3154, "raw_pred": "70", "pred": "mostly true", "ground_truth": "false", "time": "2025-05-18 18:26:31.053424", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3157, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:31.074150", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fr", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3159, "raw_pred": "75", "pred": "mostly true", "ground_truth": "false", "time": "2025-05-18 18:26:31.246051", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3172, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:32.056626", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "mr", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3173, "raw_pred": "75", "pred": "mostly true", "ground_truth": "true", "time": "2025-05-18 18:26:32.175705", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3186, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:32.302466", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3169, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:32.366961", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "pa", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3175, "raw_pred": "80", "pred": "true", "ground_truth": "true", "time": "2025-05-18 18:26:32.448308", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3185, "raw_pred": "70", "pred": "mostly true", "ground_truth": "false", "time": "2025-05-18 18:26:32.694995", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3181, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:32.838941", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3149, "raw_pred": "70", "pred": "mostly true", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:33.140537", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3192, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:33.210328", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3189, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:33.332778", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3193, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:33.354319", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3198, "raw_pred": "00", "pred": "false", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:33.498558", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3200, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:33.820875", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3203, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:33.938552", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3201, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:33.939219", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3202, "raw_pred": "85", "pred": "true", "ground_truth": "false", "time": "2025-05-18 18:26:34.261948", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fr", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3216, "raw_pred": "0", "pred": "false", "ground_truth": "true", "time": "2025-05-18 18:26:34.305097", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3211, "raw_pred": "0", "pred": "false", "ground_truth": "true", "time": "2025-05-18 18:26:34.315045", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3210, "raw_pred": "100", "pred": "true", "ground_truth": "mostly false", "time": "2025-05-18 18:26:34.461796", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3208, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:34.482027", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3215, "raw_pred": "40", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:35.424725", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3217, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:35.791391", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3227, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:35.797017", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3221, "raw_pred": "70", "pred": "mostly true", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:35.922194", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3196, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:36.028640", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "pa", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3222, "raw_pred": "85", "pred": "true", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:36.273589", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "nl", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3234, "raw_pred": "85", "pred": "true", "ground_truth": "true", "time": "2025-05-18 18:26:36.582755", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3228, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:36.699609", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "gu", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3237, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:37.016506", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3242, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:37.305981", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3249, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:37.450569", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3246, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:37.793873", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3247, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "mostly false", "time": "2025-05-18 18:26:38.062704", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3250, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:38.085334", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3248, "raw_pred": "0", "pred": "false", "ground_truth": "true", "time": "2025-05-18 18:26:38.195710", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3258, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:38.326910", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fr", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3260, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:38.730134", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fr", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3262, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:38.964699", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "nl", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3257, "raw_pred": "75", "pred": "mostly true", "ground_truth": "false", "time": "2025-05-18 18:26:39.030998", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3263, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:39.035984", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3261, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:39.093741", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "mr", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3274, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:39.747101", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3265, "raw_pred": "70", "pred": "mostly true", "ground_truth": "mostly false", "time": "2025-05-18 18:26:40.159931", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3273, "raw_pred": "60", "pred": "mostly true", "ground_truth": "mostly false", "time": "2025-05-18 18:26:40.317188", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3287, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:40.343245", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3286, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:40.525798", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3283, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:40.633203", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "az", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3284, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:40.813502", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3271, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "false", "time": "2025-05-18 18:26:40.814359", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fr", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3300, "raw_pred": "0", "pred": "false", "ground_truth": "false", "time": "2025-05-18 18:26:41.353762", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fr", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3290, "raw_pred": "60", "pred": "mostly true", "ground_truth": "other", "time": "2025-05-18 18:26:41.419931", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3305, "raw_pred": "0", "pred": "false", "ground_truth": "mostly false", "time": "2025-05-18 18:26:41.899412", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3303, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:42.073675", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3294, "raw_pred": "0", "pred": "false", "ground_truth": "true", "time": "2025-05-18 18:26:42.114509", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fr", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3299, "raw_pred": "60", "pred": "mostly true", "ground_truth": "complicated/hard to categorise", "time": "2025-05-18 18:26:42.726645", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3312, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:43.045311", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "ru", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3310, "raw_pred": "85", "pred": "true", "ground_truth": "true", "time": "2025-05-18 18:26:43.242361", "score": 1.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3316, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "false", "time": "2025-05-18 18:26:43.341235", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3321, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:43.390761", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "bn", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3311, "raw_pred": "70", "pred": "mostly true", "ground_truth": "true", "time": "2025-05-18 18:26:43.418916", "score": 0.75, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3319, "raw_pred": "0", "pred": "false", "ground_truth": "mostly true", "time": "2025-05-18 18:26:43.685957", "score": 0.0, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3324, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:44.010630", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "no", "prompt_type": "numerical"}
+{"score": 0}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3318, "raw_pred": "50", "pred": "partly true/misleading", "ground_truth": "false", "time": "2025-05-18 18:26:44.493285", "score": 0.5, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "fa", "prompt_type": "numerical"}
+{"dataset": "x-fact-zero-shot", "idx_after_dropna": 3323, "raw_pred": "0", "pred": "false", "ground_truth": "partly true/misleading", "time": "2025-05-18 18:26:44.899053", "score": 0.25, "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "provider": "together", "language": "sq", "prompt_type": "numerical"}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
+{"score": 0}
